@@ -1,0 +1,859 @@
+vom,collector,species,sex,state,localityOG,longitude,latitude,elevation,FL,AnnPrec,PETseasonality,AnnualTmin,W,locality
+190,PEP6,parvidens,F,Veracruz,"Estación Biológica ""El Morro de la Mancha""",-96.385,19.60055556,25.66773987,38.5,1215,1714.302612,231.0833333,17.2,"Estación Biológica ""El Morro de la Mancha"""
+192,PEP11,parvidens,M,Veracruz,"Estación Biológica ""El Morro de la Mancha""",-96.385,19.60055556,25.66773987,40,1215,1714.302612,231.0833333,19.3,"Estación Biológica ""El Morro de la Mancha"""
+193,PEP05a,parvidens,F,Veracruz,"Estación Biológica ""El Morro de la Mancha""",-96.385,19.60055556,25.66773987,41.2,1215,1714.302612,231.0833333,19.3,"Estación Biológica ""El Morro de la Mancha"""
+194,PEP4,parvidens,F,Veracruz,"Estación Biológica ""El Morro de la Mancha""",-96.385,19.60055556,25.66773987,38.3,1215,1714.302612,231.0833333,20,"Estación Biológica ""El Morro de la Mancha"""
+203,PEP3,parvidens,F,Veracruz,"Estación Biológica ""El Morro de la Mancha""",-96.385,19.60055556,25.66773987,38.4,1215,1714.302612,231.0833333,20,"Estación Biológica ""El Morro de la Mancha"""
+244,98MG,hondurensis,M,Guerrero,Filo de los Caballos. 3 km NE El Puerto,-99.82527778,17.66333333,2070.330078,44.5,1389,1921.062256,106.6666667,22.3,Filo de los Caballos. 3 km NE El Puerto
+245,107MG,hondurensis,F,Guerrero,Filo de los Caballos. 3 km NE El Puerto,-99.82527778,17.66333333,2070.330078,42,1389,1921.062256,106.6666667,19.1,Filo de los Caballos. 3 km NE El Puerto
+246,99MG,hondurensis,F,Guerrero,Filo de los Caballos. 3 km NE El Puerto,-99.82527778,17.66333333,2070.330078,42,1389,1921.062256,106.6666667,22.9,Filo de los Caballos. 3 km NE El Puerto
+247,103MG,hondurensis,M,Guerrero,Filo de los Caballos. 3 km NE El Puerto,-99.82527778,17.66333333,2070.330078,43.5,1389,1921.062256,106.6666667,22.7,Filo de los Caballos. 3 km NE El Puerto
+293,MG,parvidens,M,Guerrero,Barranca del Tío Chico Reyes,-99.73333333,17.61666667,1737,40.8,921,2013.185181,131.5833333,19.2,Barranca del Tío Chico Reyes
+302,92MG,hondurensis,M,Guerrero,Filo de los Caballos. 3 km NE El Puerto,-99.82527778,17.66333333,2070.330078,43.6,1389,1921.062256,106.6666667,23.4,Filo de los Caballos. 3 km NE El Puerto
+304,89MG,hondurensis,M,Guerrero,Filo de los Caballos. 3 km NE El Puerto,-99.82527778,17.66333333,2070.330078,43.2,1389,1921.062256,106.6666667,24.9,Filo de los Caballos. 3 km NE El Puerto
+318,62MG,parvidens,F,Guerrero,Jalapa,-99.60833333,17.63083333,1703.005493,41.4,1027,2036.892944,136.5,21.5,Jalapa
+320,114MG,parvidens,F,Guerrero,Casa de Teja,-99.516668,17.616656,1394,39,815,2111.976074,154.25,18,Casa de Teja
+326,97MG,hondurensis,M,Guerrero,Filo de los Caballos. 3 km NE El Puerto,-99.82527778,17.66333333,2070.330078,42.5,1389,1921.062256,106.6666667,19.4,Filo de los Caballos. 3 km NE El Puerto
+327,67MG,hondurensis,M,Guerrero,Filo de los Caballos. 3 km NE El Puerto,-99.82527778,17.66333333,2070.330078,44.4,1389,1921.062256,106.6666667,19,Filo de los Caballos. 3 km NE El Puerto
+328,90MG,hondurensis,M,Guerrero,Filo de los Caballos. 3 km NE El Puerto,-99.82527778,17.66333333,2070.330078,41.6,1389,1921.062256,106.6666667,22.5,Filo de los Caballos. 3 km NE El Puerto
+330,93MG,hondurensis,M,Guerrero,Filo de los Caballos. 3 km NE El Puerto,-99.82527778,17.66333333,2070.330078,44.3,1389,1921.062256,106.6666667,22,Filo de los Caballos. 3 km NE El Puerto
+334,69MGa,hondurensis,F,Guerrero,Filo de los Caballos. 3 km NE El Puerto,-99.82527778,17.66333333,2070.330078,43.1,1389,1921.062256,106.6666667,21.3,Filo de los Caballos. 3 km NE El Puerto
+335,94MG,hondurensis,M,Guerrero,Filo de los Caballos. 3 km NE El Puerto,-99.82527778,17.66333333,2070.330078,42,1389,1921.062256,106.6666667,25.4,Filo de los Caballos. 3 km NE El Puerto
+346,MG35,hondurensis,F,Guerrero,Filo de los Caballos. 3 km NE El Puerto,-99.82527778,17.66333333,2070.330078,44.3,1389,1921.062256,106.6666667,NA,Filo de los Caballos. 3 km NE El Puerto
+347,MG8,parvidens,F,Guerrero,Frutillas,-99.61944444,17.53666667,1990,38.8,1051,1879.250244,116.0833333,15.1,Frutillas
+349,15MG,parvidens,F,Guerrero,Barranca del Tío Chico Reyes,-99.73333333,17.61666667,1737,41.42,921,2013.185181,131.5833333,18.1,Barranca del Tío Chico Reyes
+354,MGa,parvidens,M,Guerrero,Barranca del Tío Chico Reyes,-99.73333333,17.61666667,1737,40.2,921,2013.185181,131.5833333,19.5,Barranca del Tío Chico Reyes
+356,18MG,parvidens,M,Guerrero,Barranca del Tío Chico Reyes,-99.73333333,17.61666667,1737,40.2,921,2013.185181,131.5833333,18,Barranca del Tío Chico Reyes
+357,ASA,hondurensis,F,Guerrero,Barranca del Tío Chico Reyes,-99.73333333,17.61666667,1737,43.2,921,2013.185181,131.5833333,18.2,Barranca del Tío Chico Reyes
+358,7MG,parvidens,F,Guerrero,Frutillas,-99.61944444,17.53666667,1990,39.4,1051,1879.250244,116.0833333,23.8,Frutillas
+363,MG201,parvidens,M,Guerrero,Jolotichán,-98.78027778,16.78222222,279.9507446,39,1527,1677.569458,223.6666667,16.7,Jolotichán
+364,16MG,parvidens,M,Guerrero,Barranca del Tío Chico Reyes,-99.73333333,17.61666667,1737,41.3,921,2013.185181,131.5833333,19.2,Barranca del Tío Chico Reyes
+393,MG248,parvidens,M,Guerrero,"Jolotichán, 1 km W",-98.72,16.78027778,415.6338501,40.2,1467,1664.164063,212.6666667,18.5,"Jolotichán, 1 km W"
+401,258MG,parvidens,M,Guerrero,"Río Marquelia, orilla E",-98.74777778,16.81277778,270.4338379,39.2,1238,1734.241699,222.5833333,16.9,"Río Marquelia, orilla E"
+611,"503DNL, 039JCM",hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,42,1517,1632.381958,73.5,22.5,Puerto del Gallo
+612,"504DNL, 40JCM",hondurensis,M,Guerrero,"Puerto del Gallo, 1 km E Cerro Teotepec",-100.1641667,17.48444444,2450,42.5,1384,1623.821289,71.41666667,25.4,"Puerto del Gallo, 1 km E Cerro Teotepec"
+614,"501DNL, 036JCM",hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,43.2,1517,1632.381958,73.5,23.8,Puerto del Gallo
+708,4C.V.Q.FCVTUNAM,parvidens,M,Morelos,"Coatlán del Río, 1 km SW",-99.43388889,18.73972222,1004.125793,41.9,840,2456.218018,181.75,19,"Coatlán del Río, 1 km SW"
+709,3C.V.Q.FCVTUNAM,parvidens,F,Morelos,"Coatlán del Río, 1 km SW",-99.43388889,18.73972222,1004.125793,40.3,840,2456.218018,181.75,21,"Coatlán del Río, 1 km SW"
+747,279MQ,parvidens,F,Querétaro,"Ahuacatlán de Guadalupe, 1 km S",-99.54305556,21.20166667,1000,38.9,818,2462.049561,143.4166667,18,Ahuacatlán S
+748,282MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 1 km S",-99.54305556,21.20166667,1000,38.7,818,2462.049561,143.4166667,21,Ahuacatlán S
+749,0295MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 2 km S",-99.54305556,21.19388889,840,40.8,911,2419.228271,136.75,21,Ahuacatlán S
+750,0296MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 2 km S",-99.54305556,21.19388889,840,37.5,911,2419.228271,136.75,20,Ahuacatlán S
+751,280MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 1 km S",-99.54305556,21.20166667,1000,39.6,818,2462.049561,143.4166667,21,Ahuacatlán S
+752,281MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 1 km S",-99.54305556,21.20166667,1000,39.6,818,2462.049561,143.4166667,20,Ahuacatlán S
+755,22MQ,parvidens,F,Querétaro,Santa Inés,-99.12611111,21.1775,1314.00293,39.4,1527,2334.202637,139.25,19,Santa Inés
+756,0640MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,771.8669434,41.2,577,2633.810791,176.8333333,20,"Jalpan, 8 km N"
+757,687MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 2.8 km SW",-99.56888889,21.19916667,1000,39.6,772,2494.423828,149.3333333,18,Ahuacatlán SW
+758,0730MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 5.1 km SW",-99.59111111,21.19388889,1000,39.6,816,2474.109619,143.75,20,Ahuacatlán SW
+759,0418MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,771.8669434,40.2,577,2633.810791,176.8333333,19,"Jalpan, 8 km N"
+760,0725MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 2.8 km SW",-99.56888889,21.19916667,1000,39.6,772,2494.423828,149.3333333,20,Ahuacatlán SW
+761,0624MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,771.8669434,40,577,2633.810791,176.8333333,22,"Jalpan, 8 km N"
+762,0625MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,771.8669434,38.3,577,2633.810791,176.8333333,16,"Jalpan, 8 km N"
+763,0736MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 3.7 km SW",-99.58111111,21.19972222,1000,39.6,813,2468.009277,143.5833333,18,Ahuacatlán SW
+764,0907MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,38.4,577,2633.810791,176.8333333,16,"Jalpan, 8 km N"
+765,0992MQ,parvidens,F,Querétaro,"Ahuacatlán de Guadalupe, 2 km S",-99.54305556,21.19388889,840,39.5,911,2419.228271,136.75,19,Ahuacatlán S
+766,0964MQ,parvidens,F,Querétaro,"Ahuacatlán de Guadalupe, 2.8 km SW",-99.56888889,21.19916667,1000,37.9,772,2494.423828,149.3333333,22,Ahuacatlán SW
+767,0908MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,38.8,577,2633.810791,176.8333333,16,"Jalpan, 8 km N"
+768,0959MQ,parvidens,F,Querétaro,"Santa Inés, 2.8 km NW",-99.08333333,21.2,1103.836182,38.9,1693,2266.547119,133.5833333,18,"Santa Inés, 2.8 km NW"
+769,0906MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,39.6,577,2633.810791,176.8333333,19,"Jalpan, 8 km N"
+770,1006MQ,parvidens,F,Querétaro,"Ahuacatlán de Guadalupe, 2 km SW",-99.57416667,21.20166667,1000,39,822,2451.960449,143,20,Ahuacatlán SW
+771,1009MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 2 km SW",-99.57416667,21.20166667,1000,39.5,822,2451.960449,143,21,Ahuacatlán SW
+772,0887MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,39.9,577,2633.810791,176.8333333,18,"Jalpan, 8 km N"
+816,297MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 2 km S",-99.54305556,21.19388889,840,40.9,911,2419.228271,136.75,19,Ahuacatlán S
+817,241MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,40.7,577,2633.810791,176.8333333,16,"Jalpan, 8 km N"
+818,256MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,39,577,2633.810791,176.8333333,16,"Jalpan, 8 km N"
+819,243MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,38.6,577,2633.810791,176.8333333,19,"Jalpan, 8 km N"
+821,205MQ,parvidens,M,Querétaro,Santa Inés,-99.12611111,21.1775,1326.494263,37.6,1527,2334.202637,139.25,19,Santa Inés
+822,77MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 1 km S",-99.54305556,21.20166667,1000,40.3,818,2462.049561,143.4166667,22,Ahuacatlán S
+823,0889MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,40.4,577,2633.810791,176.8333333,19,"Jalpan, 8 km N"
+824,0865MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,40.8,577,2633.810791,176.8333333,14,"Jalpan, 8 km N"
+825,0411MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,38.9,577,2633.810791,176.8333333,15.8,"Jalpan, 8 km N"
+826,0412MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,39.7,577,2633.810791,176.8333333,19.4,"Jalpan, 8 km N"
+827,0866MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,40.8,577,2633.810791,176.8333333,22,"Jalpan, 8 km N"
+828,0410MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,40.5,577,2633.810791,176.8333333,20,"Jalpan, 8 km N"
+829,181MQ,parvidens,F,Querétaro,Camargo,-99.73333333,21.1,1710.312256,39,430,2374.874023,120.8333333,17,Camargo
+830,0689MQ,parvidens,F,Querétaro,"Ahuacatlán de Guadalupe, 2.8 km SW",-99.56888889,21.19916667,1000,38.5,772,2494.423828,149.3333333,20,Ahuacatlán SW
+831,0886MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,41.2,577,2633.810791,176.8333333,22,"Jalpan, 8 km N"
+832,0884MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,40.2,577,2633.810791,176.8333333,16,"Jalpan, 8 km N"
+833,0883MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,39.9,577,2633.810791,176.8333333,18,"Jalpan, 8 km N"
+834,0738MQ,parvidens,F,Querétaro,"Ahuacatlán de Guadalupe, 3.7 km SW",-99.58111111,21.19972222,1000,40.9,813,2468.009277,143.5833333,20,Ahuacatlán SW
+1093,983MQ,hondurensis,F,Querétaro,"Ahuacatlán de Guadalupe, 2 km S",-99.54305556,21.19388889,840,39.76,911,2419.228271,136.75,21,Ahuacatlán S
+1094,965MQ,hondurensis,F,Querétaro,"Ahuacatlán de Guadalupe, 1 km SW",-99.56416667,21.20916667,1000,43.9,780,2454.509766,140.8333333,25,Ahuacatlán SW
+1095,276MQ,hondurensis,M,Querétaro,"Ahuacatlán de Guadalupe, 2 km S",-99.54305556,21.19388889,840,41.2,911,2419.228271,136.75,25,Ahuacatlán S
+1096,75MQ,hondurensis,M,Querétaro,"Ahuacatlán de Guadalupe, 2 km SW",-99.57416667,21.20166667,1000,43.8,822,2451.960449,143,22,Ahuacatlán SW
+1097,1069MQ,hondurensis,F,Querétaro,Camargo,-99.73333333,21.1,1710.312256,44,430,2374.874023,120.8333333,32,Camargo
+1098,207MQ,hondurensis,M,Querétaro,Santa Inés,-99.12611111,21.1775,1326.494263,43.6,1527,2334.202637,139.25,21,Santa Inés
+1099,180MQ,hondurensis,F,Querétaro,Camargo,-99.73333333,21.1,1710.312256,43.1,430,2374.874023,120.8333333,19,Camargo
+1100,167MQ,hondurensis,F,Querétaro,Camargo,-99.73333333,21.1,1710.312256,43.9,430,2374.874023,120.8333333,23,Camargo
+1101,283MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 1 km S",-99.54305556,21.20166667,1000,39.7,818,2462.049561,143.4166667,19,Ahuacatlán S
+1102,1109MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,39.9,577,2633.810791,176.8333333,20,"Jalpan, 8 km N"
+1103,0409MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,40.4,577,2633.810791,176.8333333,21.3,"Jalpan, 8 km N"
+1104,1164MQ,parvidens,F,Querétaro,"Ahuacatlán de Guadalupe, 2.8 km SW",-99.56888889,21.19916667,1000,38.7,772,2494.423828,149.3333333,18,Ahuacatlán SW
+1105,0970MQ,parvidens,F,Querétaro,"Ahuacatlán de Guadalupe, 2.8 km SW",-99.56888889,21.19916667,1000,40.5,772,2494.423828,149.3333333,20,Ahuacatlán SW
+1106,203MQ,parvidens,M,Querétaro,Santa Inés,-99.12611111,21.1775,1326.494263,39,1527,2334.202637,139.25,18,Santa Inés
+1107,278MQ,parvidens,F,Querétaro,"Ahuacatlán de Guadalupe, 1 km S",-99.54305556,21.20166667,1000,38,818,2462.049561,143.4166667,19,Ahuacatlán S
+1108,0301MQ,parvidens,F,Querétaro,"Ahuacatlán de Guadalupe, 1 km S",-99.54305556,21.20166667,1000,39.8,818,2462.049561,143.4166667,19,Ahuacatlán S
+1109,165MQ,parvidens,M,Querétaro,Camargo,-99.73333333,21.1,1710.312256,43.44,430,2374.874023,120.8333333,26,Camargo
+1134,1110MQ,hondurensis,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,43.5,577,2633.810791,176.8333333,21,"Jalpan, 8 km N"
+1135,1095MQ,hondurensis,F,Querétaro,"Peña Blanca, 14.3 km SE",-99.65,20.95,2002.511108,42.4,635,2370.732178,126.6666667,19,"Peña Blanca, 14.3 km SE"
+1136,1096MQ,hondurensis,F,Querétaro,"Peña Blanca, 14.3 km SE",-99.65,20.95,2002.511108,43,635,2370.732178,126.6666667,24,"Peña Blanca, 14.3 km SE"
+1137,1097MQ,hondurensis,F,Querétaro,"Peña Blanca, 14.3 km SE",-99.65,20.95,2002.511108,43.1,635,2370.732178,126.6666667,31,"Peña Blanca, 14.3 km SE"
+1165,284MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 1 km S",-99.54305556,21.20166667,1000,40.4,818,2462.049561,143.4166667,21,Ahuacatlán S
+1166,45MQ,parvidens,F,Querétaro,"Santa Inés, 8 km S. Río Moctezuma",-99.12694444,21.15583333,1400,38.1,1215,2522.884033,179.8333333,14,"Santa Inés, 8 km S. Río Moctezuma"
+1167,596MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,40.9,577,2633.810791,176.8333333,20,"Jalpan, 8 km N"
+1168,572MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,39.4,577,2633.810791,176.8333333,19,"Jalpan, 8 km N"
+1169,561MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,38,577,2633.810791,176.8333333,22,"Jalpan, 8 km N"
+1170,574MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,39.7,577,2633.810791,176.8333333,NA,"Jalpan, 8 km N"
+1171,0691MQ,parvidens,F,Querétaro,"Ahuacatlán de Guadalupe, 2.8 km SW",-99.56888889,21.19916667,1000,36,772,2494.423828,149.3333333,16,Ahuacatlán SW
+1172,0885MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,40.9,577,2633.810791,176.8333333,20,"Jalpan, 8 km N"
+1173,0737MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 3.7 km SW",-99.58111111,21.19972222,1000,41.3,813,2468.009277,143.5833333,20,Ahuacatlán SW
+1174,0968MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 1 km SW",-99.56416667,21.20916667,1000,39.7,780,2454.509766,140.8333333,24,Ahuacatlán SW
+1175,0958MQ,parvidens,M,Querétaro,"Santa Inés, 2.8 km NW",-99.08333333,21.2,1103.836182,39.6,1693,2266.547119,133.5833333,22,"Santa Inés, 2.8 km NW"
+1176,0896MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,39.1,577,2633.810791,176.8333333,17,"Jalpan, 8 km N"
+1177,0902MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,36.7,577,2633.810791,176.8333333,18,"Jalpan, 8 km N"
+1178,0969MQ,parvidens,F,Querétaro,"Ahuacatlán de Guadalupe, 2.8 km S",-99.54305556,21.19,1000,38.9,942,2402.393311,134.1666667,24,Ahuacatlán S
+1179,0901MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,39.2,577,2633.810791,176.8333333,NA,"Jalpan, 8 km N"
+1180,0986MQ,parvidens,F,Querétaro,"Ahuacatlán de Guadalupe, 2 km S",-99.54305556,21.19388889,840,39.6,911,2419.228271,136.75,23,Ahuacatlán S
+1181,0888MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,38.3,577,2633.810791,176.8333333,17,"Jalpan, 8 km N"
+1182,0690MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 2.8 km SW",-99.56888889,21.19916667,1000,40.1,772,2494.423828,149.3333333,22,Ahuacatlán SW
+1183,0740MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 3.7 km SW",-99.58111111,21.19972222,1000,40.5,813,2468.009277,143.5833333,20,Ahuacatlán SW
+1184,0721MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 2.8 km SW",-99.56888889,21.19916667,1000,39.4,772,2494.423828,149.3333333,16,Ahuacatlán SW
+1185,568MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,39.7,577,2633.810791,176.8333333,20,"Jalpan, 8 km N"
+1186,584MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,40.2,577,2633.810791,176.8333333,22,"Jalpan, 8 km N"
+1187,576MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,38.4,577,2633.810791,176.8333333,NA,"Jalpan, 8 km N"
+1188,0875MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,39.3,577,2633.810791,176.8333333,18,"Jalpan, 8 km N"
+1189,577MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,40.6,577,2633.810791,176.8333333,19,"Jalpan, 8 km N"
+1190,585MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,38.9,577,2633.810791,176.8333333,22,"Jalpan, 8 km N"
+1191,0878MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,39.8,577,2633.810791,176.8333333,18,"Jalpan, 8 km N"
+1192,0891MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,40.5,577,2633.810791,176.8333333,20,"Jalpan, 8 km N"
+1193,0692MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 2.8 km SW",-99.56888889,21.19916667,1000,41.4,772,2494.423828,149.3333333,20,Ahuacatlán SW
+1194,0573MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,41,577,2633.810791,176.8333333,20,"Jalpan, 8 km N"
+1195,0867MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,40.6,577,2633.810791,176.8333333,18,"Jalpan, 8 km N"
+1196,40MQ,parvidens,F,Querétaro,"Santa Inés, 8 km S. Río Moctezuma",-99.12694444,21.15583333,1400,38.4,1215,2522.884033,179.8333333,18,"Santa Inés, 8 km S. Río Moctezuma"
+1209,1152MQ,parvidens,M,Querétaro,Santa Inés,-99.12611111,21.1775,1326.494263,38.9,1527,2334.202637,139.25,20,Santa Inés
+1210,1107MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,40,577,2633.810791,176.8333333,20,"Jalpan, 8 km N"
+1211,1178MQ,parvidens,F,Querétaro,"Ahuacatlán de Guadalupe, 2.8 km SW",-99.56888889,21.19916667,1000,38.6,772,2494.423828,149.3333333,17,Ahuacatlán SW
+1212,0575MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,38.5,577,2633.810791,176.8333333,20,"Jalpan, 8 km N"
+1213,1060MQ,parvidens,F,Querétaro,Camargo,-99.73333333,21.1,1710.312256,40.4,430,2374.874023,120.8333333,20,Camargo
+1214,0595MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,765.508728,39.3,577,2633.810791,176.8333333,24,"Jalpan, 8 km N"
+1215,100MQ,parvidens,M,Querétaro,"Ahuacatlán de Guadalupe, 1 km S",-99.54305556,21.20166667,1000,39.3,818,2462.049561,143.4166667,19,Ahuacatlán S
+1216,24MQ,parvidens,F,Querétaro,Santa Inés,-99.12611111,21.1775,1326.494263,37,1527,2334.202637,139.25,18,Santa Inés
+1217,19MQ,parvidens,F,Querétaro,Santa Inés,-99.12611111,21.1775,1326.494263,38.3,1527,2334.202637,139.25,18,Santa Inés
+1542,1078JJG,parvidens,M,Guerrero,Río Santiago,-100.3266667,17.25833333,680,39.1,1372,1951.444458,186.6666667,17,Río Santiago
+1543,974JJG,parvidens,M,Guerrero,Puente de Lugardo,-100.2522222,17.34194444,800,38.3,1184,2008.455933,173.4166667,19,Puente de Lugardo
+1544,1148JJGa,parvidens,F,Guerrero,Río Santiago,-100.3266667,17.25833333,680,38.8,1372,1951.444458,186.6666667,14,Río Santiago
+1545,1066JJG,parvidens,F,Guerrero,Río Santiago,-100.3266667,17.25833333,680,39.6,1372,1951.444458,186.6666667,14,Río Santiago
+1546,968JJG,parvidens,F,Guerrero,Puente de Lugardo,-100.2522222,17.34194444,800,39.1,1184,2008.455933,173.4166667,19,Puente de Lugardo
+1547,1067JJG,parvidens,F,Guerrero,Río Santiago,-100.3266667,17.25833333,680,39.5,1372,1951.444458,186.6666667,20,Río Santiago
+1548,1077JJG,parvidens,M,Guerrero,Río Santiago,-100.3266667,17.25833333,680,40.46,1372,1951.444458,186.6666667,20,Río Santiago
+1549,1080JJG,parvidens,M,Guerrero,Río Santiago,-100.3266667,17.25833333,680,38.3,1372,1951.444458,186.6666667,NA,Río Santiago
+1550,1115JJG,parvidens,F,Guerrero,Río Santiago,-100.3266667,17.25833333,680,37.3,1372,1951.444458,186.6666667,17,Río Santiago
+1551,1054JJG,parvidens,M,Guerrero,El Faisanal,-100.2086111,17.41416667,1140,40,1235,2048.96167,165.1666667,23,Nueva Delhi (Faisanal)
+1552,898JJG,parvidens,F,Guerrero,El Faisanal,-100.2086111,17.41416667,1140,37.02,1235,2048.96167,165.1666667,16,Nueva Delhi (Faisanal)
+1553,900JJG,parvidens,M,Guerrero,El Faisanal,-100.2086111,17.41416667,1140,39.4,1235,2048.96167,165.1666667,19,Nueva Delhi (Faisanal)
+1554,902JJG,parvidens,M,Guerrero,El Faisanal,-100.2086111,17.41416667,1140,38.8,1235,2048.96167,165.1666667,18,Nueva Delhi (Faisanal)
+1555,857JJG,parvidens,F,Guerrero,Nueva Delhi,-100.2036111,17.42,1350,38.3,1312,2029.668457,158.75,17,Nueva Delhi (Faisanal)
+1556,899JJG,parvidens,F,Guerrero,El Faisanal,-100.2086111,17.41416667,1140,38,1235,2048.96167,165.1666667,16,Nueva Delhi (Faisanal)
+1557,927JJG,parvidens,F,Guerrero,Puente de Lugardo,-100.2522222,17.34194444,800,38.9,1184,2008.455933,173.4166667,19,Puente de Lugardo
+1558,794JJG,parvidens,F,Guerrero,Nueva Delhi,-100.2036111,17.42,1350,39.1,1312,2029.668457,158.75,17,Nueva Delhi (Faisanal)
+1559,928JJG,parvidens,F,Guerrero,Puente de Lugardo,-100.2522222,17.34194444,800,40.2,1184,2008.455933,173.4166667,18,Puente de Lugardo
+1560,939JJG,parvidens,F,Guerrero,Puente de Lugardo,-100.2522222,17.34194444,800,38.3,1184,2008.455933,173.4166667,18,Puente de Lugardo
+1561,823JJG,parvidens,F,Guerrero,Puente de Lugardo,-100.2522222,17.34194444,800,38.9,1184,2008.455933,173.4166667,17,Puente de Lugardo
+1562,936JJG,parvidens,F,Guerrero,Puente de Lugardo,-100.2522222,17.34194444,800,38.19,1184,2008.455933,173.4166667,25,Puente de Lugardo
+1564,016JLCC,parvidens,M,Quintana Roo,"Tres Garantías, 1.5 km W",-89.02166667,18.20166667,120.5497513,36.3,1118,1948.596558,220.5,13,"Tres Garantías, 1.5 km W"
+1566,020JLCC,parvidens,F,Quintana Roo,"Tres Garantías, 9 km E",-88.91305556,18.19972222,98.13012695,36.3,1232,1914.172974,222.75,11,"Tres Garantías, 9 km E"
+1570,060JLCC,parvidens,F,Quintana Roo,"Sergio Butrón Casas, 3 km NW",-88.60138889,18.53694444,33.40642166,38.7,1236,1814.540405,229.8333333,15,"Sergio Butrón Casas, 3 km NW"
+1571,072JLCC,parvidens,M,Quintana Roo,"La Unión, 2 km NE",-88.85777778,17.925,6.75747776,37.9,1392,1850.186401,230.0833333,10,"La Unión, 2 km NE"
+1572,074JLCC,parvidens,F,Quintana Roo,"La Unión, 2 km NE",-88.85777778,17.925,6.75747776,37.1,1392,1850.186401,230.0833333,13,"La Unión, 2 km NE"
+1574,051JLCC,parvidens,F,Quintana Roo,"Sergio Butrón Casas, 1.5 km NW",-88.58694444,18.52555556,29.97629547,36.7,1238,1805.113159,230.25,15,"Sergio Butrón Casas, 1.5 km NW"
+1576,058JLCC,parvidens,F,Quintana Roo,"Sergio Butrón Casas, 3 km NW",-88.60138889,18.53694444,33.40642166,36.2,1236,1814.540405,229.8333333,13,"Sergio Butrón Casas, 3 km NW"
+1579,053JLCC,parvidens,F,Quintana Roo,"Sergio Butrón Casas, 3 km NW",-88.60138889,18.53694444,33.40642166,39.3,1236,1814.540405,229.8333333,15,"Sergio Butrón Casas, 3 km NW"
+1604,1415JJG,hondurensis,F,Guerrero,Omiltemi. Cañada Potrerillos,-99.66722222,17.5625,2200,47.1,1304,1791.457397,95.5,22,Omiltemi. Cañada Potrerillos
+1605,1049JJG,hondurensis,M,Guerrero,El Faisanal,-100.2086111,17.41416667,1140,42,1235,2048.96167,165.1666667,20,Nueva Delhi (Faisanal)
+1606,1156JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,41.8,1517,1632.381958,73.5,20,Puerto del Gallo
+1607,1024JJG,hondurensis,M,Guerrero,Nueva Delhi,-100.2036111,17.42,1350,43.6,1312,2029.668457,158.75,19,Nueva Delhi (Faisanal)
+1608,1442JJG,hondurensis,F,Guerrero,Omiltemi. Cañada La Perra,-99.69277778,17.56805556,1443,42,1436,1745.128052,86.16666667,18,"Omiltemi, Guerrero"
+1609,636JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,44.8,1517,1632.381958,73.5,19,Puerto del Gallo
+1610,629JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,42.6,1517,1632.381958,73.5,21,Puerto del Gallo
+1611,637JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,43.5,1517,1632.381958,73.5,19,Puerto del Gallo
+1612,1174JJG,hondurensis,F,Guerrero,El Iris,-100.225,17.48833333,1950,42.7,1529,1838.538818,114.0833333,16,El Iris
+1613,1402JJG,hondurensis,M,Guerrero,Omiltemi. Camino Las Joyas,-99.705,17.55861111,2000,44.3,1407,1773.493164,92.75,24,"Omiltemi, Guerrero"
+1614,1023JJG,hondurensis,F,Guerrero,Nueva Delhi,-100.2036111,17.42,1350,43.6,1312,2029.668457,158.75,29,Nueva Delhi (Faisanal)
+1615,1050JJG,hondurensis,F,Guerrero,El Faisanal,-100.2086111,17.41416667,1140,43.3,1235,2048.96167,165.1666667,18,Nueva Delhi (Faisanal)
+1618,481JJG,hondurensis,M,Guerrero,Nueva Delhi,-100.2036111,17.42,1350,42,1312,2029.668457,158.75,21,Nueva Delhi (Faisanal)
+1619,282JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,43.5,1517,1632.381958,73.5,19.7,Puerto del Gallo
+1620,349JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,43.4,1517,1632.381958,73.5,21.2,Puerto del Gallo
+1622,484JJG,hondurensis,F,Guerrero,Nueva Delhi,-100.2036111,17.42,1350,44.3,1312,2029.668457,158.75,20,Nueva Delhi (Faisanal)
+1623,631JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,41.9,1517,1632.381958,73.5,18,Puerto del Gallo
+1624,285JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,43.7,1517,1632.381958,73.5,19.8,Puerto del Gallo
+1625,480JJG,hondurensis,F,Guerrero,Nueva Delhi,-100.2036111,17.42,1350,41.4,1312,2029.668457,158.75,19,Nueva Delhi (Faisanal)
+1626,307JJG,hondurensis,M,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,43.8,1517,1632.381958,73.5,19.4,Puerto del Gallo
+1627,333JJG,hondurensis,M,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,44.6,1517,1632.381958,73.5,27.4,Puerto del Gallo
+1628,007JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,44,1517,1632.381958,73.5,20,Puerto del Gallo
+1632,284JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,42.7,1517,1632.381958,73.5,19.2,Puerto del Gallo
+1633,492JJG,hondurensis,F,Guerrero,Los Retrocesos,-100.1969444,17.43694444,1580,42.5,1445,1987.862183,146.4166667,18,Los Retrocesos
+1634,280JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,44.4,1517,1632.381958,73.5,21.8,Puerto del Gallo
+1635,331JJG,hondurensis,M,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,44.6,1517,1632.381958,73.5,24.2,Puerto del Gallo
+1636,478JJG,hondurensis,M,Guerrero,Nueva Delhi,-100.2036111,17.42,1350,45.2,1312,2029.668457,158.75,26,Nueva Delhi (Faisanal)
+1637,639JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,44,1517,1632.381958,73.5,21,Puerto del Gallo
+1638,929JJG,hondurensis,M,Guerrero,Puente de Lugardo,-100.2522222,17.34194444,800,45,1184,2008.455933,173.4166667,24,Puente de Lugardo
+1639,491JJG,hondurensis,F,Guerrero,Los Retrocesos,-100.1969444,17.43694444,1580,42.7,1445,1987.862183,146.4166667,22,Los Retrocesos
+1640,632JJG,hondurensis,M,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,45.5,1517,1632.381958,73.5,28,Puerto del Gallo
+1641,630JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,43.1,1517,1632.381958,73.5,19,Puerto del Gallo
+1642,664JJG,hondurensis,M,Guerrero,"Puerto del Gallo, 3 km S. Bosque de Lauráceas",-100.1844444,17.45972222,1950,44.8,1541,1743.259155,101.1666667,25,"Puerto del Gallo, 3 km S. Bosque de Lauráceas"
+1643,149JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,42.7,1517,1632.381958,73.5,20,Puerto del Gallo
+1644,214JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,44.7,1517,1632.381958,73.5,21.5,Puerto del Gallo
+1645,346JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,43.3,1517,1632.381958,73.5,19.9,Puerto del Gallo
+1646,004FRR,hondurensis,M,Guerrero,"Omiltemi, 0.5 km W",-99.70388889,17.56611111,2220,46.79,1407,1773.493164,92.75,23,"Omiltemi, Guerrero"
+1647,005FRR,hondurensis,M,Guerrero,"Omiltemi, 0.5 km W",-99.70388889,17.56611111,2220,44,1407,1773.493164,92.75,21,"Omiltemi, Guerrero"
+1648,014FRR,hondurensis,F,Guerrero,"Omiltemi, 3 km NW",-99.71361111,17.58527778,2220,43.5,1253,1720.918213,78.25,22,"Omiltemi, 3 km NW"
+1649,069FRR,hondurensis,F,Guerrero,Omiltemi,-99.68555556,17.56611111,2220,43.3,1292,1782.334839,95,23.3,"Omiltemi, Guerrero"
+1650,006FRR,hondurensis,F,Guerrero,"Omiltemi, 0.5 km W",-99.70388889,17.56611111,2220,43.1,1407,1773.493164,92.75,20,"Omiltemi, Guerrero"
+1651,049JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,43.9,1517,1632.381958,73.5,20,Puerto del Gallo
+1653,093FRR,hondurensis,F,Guerrero,Omiltemi,-99.68555556,17.56611111,2220,42.8,1292,1782.334839,95,22,"Omiltemi, Guerrero"
+1654,206FRR,hondurensis,F,Guerrero,Omiltemi. Cañada La Perra,-99.69277778,17.56805556,1443,43.6,1436,1745.128052,86.16666667,18,"Omiltemi, Guerrero"
+1655,10FRR,hondurensis,M,Guerrero,"Omiltemi, 3 km NW",-99.71361111,17.58527778,2220,44.5,1253,1720.918213,78.25,25,"Omiltemi, 3 km NW"
+1656,11FRR,hondurensis,F,Guerrero,"Omiltemi, 3 km NW",-99.71361111,17.58527778,2220,42.8,1253,1720.918213,78.25,20,"Omiltemi, 3 km NW"
+1657,068FRR,hondurensis,M,Guerrero,"Omiltemi, 0.5 km W",-99.70388889,17.56611111,2220,44.2,1407,1773.493164,92.75,23.6,"Omiltemi, Guerrero"
+1658,8FRR,hondurensis,F,Guerrero,"Omiltemi, 3 km NW",-99.71361111,17.58527778,2220,44.3,1253,1720.918213,78.25,22,"Omiltemi, 3 km NW"
+1659,007FRR,hondurensis,F,Guerrero,"Omiltemi, 0.5 km W",-99.70388889,17.56611111,2220,45,1407,1773.493164,92.75,24,"Omiltemi, Guerrero"
+1660,066FRR,hondurensis,F,Guerrero,"Omiltemi, 0.5 km W",-99.70388889,17.56611111,2220,43.6,1407,1773.493164,92.75,17.9,"Omiltemi, Guerrero"
+1661,094FRR,hondurensis,F,Guerrero,Omiltemi,-99.68555556,17.56611111,2220,44,1292,1782.334839,95,18,"Omiltemi, Guerrero"
+1662,092FRR,hondurensis,M,Guerrero,Omiltemi,-99.68555556,17.56611111,2220,43.7,1292,1782.334839,95,24,"Omiltemi, Guerrero"
+1663,080FRR,hondurensis,F,Guerrero,Omiltemi,-99.68555556,17.56611111,2220,43.5,1292,1782.334839,95,19.3,"Omiltemi, Guerrero"
+1664,207FRR,hondurensis,F,Guerrero,Omiltemi,-99.68555556,17.56611111,2220,44.4,1292,1782.334839,95,22,"Omiltemi, Guerrero"
+1665,164FRR,hondurensis,F,Guerrero,Omiltemi,-99.68555556,17.56611111,2220,44.4,1292,1782.334839,95,21,"Omiltemi, Guerrero"
+1666,067FRR,hondurensis,F,Guerrero,"Omiltemi, 0.5 km W",-99.70388889,17.56611111,2220,44.8,1407,1773.493164,92.75,18.2,"Omiltemi, Guerrero"
+1667,009FRR,hondurensis,F,Guerrero,"Omiltemi, 3 km NW",-99.71361111,17.58527778,2220,45.6,1253,1720.918213,78.25,22,"Omiltemi, 3 km NW"
+1669,12FRR,hondurensis,F,Guerrero,Omiltemi,-99.68555556,17.56611111,2220,43.8,1292,1782.334839,95,22,"Omiltemi, Guerrero"
+1670,330JJG,hondurensis,M,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,43.7,1517,1632.381958,73.5,25.2,Puerto del Gallo
+1671,286JJG,hondurensis,M,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,43,1517,1632.381958,73.5,23,Puerto del Gallo
+1672,849JJG,hondurensis,F,Guerrero,Nueva Delhi,-100.2036111,17.42,1350,41.3,1312,2029.668457,158.75,20,Nueva Delhi (Faisanal)
+1673,482JJG,hondurensis,F,Guerrero,Nueva Delhi,-100.2036111,17.42,1350,42.4,1312,2029.668457,158.75,22,Nueva Delhi (Faisanal)
+1674,662JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,42.6,1517,1632.381958,73.5,19,Puerto del Gallo
+1675,281JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,44.3,1517,1632.381958,73.5,21,Puerto del Gallo
+1676,005JJG,hondurensis,M,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,44.8,1517,1632.381958,73.5,20,Puerto del Gallo
+1677,335JJG,hondurensis,M,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,42,1517,1632.381958,73.5,21.2,Puerto del Gallo
+1678,287JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,43.5,1517,1632.381958,73.5,21.5,Puerto del Gallo
+1679,345JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,43.6,1517,1632.381958,73.5,20,Puerto del Gallo
+1680,483JJG,hondurensis,F,Guerrero,Nueva Delhi,-100.2036111,17.42,1350,42.8,1312,2029.668457,158.75,20,Nueva Delhi (Faisanal)
+1681,283JJG,hondurensis,M,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,43.8,1517,1632.381958,73.5,21.3,Puerto del Gallo
+1682,215JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,42.1,1517,1632.381958,73.5,18,Puerto del Gallo
+1683,008JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,45.2,1517,1632.381958,73.5,20,Puerto del Gallo
+1684,332JJG,hondurensis,M,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,44.3,1517,1632.381958,73.5,25.2,Puerto del Gallo
+1758,037JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,45.3,1517,1632.381958,73.5,21,Puerto del Gallo
+1759,218JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,44.3,1517,1632.381958,73.5,NA,Puerto del Gallo
+1760,053JJG,hondurensis,M,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,43.3,1517,1632.381958,73.5,20,Puerto del Gallo
+1761,047JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,41,1517,1632.381958,73.5,18,Puerto del Gallo
+1762,051JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,41,1517,1632.381958,73.5,20,Puerto del Gallo
+1763,336JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,41.8,1517,1632.381958,73.5,18.8,Puerto del Gallo
+1764,306JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,45.4,1517,1632.381958,73.5,25.6,Puerto del Gallo
+1765,035JJG,hondurensis,F,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,46.28,1517,1632.381958,73.5,18.4,Puerto del Gallo
+1766,052JJG,hondurensis,M,Guerrero,Puerto del Gallo,-100.1844444,17.48444444,2450,44.1,1517,1632.381958,73.5,22,Puerto del Gallo
+1767,MABS012,hondurensis,M,Oaxaca,"San Martín Toxpalan, 10 km SW",-97.04222222,18.06083333,650,44,725,2272.575684,164.75,24.4,"San Martín Toxpalan, 10 km SW"
+1768,006YRB,hondurensis,M,Oaxaca,"Santiago Dominguillo, 2 km E",-96.89416667,17.65638889,600,43.4,636,2272.544434,163,26.2,"Santiago Dominguillo, 2 km E"
+1769,095FRR,hondurensis,F,Guerrero,"Omiltemi, 0.3 km N",-99.68555556,17.56833333,2220,43.4,1429,1757.482666,89.66666667,18,"Omiltemi, Guerrero"
+3573,1447JJG,hondurensis,F,Guerrero,Omiltemi. Cañada de Agua Fría,-99.68555556,17.53777778,2350,43.9,1339,1722.231812,85.75,18,Omiltemi. Cañada de Agua Fría
+3574,1452JJG,hondurensis,M,Guerrero,Omiltemi. Cañada La Perra,-99.69277778,17.56805556,1443,43.7,1436,1745.128052,86.16666667,22,"Omiltemi, Guerrero"
+3575,071TJA,hondurensis,M,Veracruz,Teocelo,-96.97444444,19.38944444,1155.613281,44.2,1368,2004.073975,157.1666667,22,Teocelo
+3576,072TJA,hondurensis,F,Veracruz,Teocelo,-96.97444444,19.38944444,1155.613281,43.6,1368,2004.073975,157.1666667,20,Teocelo
+3577,6JHSS,hondurensis,F,Oaxaca,"Santiago Dominguillo, 2 km E",-96.89416667,17.65638889,600,43.4,636,2272.544434,163,23.1,"Santiago Dominguillo, 2 km E"
+3581,32MTB,parvidens,M,Veracruz,"Villa Emiliano Zapata, km 14. Xotla",-96.65777778,19.34388889,443,38.8,1293,2041.620972,201.25,16,"Villa Emiliano Zapata, km 14. Xotla"
+3584,5MMP,parvidens,F,Oaxaca,"San Juan Bautista Cuicatlán, 12 km E. Puente Río Grande",-96.98361111,17.81944444,600,41.4,541,2429.215576,193.0833333,18.3,"San Juan Bautista Cuicatlán, 12 km E. Puente Río Grande"
+3585,08MABS,parvidens,F,Oaxaca,"San Juan Bautista Cuicatlán, 12 km E. Puente Río Grande",-96.98361111,17.81944444,600,38.6,541,2429.215576,193.0833333,14.9,"San Juan Bautista Cuicatlán, 12 km E. Puente Río Grande"
+3707,1494MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,775.0838623,39,577,2633.810791,176.8333333,15,"Jalpan, 8 km N"
+3708,1493MQ,parvidens,F,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,775.0838623,42.7,577,2633.810791,176.8333333,16,"Jalpan, 8 km N"
+3709,1492MQ,parvidens,M,Querétaro,"Jalpan, 8 km N",-99.5,21.27983333,775.0838623,40.8,577,2633.810791,176.8333333,NA,"Jalpan, 8 km N"
+3754,017DAH,hondurensis,F,Puebla,"Puerto de la Soledad, 5 km NW",-97.04277778,18.22472222,1911.293945,42,990,2067.865967,126.0833333,17.1,"Puerto de la Soledad, 5 km NW"
+4098,059ERV,hondurensis,M,Guerrero,"Parque Estatal ""El Huizteco""",-99.60666667,18.60694444,2350,44.2,1355,2011.119507,98.08333333,22,"Parque Estatal ""El Huizteco"""
+4099,058ERV,hondurensis,F,Guerrero,"Parque Estatal ""El Huizteco""",-99.60666667,18.60694444,2350,41.8,1355,2011.119507,98.08333333,20,"Parque Estatal ""El Huizteco"""
+4100,131LLP,hondurensis,M,Guerrero,Los Jarillos,-99.78694444,18.64861111,2380,46,1266,2026.452515,94,27,Los Jarillos
+4101,002MRV,hondurensis,F,Guerrero,"Parque Estatal ""El Huizteco""",-99.60666667,18.60694444,2350,45.5,1355,2011.119507,98.08333333,NA,"Parque Estatal ""El Huizteco"""
+4102,006RMS,hondurensis,F,Guerrero,"Ixcateopan de Cuauhtémoc, 10 km NW",-99.85083333,18.57277778,1619.082642,42.8,899,2345.325684,149.9166667,22,"Ixcateopan de Cuauhtémoc, 10 km NW"
+4104,127LLP,parvidens,F,Guerrero,Ixcateopan,-99.79555556,18.50638889,1800,39.8,1106,2225.411621,134.5833333,12,Ixcateopan
+4130,011EGT,parvidens,F,Campeche,"Hampolol, ejido. Estación biológica CEDESU",-90.4,19.93305556,10,38.5,1132,2473.522217,235,14,"Hampolol, ejido. Estación biológica CEDESU"
+4288,184LLP,hondurensis,M,Chiapas,"Reserva ""El Triunfo""",-92.82,15.67166667,2200,44.1,3094,1251.564453,119.5833333,27,"Reserva ""El Triunfo"""
+4289,175LLP,hondurensis,F,Chiapas,"Reserva ""El Triunfo""",-92.82,15.67166667,2200,43.4,3094,1251.564453,119.5833333,21,"Reserva ""El Triunfo"""
+4290,176LLP,hondurensis,M,Chiapas,"Reserva ""El Triunfo""",-92.82,15.67166667,2200,44.3,3094,1251.564453,119.5833333,24,"Reserva ""El Triunfo"""
+4291,177LLP,hondurensis,M,Chiapas,"Reserva ""El Triunfo""",-92.82,15.67166667,2200,44.5,3094,1251.564453,119.5833333,25,"Reserva ""El Triunfo"""
+4292,165LLP,hondurensis,F,Chiapas,"Reserva ""El Triunfo""",-92.82,15.67166667,2200,43.9,3094,1251.564453,119.5833333,19,"Reserva ""El Triunfo"""
+4293,162LLP,hondurensis,F,Chiapas,"Reserva ""El Triunfo""",-92.82,15.67166667,2200,45.4,3094,1251.564453,119.5833333,22,"Reserva ""El Triunfo"""
+4294,161LLP,hondurensis,F,Chiapas,"Reserva ""El Triunfo""",-92.82,15.67166667,2200,44.3,3094,1251.564453,119.5833333,22,"Reserva ""El Triunfo"""
+4295,163LLP,hondurensis,F,Chiapas,"Reserva ""El Triunfo""",-92.82,15.67166667,2200,45.2,3094,1251.564453,119.5833333,21,"Reserva ""El Triunfo"""
+4296,170LLP,hondurensis,F,Chiapas,"Reserva ""El Triunfo""",-92.82,15.67166667,2200,44.5,3094,1251.564453,119.5833333,16,"Reserva ""El Triunfo"""
+4298,0004ARG,parvidens,F,Michoacán,"Agua de Tapia, 21 km SW de Tumbiscatio",-102.5202778,18.47222222,1670,39.9,899,1695.154663,148,17,"Agua de Tapia, 21 km SW de Tumbiscatio"
+4299,0015ARG,parvidens,M,Michoacán,El Resumidero,-103,18.92777778,1830,37.9,1250,2055.622314,88.91666667,16,El Resumidero
+4300,0014ARG,parvidens,M,Michoacán,El Resumidero,-103,18.92777778,1830,39.5,1250,2055.622314,88.91666667,20,El Resumidero
+4301,0013ARG,parvidens,F,Michoacán,Playitas,-102.5666667,18.45888889,1307.185669,38.8,898,1698.291016,153.8333333,16,Playitas
+4338,038LLP,parvidens,F,Nayarit,Venustiano Carranza,-104.985,21.52,1085.998657,37.3,1569,2173.739258,153.0833333,19.4,Venustiano Carranza
+4339,040LLP,hondurensis,F,Nayarit,Venustiano Carranza,-104.9880556,21.51888889,1100,40.6,1569,2173.739258,153.0833333,17.3,Venustiano Carranza
+4340,044LLP,parvidens,F,Nayarit,Venustiano Carranza,-104.985,21.52,1085.998657,38.5,1569,2173.739258,153.0833333,18.5,Venustiano Carranza
+4342,028LLP,parvidens,F,Nayarit,Palapita,-105.065,21.43694444,650,38.4,1603,2205.069336,178.5,16.2,Palapita
+4353,"449DNL, 184PEP",parvidens,M,Nayarit,Palapita,-105.065,21.43694444,650,39.5,1603,2205.069336,178.5,18,Palapita
+4361,aPEP6,parvidens,NA,Nayarit,La Bajada,-105.1627778,21.50916667,160,39.8,1593,2179.22168,206.1666667,NA,La Bajada
+4362,aPEP3,parvidens,M,Nayarit,Presa de Jumatán,-105.0377778,21.66138889,380,40.4,1590,2399.290283,203.8333333,17.9,Presa de Jumatán
+4384,5FJJG,parvidens,F,Chiapas,"Estación Juárez, 8.5 km E",-93.13916667,17.60777778,10,36.3,3043,2437.531738,227.75,17.3,"Estación Juárez, 8.5 km E"
+4645,139LLP,hondurensis,M,Guerrero,"Ixcateopan de Cuauhtémoc, 8 km NW",-99.83722222,18.56333333,1707.037598,46,1023,2275.087158,139.8333333,25,"Ixcateopan de Cuauhtémoc, 8 km NW"
+4699,0372LLP,parvidens,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla",-96.31888889,17.75888889,150,39.8,2325,2530.261963,214.9166667,20,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla"
+4700,0255APH,parvidens,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla",-96.31888889,17.75888889,150,37.44,2325,2530.261963,214.9166667,16,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla"
+4701,0366LLP,parvidens,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla",-96.31888889,17.75888889,150,38.1,2325,2530.261963,214.9166667,17,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla"
+4702,0254APH,parvidens,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla",-96.31888889,17.75888889,150,38,2325,2530.261963,214.9166667,18.5,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla"
+4703,0374LLP,parvidens,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla",-96.31888889,17.75888889,150,37.1,2325,2530.261963,214.9166667,20,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla"
+4704,0220LLP,parvidens,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla",-96.31888889,17.75888889,150,40.5,2325,2530.261963,214.9166667,19.2,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla"
+4705,0367LLP,parvidens,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla",-96.31888889,17.75888889,150,36.2,2325,2530.261963,214.9166667,22,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla"
+4706,0365LLP,parvidens,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla",-96.31888889,17.75888889,150,39.9,2325,2530.261963,214.9166667,20,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla"
+4707,0295LLP,parvidens,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla",-96.31888889,17.75888889,150,36.8,2325,2530.261963,214.9166667,18,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla"
+4708,030APH,parvidens,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 63, Puerto Eligio",-96.33583333,17.65194444,650,38.4,3491,2141.620605,147,18,"Carretera Tuxtepec-Oaxaca, km 63, Puerto Eligio"
+4709,0203APH,parvidens,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 63, Puerto Eligio",-96.33583333,17.65194444,650,38.8,3491,2141.620605,147,22.5,"Carretera Tuxtepec-Oaxaca, km 63, Puerto Eligio"
+4710,0212APH,parvidens,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 63, Puerto Eligio",-96.33583333,17.65194444,650,39.07,3491,2141.620605,147,20,"Carretera Tuxtepec-Oaxaca, km 63, Puerto Eligio"
+4711,0209APH,parvidens,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 63, Puerto Eligio",-96.33583333,17.65194444,650,38.5,3491,2141.620605,147,NA,"Carretera Tuxtepec-Oaxaca, km 63, Puerto Eligio"
+4712,0205APH,parvidens,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 63, Puerto Eligio",-96.33583333,17.65194444,650,38.2,3491,2141.620605,147,21,"Carretera Tuxtepec-Oaxaca, km 63, Puerto Eligio"
+4713,0024APH,parvidens,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 63, Puerto Eligio",-96.33583333,17.65194444,650,39.4,3491,2141.620605,147,23,"Carretera Tuxtepec-Oaxaca, km 63, Puerto Eligio"
+4714,0469LLP,parvidens,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 12, Arroyo Choapan",-96.16138889,17.97138889,100,38.7,2629,2524.613525,219.5,20,"Carretera Tuxtepec-Oaxaca, km 12, Arroyo Choapan"
+4715,0447LLP,parvidens,F,Oaxaca,San Isidro. El Naranjal,-96.13083333,17.89722222,100,37.4,2695,2493.38916,213.6666667,15,San Isidro. El Naranjal
+4716,0470LLP,parvidens,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 12, Arroyo Choapan",-96.16138889,17.97138889,100,36.3,2629,2524.613525,219.5,19,"Carretera Tuxtepec-Oaxaca, km 12, Arroyo Choapan"
+4717,0075ERJ,parvidens,M,Oaxaca,Camino a San Martín Soyolapan,-96.28472222,17.70361111,300,38.9,2373,2486.929688,206.75,17,Camino a San Martín Soyolapan
+4718,0360LLP,parvidens,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla",-96.31888889,17.75888889,150,37.7,2325,2530.261963,214.9166667,17,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla"
+4719,302LLP,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,43.2,3263,2161.183594,148.4166667,26,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4720,256LLP,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,44.5,3263,2161.183594,148.4166667,27.3,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4721,244APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 65. Metates",-96.35722222,17.65083333,850,43.2,3203,2305.241211,173.5,NA,"Carretera Tuxtepec-Oaxaca, km 65. Metates"
+4722,357LLP,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 91. Camino a San Isidro",-96.5,17.44361111,2000,44,1922,1686.199585,62.25,24,"Camino S. Isidro, Oax"
+4723,183APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,42.9,3263,2161.183594,148.4166667,19,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4724,180APH,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,44.7,3263,2161.183594,148.4166667,20,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4725,181APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,45.3,3263,2161.183594,148.4166667,23,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4727,260LLP,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 91. Camino a San Isidro",-96.5,17.44361111,2000,45.28,1922,1686.199585,62.25,30.2,"Camino S. Isidro, Oax"
+4728,076APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 91. Camino a San Isidro",-96.5,17.44361111,2000,44.8,1922,1686.199585,62.25,27,"Camino S. Isidro, Oax"
+4729,053APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,43,3263,2161.183594,148.4166667,25,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4731,075APH,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 91. Camino a San Isidro",-96.5,17.44361111,2000,43.3,1922,1686.199585,62.25,20,"Camino S. Isidro, Oax"
+4732,120APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 91. Camino a San Isidro",-96.5,17.44361111,2000,43.2,1922,1686.199585,62.25,19,"Camino S. Isidro, Oax"
+4733,191APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 72. La Quebradora (Puerto Antonio)",-96.39222222,17.59555556,1000,41.8,3314,1997.479492,117.75,27,"Carretera Tuxtepec-Oaxaca, km 72. La Quebradora (Puerto Antonio)"
+4734,190APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 72. La Quebradora (Puerto Antonio)",-96.39222222,17.59555556,1000,43.5,3314,1997.479492,117.75,24,"Carretera Tuxtepec-Oaxaca, km 72. La Quebradora (Puerto Antonio)"
+4735,103ERV,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 91. Camino a San Isidro",-96.5,17.44361111,2000,44.8,1922,1686.199585,62.25,30,"Camino S. Isidro, Oax"
+4736,071APH,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 91. Camino a San Isidro",-96.5,17.44361111,2000,42.3,1922,1686.199585,62.25,23,"Camino S. Isidro, Oax"
+4737,070APH,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 91. Camino a San Isidro",-96.5,17.44361111,2000,44.65,1922,1686.199585,62.25,23,"Camino S. Isidro, Oax"
+4738,126APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,43.9,3263,2161.183594,148.4166667,28,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4739,132ERV,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,45,3263,2161.183594,148.4166667,24,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4740,262LLP,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 91. Camino a San Isidro",-96.5,17.44361111,2000,42.7,1922,1686.199585,62.25,24.4,"Camino S. Isidro, Oax"
+4741,074APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 91. Camino a San Isidro",-96.5,17.44361111,2000,45.5,1922,1686.199585,62.25,25,"Camino S. Isidro, Oax"
+4760,194APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 72. La Quebradora (Puerto Antonio)",-96.39222222,17.59555556,1000,43,3314,1997.479492,117.75,26,"Carretera Tuxtepec-Oaxaca, km 72. La Quebradora (Puerto Antonio)"
+4761,0193APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 72. La Quebradora (Puerto Antonio)",-96.39222222,17.59555556,1000,44.8,3314,1997.479492,117.75,28,"Carretera Tuxtepec-Oaxaca, km 72. La Quebradora (Puerto Antonio)"
+4762,192APH,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 72. La Quebradora (Puerto Antonio)",-96.39222222,17.59555556,1000,43.7,3314,1997.479492,117.75,20,"Carretera Tuxtepec-Oaxaca, km 72. La Quebradora (Puerto Antonio)"
+4763,237LLP,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,42.7,3263,2161.183594,148.4166667,25.5,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4764,184APH,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,44.2,3263,2161.183594,148.4166667,22,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4765,301LLP,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,44.4,3263,2161.183594,148.4166667,30,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4766,187APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,44,3263,2161.183594,148.4166667,25,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4767,299LLP,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,44.3,3263,2161.183594,148.4166667,24,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4768,186APH,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,44.8,3263,2161.183594,148.4166667,24,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4769,0255LLP,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,45,3263,2161.183594,148.4166667,27.5,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4770,300LLP,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,43.7,3263,2161.183594,148.4166667,25,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4771,057APH,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,45.5,3263,2161.183594,148.4166667,26,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4772,185APH,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,44.6,3263,2161.183594,148.4166667,NA,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4773,179APH,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,44,3263,2161.183594,148.4166667,NA,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4774,040APH,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza",-96.37555556,17.63916667,1750,42.8,3263,2161.183594,148.4166667,24,"Carretera Tuxtepec-Oaxaca, km 79.5. La Esperanza"
+4775,092APH,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 91. Camino a San Isidro",-96.5,17.44361111,2000,44.4,1922,1686.199585,62.25,25,"Camino S. Isidro, Oax"
+4776,261LLP,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 91. Camino a San Isidro",-96.5,17.44361111,2000,42.8,1922,1686.199585,62.25,25.7,"Camino S. Isidro, Oax"
+4777,220APH,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 87. El Suspiro",-96.47722222,17.605,1750,43.7,2920,1969.988403,111.25,24,"Carretera Tuxtepec-Oaxaca, km 87. El Suspiro"
+4778,073APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 91. Camino a San Isidro",-96.5,17.44361111,2000,45,1922,1686.199585,62.25,27.5,"Camino S. Isidro, Oax"
+4779,104ERV,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 91. Camino a San Isidro",-96.5,17.44361111,2000,44.3,1922,1686.199585,62.25,32,"Camino S. Isidro, Oax"
+4780,080APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 91. Camino a San Isidro",-96.5,17.44361111,2000,45.4,1922,1686.199585,62.25,23,"Camino S. Isidro, Oax"
+4781,078APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 91. Camino a San Isidro",-96.5,17.44361111,2000,42.6,1922,1686.199585,62.25,24,"Camino S. Isidro, Oax"
+4859,239APH,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 65. Metates",-96.35722222,17.65083333,850,45.2,3203,2305.241211,173.5,NA,"Carretera Tuxtepec-Oaxaca, km 65. Metates"
+5419,0297LLP,parvidens,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla",-96.31888889,17.75888889,150,37,2325,2530.261963,214.9166667,NA,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla"
+5436,136GPQ,hondurensis,F,Veracruz,Teocelo,-96.97444444,19.38944444,1155.613281,42.2,1368,2004.073975,157.1666667,23,Teocelo
+5525,012GPQ,hondurensis,F,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",-99.33916667,18.96972222,2229.916016,44.3,1334,2065.971924,109.3333333,14,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+5528,575LLP,hondurensis,F,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",-99.33916667,18.96972222,2229.916016,43,1334,2065.971924,109.3333333,21,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+5530,560LLP,hondurensis,M,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",-99.33916667,18.96972222,2229.916016,46,1334,2065.971924,109.3333333,26,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+5532,018VUR,hondurensis,M,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",-99.33916667,18.96972222,2229.916016,45.1,1334,2065.971924,109.3333333,24,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+5534,016GPQ,hondurensis,M,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",-99.33916667,18.96972222,2229.916016,45.5,1334,2065.971924,109.3333333,23,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+5535,145GPQ,hondurensis,M,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 12.5",-99.34027778,18.97527778,2377.69751,45.8,1358,2078.784668,107.9166667,22.8,"Carretera Ocuilan de Arteaga-Cuernavaca, km 12.5"
+5539,142GPQ,hondurensis,F,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",-99.33916667,18.96972222,2229.916016,44.3,1334,2065.971924,109.3333333,24.5,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+5540,083GPQ,hondurensis,F,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",-99.33916667,18.96972222,2229.916016,44.7,1334,2065.971924,109.3333333,21,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+5541,180GPQ,hondurensis,M,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",-99.33916667,18.96972222,2229.916016,45.8,1334,2065.971924,109.3333333,23,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+5542,143GPQ,hondurensis,F,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",-99.33916667,18.96972222,2229.916016,42,1334,2065.971924,109.3333333,19.5,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+5543,146GPQ,hondurensis,F,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",-99.33916667,18.96972222,2229.916016,45.8,1334,2065.971924,109.3333333,22.8,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+5549,561LLP,hondurensis,F,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",-99.33916667,18.96972222,2229.916016,45,1334,2065.971924,109.3333333,20,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+5554,140GPQ,hondurensis,F,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",-99.33916667,18.96972222,2229.916016,45.3,1334,2065.971924,109.3333333,21.5,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+5562,215GPQ,hondurensis,F,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",-99.33916667,18.96972222,2229.916016,44.4,1334,2065.971924,109.3333333,19.9,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+5622,206GPQ,hondurensis,F,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",-99.33916667,18.96972222,2229.916016,45.7,1334,2065.971924,109.3333333,22.5,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+5624,214GPQ,hondurensis,F,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",-99.33916667,18.96972222,2229.916016,44.6,1334,2065.971924,109.3333333,20.2,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+5637,489JJG,hondurensis,F,Guerrero,Los Retrocesos,-100.1969444,17.43694444,1580,43.3,1445,1987.862183,146.4166667,20,Los Retrocesos
+5641,046FRR,hondurensis,M,Guerrero,Omiltemi,-99.68555556,17.56611111,2220,44.3,1292,1782.334839,95,25.8,"Omiltemi, Guerrero"
+5644,044FRR,hondurensis,M,Guerrero,Omiltemi,-99.68555556,17.56611111,2220,45.2,1292,1782.334839,95,23.7,"Omiltemi, Guerrero"
+5645,045FRR,hondurensis,M,Guerrero,"Omiltemi, 0.4 km W",-99.68583333,17.56611111,2220,44.5,1292,1782.334839,95,26,"Omiltemi, Guerrero"
+5656,0029APH,parvidens,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 63, Puerto Eligio",-96.33583333,17.65194444,650,38.8,3491,2141.620605,147,25,"Carretera Tuxtepec-Oaxaca, km 63, Puerto Eligio"
+5660,KABS130,parvidens,M,Nayarit,"El Cuarenteño, 3 km NNE",-105.0058333,21.475,1330,39.8,1756,2053.387207,133.3333333,19,La Noria
+5663,KABS131,parvidens,M,Nayarit,"El Cuarenteño, 3 km NNE",-105.0058333,21.475,1330,39.8,1756,2053.387207,133.3333333,20.3,La Noria
+5664,KABS137,parvidens,M,Nayarit,"El Cuarenteño, 3 km NNE",-105.0058333,21.475,1330,40.3,1756,2053.387207,133.3333333,16.3,La Noria
+5665,KABS135,parvidens,M,Nayarit,"El Cuarenteño, 3 km NNE",-105.0058333,21.475,1330,40.7,1756,2053.387207,133.3333333,19.8,La Noria
+5667,KABS132,parvidens,F,Nayarit,"El Cuarenteño, 3 km NNE",-105.0058333,21.475,1330,40.3,1756,2053.387207,133.3333333,19.2,La Noria
+5669,KABS136,parvidens,F,Nayarit,"El Cuarenteño, 3 km NNE",-105.0058333,21.475,1330,40.4,1756,2053.387207,133.3333333,17.6,La Noria
+5671,KABS133,parvidens,M,Nayarit,"El Cuarenteño, 3 km NNE",-105.0058333,21.475,1330,38.4,1756,2053.387207,133.3333333,16.6,La Noria
+5679,KABS097,parvidens,M,Oaxaca,"Estación de tren ""El Venado""",-97.00166667,17.59027778,1470,42,555,2175.538574,152,16.8,"Estación de tren ""El Venado"""
+5684,KABS142,parvidens,M,Nayarit,El Cuarenteño. Sierra San Juan,-104.9480556,21.47694444,1000,37.4,1585,2004.039795,109,15,El Cuarenteño. Sierra San Juan
+5807,362HRP,parvidens,F,Hidalgo,Mezquititlán,-98.97333333,20.53166667,1312,41.19,651,2122.733398,109.6666667,20,Mezquititlán
+5809,073HRP,parvidens,F,Hidalgo,Tolantongo,-98.98416667,20.65555556,1200,39.6,643,2292.246094,137.25,17,Tolantongo
+5810,205HRP,parvidens,F,Hidalgo,Tolantongo,-98.98416667,20.65555556,1200,39.9,643,2292.246094,137.25,19,Tolantongo
+5811,126HRP,hondurensis,M,Hidalgo,Tolantongo,-98.98416667,20.65555556,1200,43.7,643,2292.246094,137.25,20,Tolantongo
+5813,252HRP,parvidens,F,Hidalgo,San Pedro Huazalingo,-98.52166667,20.95166667,400,36.8,1457,2446.627441,188.1666667,19,San Pedro Huazalingo
+5814,265HRP,hondurensis,F,Hidalgo,Carretera Tehuatlán-Huazalingo 10 km NW,-98.51888889,21.03583333,435.8681641,42.5,1531,2452.729736,187.4166667,18,Carretera Tehuatlán-Huazalingo 10 km NW
+5815,072HRP,hondurensis,F,Hidalgo,Tolantongo,-98.98416667,20.65555556,1200,42.6,643,2292.246094,137.25,NA,Tolantongo
+5816,084HRP,parvidens,M,Hidalgo,Tolantongo,-98.98416667,20.65555556,1200,40.4,643,2292.246094,137.25,20,Tolantongo
+5817,260HRP,hondurensis,F,Hidalgo,Carretera Tehuatlán-Huazalingo 10 km NW,-98.51888889,21.03583333,435.8681641,42,1531,2452.729736,187.4166667,20,Carretera Tehuatlán-Huazalingo 10 km NW
+5818,263HRP,hondurensis,F,Hidalgo,Carretera Tehuatlán-Huazalingo 10 km NW,-98.51888889,21.03583333,426.5319824,44.3,1531,2452.729736,187.4166667,20,Carretera Tehuatlán-Huazalingo 10 km NW
+5820,085HRP,parvidens,F,Hidalgo,Tolantongo,-98.98416667,20.65555556,1200,39.3,643,2292.246094,137.25,18,Tolantongo
+5821,170HRP,hondurensis,F,Hidalgo,San Pedro Huazalingo,-98.52166667,20.95166667,400,43.1,1457,2446.627441,188.1666667,20,San Pedro Huazalingo
+5842,502LLP,hondurensis,F,Hidalgo,"Tlanchinol, 5 km E",-98.60472222,20.99194444,1550,44.3,1965,2295.502686,155,20,"Tlanchinol, 5 km E"
+5957,1649MQ,hondurensis,M,Querétaro,"Peñamiller, 2 km E",-99.80444444,21.06055556,1400,43.3,331,2554.843994,146.8333333,21.5,"Peñamiller, 2 km E"
+5958,1650MQ,hondurensis,M,Querétaro,"Peñamiller, 0.5 km SW",-99.83861111,21.05111111,1400,44.5,461,2478.511719,131.5,22.5,"Peñamiller, 0.5 km SW"
+5959,1658MQ,hondurensis,F,Querétaro,"Peñamiller, 0.5 km SW",-99.83861111,21.05111111,1400,43.8,461,2478.511719,131.5,23,"Peñamiller, 0.5 km SW"
+5960,1517MQ,parvidens,M,Querétaro,"Carretera Jalpan-Landa de Matamoros, km 8",-99.41972222,21.1825,840,39.6,629,2515.374756,161,16.5,"Carretera Jalpan-Landa de Matamoros, km 8"
+6046,294HRP,parvidens,M,Quintana Roo,Caoba,-89.10166667,18.44666667,150,38.6,1191,2053.32666,218.3333333,NA,Caoba
+6098,KMcBee312,hondurensis,F,Jalisco,"Talpa de Allende, 20.116 km SW",-104.8775,20.23555556,1260,44,1211,2256.716064,160,18,"Talpa de Allende, 20.116 km SW"
+6193,122MQ,parvidens,F,Querétaro,"Ahuacatlán de Guadalupe, 1 km S",-99.54305556,21.20166667,1000,37.2,818,2462.049561,143.4166667,18,Ahuacatlán S
+6339,151CAS,parvidens,F,Oaxaca,Zoquiapam. Boca de Los Ríos,-96.84666667,17.54666667,630,42.94,557,2301.040283,170.6666667,15,Zoquiapam. Boca de Los Ríos
+6410,0289APH,parvidens,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla",-96.31888889,17.75888889,150,37.6,2325,2530.261963,214.9166667,NA,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla"
+6411,0299APH,parvidens,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla",-96.31888889,17.75888889,150,37.8,2325,2530.261963,214.9166667,NA,"Carretera Tuxtepec-Oaxaca, km 52, San Mateo Yetla"
+6448,056GPQ,hondurensis,F,Chiapas,"Pueblo Nuevo, 6 km NE",-92.87027778,17.36444444,542.5078125,44.7,2843,2316.713379,195.8333333,20.5,"Pueblo Nuevo, 6 km NE"
+6449,No. 6a,parvidens,F,México,"Zacualpan, 8 km N",-99.74027778,18.77388889,1675.153076,40.6,1172,2276.147705,140.75,19.5,"Zacualpan, 8 km N"
+6450,217HRP,parvidens,F,Quintana Roo,"La Unión, 7 km N",-88.882025,17.95454722,60,38.3,1516,1830.787842,225.5833333,18,La Unión QR
+6451,216HRP,parvidens,M,Quintana Roo,"La Unión, 7 km N",-88.882025,17.95454722,60,38.1,1516,1830.787842,225.5833333,15,La Unión QR
+6452,211HRP,parvidens,M,Quintana Roo,"La Unión, 5 km N",-88.87789167,17.939025,70,37.7,1380,1834.15271,228.4166667,15,La Unión QR
+6453,208HRP,parvidens,F,Quintana Roo,"La Unión, 7 km N",-88.882025,17.95454722,60,36.4,1516,1830.787842,225.5833333,15,La Unión QR
+6454,218HRP,parvidens,F,Quintana Roo,"La Unión, 5 km N",-88.87789167,17.939025,70,36.8,1380,1834.15271,228.4166667,15,La Unión QR
+6455,238HRP,parvidens,M,Quintana Roo,"San Felipe Bacalar, 8 km W",-88.47194444,18.68166667,47.50729752,38.1,1419,1769.192383,230.0833333,18,"San Felipe Bacalar, 8 km W"
+6456,229HRP,parvidens,M,Quintana Roo,"La Unión, 5 km N",-88.88222222,17.94055556,45.81476974,37.2,1380,1834.15271,228.4166667,14,La Unión QR
+6457,239HRP,parvidens,F,Quintana Roo,"San Felipe Bacalar, 8 km W",-88.47194444,18.68166667,47.50729752,36.3,1419,1769.192383,230.0833333,19,"San Felipe Bacalar, 8 km W"
+6458,237HRP,parvidens,M,Quintana Roo,"La Unión, 5 km N",-88.88222222,17.94055556,45.81476974,38.8,1380,1834.15271,228.4166667,19,La Unión QR
+6459,210HRP,parvidens,F,Quintana Roo,"La Unión, 5 km N",-88.88222222,17.94055556,45.81476974,35.6,1380,1834.15271,228.4166667,15,La Unión QR
+6460,HEPU022,hondurensis,F,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 65. Metates",-96.35722222,17.65083333,850,42,3203,2305.241211,173.5,NA,"Carretera Tuxtepec-Oaxaca, km 65. Metates"
+6461,0438LLP,parvidens,M,Oaxaca,San Isidro. El Naranjal,-96.13083333,17.89722222,100,38,2695,2493.38916,213.6666667,18,San Isidro. El Naranjal
+6462,020BCTD,parvidens,F,Hidalgo,Puente de Camarones,-98.22333333,20.39111111,1131.126465,37.6,1139,2289.336182,159.0833333,16,Puente de Camarones
+6464,022BCTD,parvidens,F,Hidalgo,Puente de Camarones,-98.22333333,20.39111111,1131.126465,39.4,1139,2289.336182,159.0833333,16,Puente de Camarones
+6465,052ECA,parvidens,M,Chiapas,Poza Galán,-93.77138889,16.28166667,514.0605469,40.5,1055,1736.005981,206.5833333,20.5,Poza Galán
+6466,077BCTD,parvidens,F,Hidalgo,Puente de Camarones,-98.22333333,20.39111111,1131.126465,39.8,1139,2289.336182,159.0833333,15,Puente de Camarones
+6467,075BCTD,parvidens,M,Hidalgo,Puente de Camarones,-98.22333333,20.39111111,1131.126465,39,1139,2289.336182,159.0833333,13,Puente de Camarones
+6468,146CAS,parvidens,M,Oaxaca,Zoquiapam. Boca de Los Ríos,-96.84666667,17.54666667,630,42.4,557,2301.040283,170.6666667,21,Zoquiapam. Boca de Los Ríos
+6469,078BCTD,parvidens,M,Hidalgo,Puente de Camarones,-98.22333333,20.39111111,1131.126465,38.7,1139,2289.336182,159.0833333,14,Puente de Camarones
+6471,149CAS,parvidens,M,Oaxaca,Zoquiapam. Boca de Los Ríos,-96.84666667,17.54666667,630,41.88,557,2301.040283,170.6666667,15,Zoquiapam. Boca de Los Ríos
+6474,253,hondurensis,F,Oaxaca,Clemencia,-96.795,18.255,1298.022461,44,3379,2171.306152,148.1666667,19,Clemencia
+6475,388CAS,hondurensis,F,Oaxaca,San Martín Caballero,-97.78333333,17.52166667,1415,44,628,1974.907837,115.25,20,San Martín Caballero
+6487,239CAS,parvidens,M,Oaxaca,"Estación de tren ""El Venado""",-97.00166667,17.59027778,1288.57019,43.4,555,2175.538574,152,20,"Estación de tren ""El Venado"""
+6497,384CAS,hondurensis,M,Oaxaca,San Martín Caballero,-97.78333333,17.52166667,1415,43.98,628,1974.907837,115.25,23,San Martín Caballero
+6498,957EEM,hondurensis,M,Chiapas,"Reserva ""El Triunfo""",-92.82,15.67166667,2200,43.5,3094,1251.564453,119.5833333,20.5,"Reserva ""El Triunfo"""
+6499,410CAS,hondurensis,M,Oaxaca,San Martín Caballero,-97.78333333,17.52166667,1415,47.8,628,1974.907837,115.25,23.5,San Martín Caballero
+6500,25b,hondurensis,F,Oaxaca,Clemencia,-96.795,18.255,1298.022461,43.4,3379,2171.306152,148.1666667,20,Clemencia
+6501,104CAS,hondurensis,M,Oaxaca,San Juan Bautista. Atatlahuca,-96.82743056,17.53108611,1002,45.4,560,2270.716797,168.1666667,28,San Juan Bautista. Atatlahuca
+6502,430CAS,hondurensis,M,Oaxaca,San Juan Bautista. Atatlahuca,-96.82743056,17.53108611,1002,45.8,560,2270.716797,168.1666667,25,San Juan Bautista. Atatlahuca
+6503,004GPQ,hondurensis,F,Guerrero,Omiltemi,-99.68555556,17.56611111,2220,43.8,1292,1782.334839,95,NA,"Omiltemi, Guerrero"
+6504,058BCTD,hondurensis,M,Hidalgo,Cabaña 0.6 km rumbo a 5 de Mayo,-98.23805556,20.33444444,1545.179321,45,1214,2148.616943,130.75,22,Tenango de Doria Hidalgo
+6505,125CAS,hondurensis,M,Oaxaca,Zoquiapam. Boca de Los Ríos,-96.84666667,17.54666667,630,42.7,557,2301.040283,170.6666667,20,Zoquiapam. Boca de Los Ríos
+6506,380CAS,hondurensis,F,Oaxaca,San Martín Caballero,-97.78333333,17.52166667,1415,44,628,1974.907837,115.25,19,San Martín Caballero
+6507,013BCTD,hondurensis,F,Hidalgo,El Potrero,-98.23222222,20.32111111,2106.070557,44.4,1506,1976.522217,98.41666667,20,Tenango de Doria Hidalgo
+6508,050BCTD,hondurensis,F,Hidalgo,El Cirio,-98.24694444,20.33638889,1442.521362,41.6,1140,2170.154053,135.9166667,19,Tenango de Doria Hidalgo
+6509,387CAS,hondurensis,M,Oaxaca,San Martín Caballero,-97.78333333,17.52166667,1415,46,628,1974.907837,115.25,20,San Martín Caballero
+6510,381CAS,hondurensis,M,Oaxaca,San Martín Caballero,-97.78333333,17.52166667,1415,45,628,1974.907837,115.25,20,San Martín Caballero
+6511,240,hondurensis,F,Oaxaca,Puerto de la Soledad,-97.01166667,18.18277778,2195,44.4,1622,1894.226318,94.75,20,Puerto de la Soledad
+6512,018BCTD,hondurensis,F,Hidalgo,"Tenango de Doria, Cabaña 0.5 km rumbo a la carretera",-98.23222222,20.33444444,1623.72229,42,1279,2114.836182,124.5,20,Tenango de Doria Hidalgo
+6513,076BCTD,hondurensis,F,Hidalgo,Puente de Camarones,-98.22333333,20.39111111,1131.126465,42,1139,2289.336182,159.0833333,17.5,Puente de Camarones
+6546,UMSP217,parvidens,F,Oaxaca,San Isidro. La Gringa,-94.1225,17.10361111,150,39,2104,2260.237061,221.3333333,19,San Isidro. La Gringa
+6547,UMSP215,parvidens,F,Oaxaca,San Isidro. La Gringa,-94.1225,17.10361111,150,38.62,2104,2260.237061,221.3333333,14,San Isidro. La Gringa
+6548,UMSP021,parvidens,F,Oaxaca,San Isidro. La Gringa,-94.1225,17.10361111,150,40.2,2104,2260.237061,221.3333333,15,San Isidro. La Gringa
+6549,UMSP059,parvidens,M,Oaxaca,San Isidro. La Gringa,-94.1225,17.10361111,150,38.73,2104,2260.237061,221.3333333,14,San Isidro. La Gringa
+6550,UMSP054,parvidens,F,Oaxaca,San Isidro. La Gringa,-94.1225,17.10361111,150,39.7,2104,2260.237061,221.3333333,16,San Isidro. La Gringa
+6551,UMSP064,parvidens,M,Oaxaca,San Isidro. La Gringa,-94.1225,17.10361111,150,39,2104,2260.237061,221.3333333,15,San Isidro. La Gringa
+6552,UMSP058,parvidens,M,Oaxaca,San Isidro. La Gringa,-94.1225,17.10361111,150,38.8,2104,2260.237061,221.3333333,13,San Isidro. La Gringa
+6553,UMSP057,parvidens,M,Oaxaca,San Isidro. La Gringa,-94.1225,17.10361111,150,40.44,2104,2260.237061,221.3333333,15,San Isidro. La Gringa
+6554,UMSP306,parvidens,F,Oaxaca,Chalchijapa,-94.59916667,17.07694444,270,37,2713,2144.257324,195.5833333,13.5,Chalchijapa
+6555,UMSP127,parvidens,F,Oaxaca,Chalchijapa,-94.59916667,17.07694444,270,41,2713,2144.257324,195.5833333,15,Chalchijapa
+6556,UMSP125,parvidens,F,Oaxaca,Chalchijapa,-94.59916667,17.07694444,270,39.6,2713,2144.257324,195.5833333,15,Chalchijapa
+6557,UMSP124,parvidens,F,Oaxaca,Chalchijapa,-94.59916667,17.07694444,270,39,2713,2144.257324,195.5833333,14,Chalchijapa
+6558,UMSP117,parvidens,F,Oaxaca,Chalchijapa,-94.59916667,17.07694444,270,40.27,2713,2144.257324,195.5833333,12.5,Chalchijapa
+6559,UMSP052,parvidens,M,Oaxaca,San Isidro. La Gringa,-94.1225,17.10361111,150,37.8,2104,2260.237061,221.3333333,16,San Isidro. La Gringa
+6560,UMSP20,parvidens,M,Oaxaca,San Isidro. La Gringa,-94.1225,17.10361111,150,38,2104,2260.237061,221.3333333,15,San Isidro. La Gringa
+6561,UMSP172,hondurensis,F,Oaxaca,Chalchijapa,-94.59916667,17.07694444,270,46,2713,2144.257324,195.5833333,20,Chalchijapa
+6562,UMSP161,hondurensis,F,Oaxaca,Chalchijapa,-94.59916667,17.07694444,270,42,2713,2144.257324,195.5833333,21.5,Chalchijapa
+6563,UMSP231,hondurensis,F,Oaxaca,Chalchijapa,-94.59916667,17.07694444,270,42,2713,2144.257324,195.5833333,18,Chalchijapa
+6646,243HRP,parvidens,M,Quintana Roo,San Felipe Bacalar,-88.42194444,18.77694444,24.42961311,37.8,1302,1786.477661,231.5,13,San Felipe Bacalar
+6647,214HRP,parvidens,F,Quintana Roo,"La Unión, 7 km N",-88.88222222,17.95222222,80.01121521,36,1516,1830.787842,225.5833333,13.5,La Unión QR
+6648,039HRP,parvidens,F,Yucatán,X-Pechil. Peto,-88.87666667,20.02666667,40.62911606,37.6,1131,2661.72583,217.9166667,NA,X-Pechil. Peto
+6650,233CAS,parvidens,F,Oaxaca,"Estación de tren ""El Venado""",-97.00166667,17.59027778,1331.852417,40,555,2175.538574,152,14,"Estación de tren ""El Venado"""
+6656,286APH,hondurensis,M,Oaxaca,"Carretera Tuxtepec-Oaxaca, km 65. Metates",-96.35722222,17.65083333,850,44.6,3203,2305.241211,173.5,NA,"Carretera Tuxtepec-Oaxaca, km 65. Metates"
+6658,060GPQ,hondurensis,M,Chiapas,"Pueblo Nuevo, 6 km NE",-92.87027778,17.36444444,577.5542603,44.4,2843,2316.713379,195.8333333,24,"Pueblo Nuevo, 6 km NE"
+6659,252,hondurensis,F,Oaxaca,Clemencia,-96.795,18.255,1314.496948,43,3379,2171.306152,148.1666667,23,Clemencia
+6661,278CAS,hondurensis,F,Oaxaca,Carretera Santa María Papalo-Peña Verde,-96.75813333,17.84706667,2220,44.8,2667,1907.81897,98.66666667,21,Carretera Santa María Papalo-Peña Verde
+6662,257,hondurensis,M,Oaxaca,Clemencia,-96.795,18.255,1314.496948,47,3379,2171.306152,148.1666667,20,Clemencia
+6664,293CAS,hondurensis,M,Oaxaca,Carretera Santa María Papalo-Peña Verde,-96.75611111,17.84694444,2220,42,2667,1907.81897,98.66666667,22,Carretera Santa María Papalo-Peña Verde
+6754,205GPQ,hondurensis,F,México,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",-99.33916667,18.96972222,2221.559082,43.2,1334,2065.971924,109.3333333,21.5,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+6767,386CAS,hondurensis,F,Oaxaca,San Martín Caballero,-97.78333333,17.52166667,1415,44,628,1974.907837,115.25,20,San Martín Caballero
+6859,616SAM,parvidens,M,Chiapas,Campamento Arqueológico del INAH de Yaxchilán,-90.96938889,16.90097222,120,38.3,2593,2235.583984,217.5,15,Campamento Arqueológico del INAH de Yaxchilán
+6860,617SAM,parvidens,F,Chiapas,Campamento Arqueológico del INAH de Yaxchilán,-90.96938889,16.90097222,120,36.9,2593,2235.583984,217.5,14,Campamento Arqueológico del INAH de Yaxchilán
+6865,620SAM,parvidens,F,Chiapas,Campamento Arqueológico del INAH de Yaxchilán,-90.96938889,16.90097222,120,37.4,2593,2235.583984,217.5,13.5,Campamento Arqueológico del INAH de Yaxchilán
+6954,AEM057,parvidens,F,Chiapas,Campamento Arqueológico del INAH de Yaxchilán,-90.96938889,16.90097222,120,39.3,2593,2235.583984,217.5,14.5,Campamento Arqueológico del INAH de Yaxchilán
+6955,AEM059,parvidens,F,Chiapas,Campamento Arqueológico del INAH de Yaxchilán,-90.96938889,16.90097222,120,40.2,2593,2235.583984,217.5,17,Campamento Arqueológico del INAH de Yaxchilán
+6963,542SAM,parvidens,F,Chiapas,Zona Arqueológica Monumento Natural Yaxchilán,-90.96458333,16.89822222,130,38.4,2587,2233.945801,216.0833333,13.5,Zona Arqueológica Monumento Natural Yaxchilán
+6978,554SAM,parvidens,M,Chiapas,Zona Arqueológica Monumento Natural Yaxchilán,-90.96458333,16.89822222,130,36.5,2587,2233.945801,216.0833333,12.5,Zona Arqueológica Monumento Natural Yaxchilán
+7065,AEM135,parvidens,M,Chiapas,Zona Arqueológica Monumento Natural Yaxchilán,-90.96458333,16.89822222,130,40.4,2587,2233.945801,216.0833333,13.5,Zona Arqueológica Monumento Natural Yaxchilán
+7067,AEM137,parvidens,M,Chiapas,Zona Arqueológica Monumento Natural Yaxchilán,-90.96458333,16.89822222,130,36.32,2587,2233.945801,216.0833333,14.5,Zona Arqueológica Monumento Natural Yaxchilán
+7068,AEM138,parvidens,F,Chiapas,Campamento Arqueológico del INAH de Yaxchilán,-90.96938889,16.90097222,120,39.4,2593,2235.583984,217.5,15,Campamento Arqueológico del INAH de Yaxchilán
+7123,AEM209,parvidens,M,Chiapas,Campamento Arqueológico del INAH de Yaxchilán,-90.96938889,16.90097222,120,39.31,2593,2235.583984,217.5,16,Campamento Arqueológico del INAH de Yaxchilán
+7125,AEM211,parvidens,M,Chiapas,Campamento Arqueológico del INAH de Yaxchilán,-90.96938889,16.90097222,120,40,2593,2235.583984,217.5,16.5,Campamento Arqueológico del INAH de Yaxchilán
+7207,055RAG,parvidens,F,Querétaro,Tangojó,-99.10944444,21.16388889,559.4320068,40,1040,2534.427979,183,13,Tangojó
+7208,RAG004,parvidens,M,Querétaro,San Miguel Palma,-99.96383306,21.09933306,1465.901733,39,306,2567.436279,141.4166667,18,San Miguel Palma
+7209,052RAG,parvidens,F,Querétaro,Tangojó,-99.10944444,21.16388889,515.8406372,42,1040,2534.427979,183,16,Tangojó
+7210,050RAG,parvidens,M,Querétaro,Tangojó,-99.10944444,21.16388889,515.8406372,42,1040,2534.427979,183,NA,Tangojó
+7211,RAG048,parvidens,F,Querétaro,Tangojó,-99.10944444,21.16388889,515.8406372,37,1040,2534.427979,183,NA,Tangojó
+7214,RAG005,parvidens,F,Querétaro,San Miguel Palma,-99.96383306,21.09933306,1465.901733,37.8,306,2567.436279,141.4166667,20,San Miguel Palma
+7215,RAG006,parvidens,M,Querétaro,San Miguel Palma,-99.96383306,21.09933306,1465.901733,42.6,306,2567.436279,141.4166667,19,San Miguel Palma
+7216,RAG033,parvidens,F,Querétaro,"Presa Zimapán, 4 km NW Tziquia",-99.60866667,20.60716639,1571.964111,39.5,397,2427.468994,135.3333333,18,"Presa Zimapán, 4 km NW Tziquia"
+7275,RAG002,hondurensis,F,Querétaro,San Miguel Palma,-99.96383306,21.09933306,1465.901733,40.3,306,2567.436279,141.4166667,30,San Miguel Palma
+7480,DOR004,parvidens,F,San Luis Potosí,San Nicolás de los Montes,-99.42777778,22.12583333,771.9624634,42,1193,2664.176514,167.1666667,16,San Nicolás de los Montes
+7496,013DOR,parvidens,M,San Luis Potosí,San Nicolás de los Montes,-99.42777778,22.12583333,771.9624634,43,1193,2664.176514,167.1666667,20,San Nicolás de los Montes
+7515,017DOR,parvidens,F,San Luis Potosí,San Nicolás de los Montes,-99.42777778,22.12583333,771.9624634,39.3,1193,2664.176514,167.1666667,16,San Nicolás de los Montes
+7520,AOW016,parvidens,M,San Luis Potosí,San Nicolás de los Montes,-99.42777778,22.12583333,771.9624634,38.3,1193,2664.176514,167.1666667,18,San Nicolás de los Montes
+7521,018DOR,parvidens,F,San Luis Potosí,San Nicolás de los Montes,-99.42777778,22.12583333,771.9624634,41,1193,2664.176514,167.1666667,17,San Nicolás de los Montes
+7531,024DOR,parvidens,M,San Luis Potosí,San Nicolás de los Montes,-99.42777778,22.12583333,771.9624634,40.5,1193,2664.176514,167.1666667,12,San Nicolás de los Montes
+7533,AOW017,parvidens,M,San Luis Potosí,San Nicolás de los Montes,-99.42777778,22.12583333,771.9624634,37.8,1193,2664.176514,167.1666667,15,San Nicolás de los Montes
+7548,163MCyT,hondurensis,F,San Luis Potosí,San Nicolás de los Montes,-99.42777778,22.12583333,771.9624634,40.43,1193,2664.176514,167.1666667,NA,San Nicolás de los Montes
+7589,003HCOM,hondurensis,M,Hidalgo,"Cerro Jarros, 1 km E. El Sótano",-98.888333,21.183889,1310,44.4,2115,2336.203613,151.5833333,25,"Cerro Jarros, 1 km E. El Sótano"
+7591,OO5HCOM,hondurensis,M,Hidalgo,"Cerro Jarros, 1 km E. El Sótano",-98.888333,21.183889,1310,42.7,2115,2336.203613,151.5833333,27,"Cerro Jarros, 1 km E. El Sótano"
+7613,027HCOM,hondurensis,F,Hidalgo,"Cerro Jarros, 1 km E. El Sótano",-98.88833333,21.18388889,1310,42.5,2115,2336.203613,151.5833333,25,"Cerro Jarros, 1 km E. El Sótano"
+8062,184SMY,hondurensis,M,Oaxaca,Zona habitacional,-96.44972222,17.23277778,2000,43.5,1419,1754.681152,77.91666667,24,Zona habitacional
+8063,188SMY,hondurensis,M,Oaxaca,Zona habitacional,-96.44972222,17.23277778,2000,47,1419,1754.681152,77.91666667,NA,Zona habitacional
+8064,189SMY,hondurensis,M,Oaxaca,Zona habitacional,-96.44972222,17.23277778,2000,45,1419,1754.681152,77.91666667,NA,Zona habitacional
+8635,298CAS,hondurensis,M,Oaxaca,Comunidad Morelos,-97.71993333,17.0849,27.3,44.2,1615,1636.496582,68.41666667,23,Comunidad Morelos
+8669,349CAS,hondurensis,M,Oaxaca,"Carretera Rumbo a Rio Grande, La Luz",-97.599834,16.11258,84,44,1262,1427.795166,243.5833333,21,"Carretera Rumbo a Rio Grande, La Luz"
+8673,354CAS,hondurensis,F,Oaxaca,San Martín Caballero,-96.637033,17.959833,1500,46,3834,1969.234497,111.0833333,22,San Martín Caballero
+8674,355CAS,hondurensis,M,Oaxaca,San Martín Caballero,-96.637033,17.959833,1500,46.5,3834,1969.234497,111.0833333,25,San Martín Caballero
+8676,360CAS,hondurensis,M,Oaxaca,San Martín Caballero,-96.637033,17.959833,1500,43.7,3834,1969.234497,111.0833333,21,San Martín Caballero
+8680,364CAS,hondurensis,F,Oaxaca,San Martín Caballero,-96.637033,17.959833,1500,43.3,3834,1969.234497,111.0833333,19,San Martín Caballero
+8681,365CAS,hondurensis,F,Oaxaca,San Martín Caballero,-96.637033,17.959833,1500,45,3834,1969.234497,111.0833333,20,San Martín Caballero
+8684,367CAS,hondurensis,M,Oaxaca,San Martín Caballero,-96.637033,17.959833,1500,44.6,3834,1969.234497,111.0833333,22.5,San Martín Caballero
+8761,458UMSP,hondurensis,F,Hidalgo,"Cerro Jarros, 1 km E. El Sótano",-98.88833333,21.18388889,1310,43.47,2115,2336.203613,151.5833333,16.5,"Cerro Jarros, 1 km E. El Sótano"
+8763,498UMSP,parvidens,F,San Luis Potosí,Tanlacut,-99.29833333,21.67611111,267.6529846,38.6,1035,2710.130615,196.1666667,17,Tanlacut
+8764,459UMSP,hondurensis,F,Hidalgo,"Cerro Jarros, 1 km E. El Sótano",-98.88833333,21.18388889,1310,44,2115,2336.203613,151.5833333,19,"Cerro Jarros, 1 km E. El Sótano"
+8765,467UMSP,hondurensis,F,Hidalgo,"Cerro Jarros, 1 km E. El Sótano",-98.88833333,21.18388889,1310,45,2115,2336.203613,151.5833333,NA,"Cerro Jarros, 1 km E. El Sótano"
+8766,499UMSP,parvidens,M,San Luis Potosí,Tanlacut,-99.29833333,21.67611111,267.6529846,43,1035,2710.130615,196.1666667,21,Tanlacut
+8791,053MCyT,parvidens,F,Campeche,"Hampolol, ejido. Estación biológica CEDESU",-90.4,19.93305556,10,37.3,1132,2473.522217,235,16,"Hampolol, ejido. Estación biológica CEDESU"
+8850,UMSP465,hondurensis,M,Hidalgo,"Cerro Jarros, 1 km E. El Sótano",-98.88833333,21.18388889,1310,45,2115,2336.203613,151.5833333,25,"Cerro Jarros, 1 km E. El Sótano"
+9035,154BCTD,hondurensis,F,Hidalgo,"Tenango de Doria, El Cirio",-98.246944,20.306389,1422,42.7,1466,2036.560303,110.6666667,23,"Tenango de Doria, El Cirio"
+9153,MAMT062,parvidens,F,Puebla,"Huehuetla, 3 km S",-97.61,20.08944444,633,37,2294,2309.288574,195.6666667,15,"Huehuetla, 3 km S"
+9224,464UMSP,hondurensis,M,Hidalgo,"Cerro Jarros, 1 km E. El Sótano",-98.88833333,21.18388889,1310,46,2115,2336.203613,151.5833333,24,"Cerro Jarros, 1 km E. El Sótano"
+9225,466UMSP,hondurensis,M,Hidalgo,"Cerro Jarros, 1 km E. El Sótano",-98.88833333,21.18388889,1310,45,2115,2336.203613,151.5833333,23,"Cerro Jarros, 1 km E. El Sótano"
+9226,468UMSP,hondurensis,M,Hidalgo,"Cerro Jarros, 1 km E. El Sótano",-98.88833333,21.18388889,1310,47.5,2115,2336.203613,151.5833333,21,"Cerro Jarros, 1 km E. El Sótano"
+9231,474UMSP,parvidens,F,San Luis Potosí,"Santa María Acapulco, 3 km SW. El Mezquital",-99.45138889,21.46166667,622.1091309,40.01,839,2634.49707,178.0833333,18,"Santa María Acapulco, 3 km SW. El Mezquital"
+9234,478UMSP,parvidens,F,San Luis Potosí,"Santa María Acapulco, 3 km SW. El Mezquital",-99.45138889,21.46166667,622.1091309,38,839,2634.49707,178.0833333,15,"Santa María Acapulco, 3 km SW. El Mezquital"
+9268,MAMT059,parvidens,M,Puebla,"Huehuetla, 3 km S",-97.61,20.08944444,633,39,2294,2309.288574,195.6666667,20,"Huehuetla, 3 km S"
+9329,MAMT007,hondurensis,F,Guerrero,"Carrizal del Bravo, 3.4 km SE",-99.83166667,17.58972222,2607,44.5,1587,1671.873047,68.33333333,20,"Carrizal del Bravo, 3.4 km SE"
+9422,MAMT064,parvidens,F,Puebla,"Huehuetla, 3 km S",-97.61,20.08944444,633,39,2294,2309.288574,195.6666667,12.5,"Huehuetla, 3 km S"
+9472,MAMT001,hondurensis,F,Guerrero,Carrizal del Bravo,-99.83805556,17.61944444,2435,42.42,1289,1800.583496,91.25,19,Carrizal del Bravo
+9473,MAMT002,hondurensis,F,Guerrero,Carrizal del Bravo,-99.83805556,17.61944444,2435,44,1289,1800.583496,91.25,19,Carrizal del Bravo
+9474,MAMT019,hondurensis,F,Guerrero,Carrizal del Bravo,-99.83805556,17.61944444,2435,43.5,1289,1800.583496,91.25,24,Carrizal del Bravo
+9494,MAM9081,parvidens,M,Michoacán,La Tinaja,-101.87,19.16388889,700,39.6,711,2781.558105,184.6666667,15.5,La Tinaja
+9495,MAM9083,parvidens,M,Michoacán,La Tinaja,-101.87,19.16388889,700,38.59,711,2781.558105,184.6666667,17,La Tinaja
+9535,423CAS,hondurensis,F,Oaxaca,San Martín Caballero,-97.78333333,17.52166667,1415,43,628,1974.907837,115.25,19,San Martín Caballero
+9557,AEM312,parvidens,F,San Luis Potosí,San Nicolás de los Montes,-99.42777778,22.12583333,789.6362305,38.8,1193,2664.176514,167.1666667,17,San Nicolás de los Montes
+9558,AEM311,parvidens,F,San Luis Potosí,San Nicolás de los Montes,-99.42777778,22.12583333,789.6362305,41,1193,2664.176514,167.1666667,15,San Nicolás de los Montes
+9699,065CAS,parvidens,M,Hidalgo,"Rancho ""Las Chacas""",-98.525,21.21083333,129,41.7,1525,2530.437988,203.8333333,17.5,"Rancho ""Las Chacas"""
+9711,CUETM014,hondurensis,F,Puebla,San Andrés Tzicuilan,-97.50641111,20.01403056,904,43.16,2468,2137.358643,170.5833333,20,San Andrés Tzicuilan
+9712,CUETM15,hondurensis,F,Puebla,San Andrés Tzicuilan,-97.50641111,20.01403056,904,45.5,2468,2137.358643,170.5833333,20,San Andrés Tzicuilan
+9714,CUETM009,hondurensis,M,Puebla,San Andrés Tzicuilan,-97.50641111,20.01403056,904,41.73,2468,2137.358643,170.5833333,18,San Andrés Tzicuilan
+9715,CUETM011,hondurensis,F,Puebla,San Andrés Tzicuilan,-97.50641111,20.01403056,904,41.19,2468,2137.358643,170.5833333,17,San Andrés Tzicuilan
+9716,CUETM007,hondurensis,F,Puebla,San Andrés Tzicuilan,-97.50641111,20.01403056,904,43.7,2468,2137.358643,170.5833333,20,San Andrés Tzicuilan
+9717,CUETM010,hondurensis,F,Puebla,San Andrés Tzicuilan,-97.50641111,20.01403056,904,42.42,2468,2137.358643,170.5833333,17,San Andrés Tzicuilan
+9718,CUETM008,hondurensis,F,Puebla,San Andrés Tzicuilan,-97.50641111,20.01403056,904,42.2,2468,2137.358643,170.5833333,16,San Andrés Tzicuilan
+9719,CUETM006,hondurensis,F,Puebla,San Andrés Tzicuilan,-97.50641111,20.01403056,904,43.69,2468,2137.358643,170.5833333,21,San Andrés Tzicuilan
+9720,CUETM005,hondurensis,M,Puebla,San Andrés Tzicuilan,-97.50641111,20.01403056,904,45.44,2468,2137.358643,170.5833333,23,San Andrés Tzicuilan
+9728,CUETM013,hondurensis,M,Puebla,San Andrés Tzicuilan,-97.50641111,20.01403056,904,44.89,2468,2137.358643,170.5833333,21,San Andrés Tzicuilan
+9741,TACM074,hondurensis,F,Chiapas,"Chiquihuites, 1.3 km NNW",-92.10330556,15.10611111,2444.905762,44.45,3376,1050.114746,100.1666667,19,"Chiquihuites, 1.3 km NNW"
+9742,TACM073,hondurensis,M,Chiapas,"Chiquihuites, 1.3 km NNW",-92.10330556,15.10611111,2444.905762,46,3376,1050.114746,100.1666667,NA,"Chiquihuites, 1.3 km NNW"
+9743,006TACM,hondurensis,F,Chiapas,"Chiquihuites, 1.3 km NNW",-92.10330556,15.10611111,2444.905762,43.2,3376,1050.114746,100.1666667,21.5,"Chiquihuites, 1.3 km NNW"
+9744,TACM072,hondurensis,M,Chiapas,"Chiquihuites, 1.3 km NNW",-92.10330556,15.10611111,2444.905762,45.1,3376,1050.114746,100.1666667,26,"Chiquihuites, 1.3 km NNW"
+9779,005PIJM,parvidens,F,Chiapas,"Rancho ""Tres Hermanos""",-93.01694444,15.57191667,84,39.1,2268,1449.819458,227.6666667,NA,"Rancho ""Tres Hermanos"""
+9796,187HBR,hondurensis,F,México,"Zacualpan, 5.3 Km W",-99.79953611,18.69193611,2316,44,1405,2080.622559,105.5,NA,"Zacualpan, 5.3 Km W"
+9892,1109SAM,parvidens,F,Chiapas,"Rancho Nueva Ensenada, Colonia Miguel Alemán Valdez",-93.01686111,15.56083333,71,36.4,2119,1473.517944,241.6666667,15,"Rancho Nueva Ensenada, Colonia Miguel Alemán Valdez"
+9901,1111SAM,parvidens,F,Chiapas,"Rancho Nueva Ensenada, Colonia Miguel Alemán Valdez",-93.01686111,15.56083333,71,39,2119,1473.517944,241.6666667,15.5,"Rancho Nueva Ensenada, Colonia Miguel Alemán Valdez"
+9996,CBM007,hondurensis,F,Guerrero,Carrizal del Bravo,-99.83805556,17.61944444,2435,43.1,1289,1800.583496,91.25,17,Carrizal del Bravo
+9999,CBM013,hondurensis,F,Guerrero,Carrizal del Bravo,-99.83805556,17.61944444,2435,44,1289,1800.583496,91.25,20,Carrizal del Bravo
+10000,CBM012,hondurensis,F,Guerrero,Carrizal del Bravo,-99.83805556,17.61944444,2435,43.3,1289,1800.583496,91.25,19,Carrizal del Bravo
+10001,CBM009,hondurensis,F,Guerrero,Carrizal del Bravo,-99.83805556,17.61944444,2435,43.4,1289,1800.583496,91.25,20,Carrizal del Bravo
+10002,CBM002,hondurensis,M,Guerrero,Carrizal del Bravo,-99.83805556,17.61944444,2435,43.4,1289,1800.583496,91.25,18,Carrizal del Bravo
+10014,007TACM,hondurensis,F,Chiapas,Volcán Tacaná. Chiquihuites,-92.09561111,15.09413889,1829,44.3,3377,1147.873535,129,20,Volcán Tacaná. Chiquihuites
+10015,TACM082,hondurensis,M,Chiapas,"Chiquihuites, 1.3 km NNW",-92.10330556,15.10611111,2444.905762,47.1,3376,1050.114746,100.1666667,26.5,"Chiquihuites, 1.3 km NNW"
+10016,003TACM,hondurensis,F,Chiapas,Volcán Tacaná. Chiquihuites,-92.09561111,15.09413889,1829,44,3377,1147.873535,129,18.5,Volcán Tacaná. Chiquihuites
+10019,TACM081,hondurensis,F,Chiapas,"Chiquihuites, 1.3 km NNW",-92.10330556,15.10611111,2444.905762,42.3,3376,1050.114746,100.1666667,20.5,"Chiquihuites, 1.3 km NNW"
+10020,TACM083,hondurensis,F,Chiapas,"Chiquihuites, 1.3 km NNW",-92.10330556,15.10611111,2444.905762,45.8,3376,1050.114746,100.1666667,21.5,"Chiquihuites, 1.3 km NNW"
+10021,TACM084,hondurensis,M,Chiapas,"Chiquihuites, 1.3 km NNW",-92.10330556,15.10611111,2444.905762,46.1,3376,1050.114746,100.1666667,25,"Chiquihuites, 1.3 km NNW"
+10023,TACM086,hondurensis,F,Chiapas,"Chiquihuites, 1.3 km NNW",-92.10330556,15.10611111,2444.905762,46.5,3376,1050.114746,100.1666667,21,"Chiquihuites, 1.3 km NNW"
+10034,1145SAM,hondurensis,M,Hidalgo,"Rancho ""El Gosco""",-98.23833333,20.32926667,1659,45.2,1368,2094.343262,120.3333333,21.5,Tenango de Doria Hidalgo
+10039,TAM006,parvidens,F,Veracruz,Cráter Dos Bocas,-97.81166667,21.34083333,215,39.7,1506,2104.441162,207,15,Cráter Dos Bocas
+10088,TDM009,hondurensis,F,Hidalgo,El Potrero,-98.23222222,20.32111111,2183.681641,45.2,1506,1976.522217,98.41666667,20.5,Tenango de Doria Hidalgo
+10164,MBB008,parvidens,M,Michoacán,Plan de Armas,-102.5033333,18.22638889,814,41.2,1134,1403.771973,193.5,16,Plan de Armas
+10167,MBB010,parvidens,F,Michoacán,Plan de Armas,-102.5033333,18.22638889,814,38.31,1134,1403.771973,193.5,13,Plan de Armas
+10168,MBB012,parvidens,M,Michoacán,Charco del Toro,-102.5413889,18.19194444,873,39.9,766,1464.309692,228.5,16,Charco del Toro
+10185,MBB026,parvidens,F,Michoacán,Charco del Toro,-102.5413889,18.19194444,873,38.54,766,1464.309692,228.5,16,Charco del Toro
+10257,TACM078,hondurensis,M,Chiapas,"Chiquihuites, 1.3 km NNW",-92.10330556,15.10611111,2444.905762,47.5,3376,1050.114746,100.1666667,24,"Chiquihuites, 1.3 km NNW"
+10258,TACM076,hondurensis,M,Chiapas,"Chiquihuites, 1.3 km NNW",-92.10330556,15.10611111,2444.905762,45.2,3376,1050.114746,100.1666667,24.5,"Chiquihuites, 1.3 km NNW"
+10259,TACM080,hondurensis,M,Chiapas,"Chiquihuites, 1.3 km NNW",-92.10330556,15.10611111,2444.905762,46,3376,1050.114746,100.1666667,27.5,"Chiquihuites, 1.3 km NNW"
+10260,TACM075,hondurensis,M,Chiapas,"Chiquihuites, 1.3 km NNW",-92.10330556,15.10611111,2444.905762,44.4,3376,1050.114746,100.1666667,22,"Chiquihuites, 1.3 km NNW"
+10261,TACM079,hondurensis,M,Chiapas,"Chiquihuites, 1.3 km NNW",-92.10330556,15.10611111,2444.905762,45.3,3376,1050.114746,100.1666667,25,"Chiquihuites, 1.3 km NNW"
+10333,MA004,parvidens,NA,Quintana Roo,San Felipe Bacalar,-88.42194444,18.77694444,24.42961311,37.3,1302,1786.477661,231.5,NA,San Felipe Bacalar
+10366,893N.Woodman,hondurensis,F,Oaxaca,San Martín Caballero,-97.78333333,17.52166667,1415,42.8,628,1974.907837,115.25,21,San Martín Caballero
+10368,896N.Woodman,hondurensis,F,Oaxaca,San Martín Caballero,-97.78333333,17.52166667,1415,42.1,628,1974.907837,115.25,20,San Martín Caballero
+10369,895N.Woodman,parvidens,F,Oaxaca,San Martín Caballero,-97.78333333,17.52166667,1415,43,628,1974.907837,115.25,19,San Martín Caballero
+10559,CAM056,parvidens,F,Guerrero,El Naranjo,-100.1622222,18.19166667,1150,39.5,1289,2438.740723,165.5,14,Campo Morado
+10822,BUAPD016,parvidens,M,Puebla,Huehuetlán el Grande (Santo Domingo Huehuetlán),-98.16222222,18.73694444,1356,39.7,623,2314.266846,163.9166667,22,Huehuetlán el Grande (Santo Domingo Huehuetlán)
+10823,BUAPE009,parvidens,M,Puebla,Huehuetlán el Grande (Santo Domingo Huehuetlán),-98.16222222,18.73694444,1356,40.8,623,2314.266846,163.9166667,19,Huehuetlán el Grande (Santo Domingo Huehuetlán)
+10824,BUAPE014,parvidens,M,Puebla,Huehuetlán el Grande (Santo Domingo Huehuetlán),-98.16222222,18.73694444,1356,40.4,623,2314.266846,163.9166667,22.5,Huehuetlán el Grande (Santo Domingo Huehuetlán)
+10825,BUAPE016,parvidens,M,Puebla,Huehuetlán el Grande (Santo Domingo Huehuetlán),-98.16222222,18.73694444,1356,41.4,623,2314.266846,163.9166667,NA,Huehuetlán el Grande (Santo Domingo Huehuetlán)
+10845,CAM044,parvidens,F,Guerrero,Campo Morado,-100.1622222,18.19166667,1150,38.7,1289,2438.740723,165.5,15,Campo Morado
+10935,MSE032,parvidens,M,Chiapas,"Ocosingo, 8 km E",-92.00861111,16.90694444,920,41,1649,2124.442871,176.4166667,17.5,"Ocosingo, 8 km E"
+10938,MOM123,hondurensis,F,Guerrero,El Molote,-100.1666667,17.41666667,1725,42,1788,1811.827271,116.0833333,19,El Molote
+11033,MYAC063,parvidens,M,Oaxaca,La Yerbabuena,-97.355,16.20305556,1500,38,1562,1338.543335,153.4166667,17,La Yerbabuena OAX
+11035,MYAC066,hondurensis,M,Oaxaca,La Yerbabuena,-97.355,16.20305556,1500,44.17,1562,1338.543335,153.4166667,22,La Yerbabuena OAX
+11257,MRM086,hondurensis,F,Veracruz,San Felipe Cerro Quebrado I,-96.91725,20.00930556,401,42,1805,1775.484375,201,22,San Felipe Cerro Quebrado I
+11258,MRM121,hondurensis,F,Veracruz,Pueblo Viejo,-96.87972222,19.81438889,724,44,1330,1821.342529,188.1666667,19,Pueblo Viejo
+11259,MRM122,hondurensis,M,Veracruz,Pueblo Viejo,-96.87972222,19.81438889,724,45,1330,1821.342529,188.1666667,23,Pueblo Viejo
+11261,MRM124,hondurensis,M,Veracruz,Pueblo Viejo,-96.87972222,19.81438889,724,43.69,1330,1821.342529,188.1666667,19,Pueblo Viejo
+11262,MRM125,hondurensis,F,Veracruz,Manuel Gutiérrez Nájera,-96.86063889,19.792,878,44,1187,1774.187012,178.9166667,18,Manuel Gutiérrez Nájera
+11263,MRM133,hondurensis,F,Veracruz,Manuel Gutiérrez Nájera,-96.86063889,19.792,878,44.2,1187,1774.187012,178.9166667,19,Manuel Gutiérrez Nájera
+11264,MRM134,hondurensis,F,Veracruz,Manuel Gutiérrez Nájera,-96.86063889,19.792,878,45,1187,1774.187012,178.9166667,20,Manuel Gutiérrez Nájera
+11265,MRM,hondurensis,F,Veracruz,Manuel Gutiérrez Nájera,-96.86063889,19.792,878,44,1187,1774.187012,178.9166667,18,Manuel Gutiérrez Nájera
+11266,MRM142,hondurensis,M,Veracruz,Villa Nueva,-96.86291667,19.77025,942,45.49,1283,1747.923584,168.1666667,23,Villa Nueva
+11267,MRM143,hondurensis,M,Veracruz,Villa Nueva,-96.86291667,19.77025,942,46,1283,1747.923584,168.1666667,24,Villa Nueva
+11268,MRM166,hondurensis,F,Veracruz,"Salvador Diaz Mirón, Cerro Redondo",-96.88,19.79694444,854,45,1443,1781.355225,174.8333333,18,"Salvador Diaz Mirón, Cerro Redondo"
+11269,MRM183,hondurensis,M,Veracruz,Villa Nueva,-96.86291667,19.77025,942,45,1283,1747.923584,168.1666667,21,Villa Nueva
+11270,MRM184,hondurensis,M,Veracruz,"Salvador Diaz Mirón, Cerro Redondo",-96.88,19.79694444,854,45,1443,1781.355225,174.8333333,20,"Salvador Diaz Mirón, Cerro Redondo"
+11271,MRM185,hondurensis,M,Veracruz,"Salvador Diaz Mirón, Cerro Redondo",-96.88,19.79694444,854,41,1443,1781.355225,174.8333333,18,"Salvador Diaz Mirón, Cerro Redondo"
+11272,MRM187,hondurensis,F,Veracruz,"Salvador Diaz Mirón, Cerro Redondo",-96.88,19.79694444,854,45,1443,1781.355225,174.8333333,19,"Salvador Diaz Mirón, Cerro Redondo"
+11273,MRM190,hondurensis,M,Veracruz,Los Ídolos,-96.86038889,19.89722222,363,45.4,1407,1820.706665,206.4166667,23,Los Ídolos
+11274,MRM211,hondurensis,F,Veracruz,San Felipe Cerro Quebrado I,-96.91725,20.00930556,401,42,1805,1775.484375,201,18,San Felipe Cerro Quebrado I
+11275,MRM217,parvidens,M,Veracruz,Pueblo Viejo,-96.86922222,19.8175,770,40,1271,1778.919434,182,16,Pueblo Viejo
+11276,MRM238,hondurensis,F,Veracruz,Villa Nueva,-96.86291667,19.77025,942,44,1283,1747.923584,168.1666667,26,Villa Nueva
+11346,MYAC073,hondurensis,M,Oaxaca,La Yerbabuena,-97.355,16.20305556,1500,45.64,1562,1338.543335,153.4166667,24,La Yerbabuena OAX
+11393,COSTA002,parvidens,M,Michoacán,El Habillo,-102.3091667,18.15472222,130,40.58,821,1442.441772,235.8333333,18,El Habillo
+11467,MYAC074,parvidens,F,Oaxaca,La Yerbabuena,-97.355,16.20305556,1500,38,1562,1338.543335,153.4166667,17,La Yerbabuena OAX
+11468,MYAC076,hondurensis,M,Oaxaca,La Yerbabuena,-97.355,16.20299972,1500,41.3,1562,1338.543335,153.4166667,23,La Yerbabuena OAX
+11489,COSTA007,parvidens,M,Michoacán,El Habillo,-102.3091667,18.15472222,130,37,821,1442.441772,235.8333333,13,El Habillo
+11508,CUPA063,hondurensis,M,Michoacán,San Juan Bautista,-102.0618389,19.43325,1789,43.1,1208,2483.828857,123,21,San Juan Bautista
+11997,AIMN285,parvidens,M,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,38,852,2554.88208,155.25,15,La Chicharrilla
+11999,AIMN291,hondurensis,M,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,43.5,852,2554.88208,155.25,NA,La Chicharrilla
+12001,AIMN280,hondurensis,M,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,44.1,852,2554.88208,155.25,18,La Chicharrilla
+12003,AIMN289,hondurensis,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,43.4,852,2554.88208,155.25,20,La Chicharrilla
+12004,AIMN223,parvidens,M,San Luis Potosí,Las Guapas,-99.46138889,21.93621944,1063,39,1333,2538.02417,149.75,15,Las Guapas
+12005,AIMN112,hondurensis,M,San Luis Potosí,Las Guapas,-99.46138889,21.93621944,1063,44.6,1333,2538.02417,149.75,23,Las Guapas
+12006,AIMN215,parvidens,M,San Luis Potosí,Las Guapas,-99.46138889,21.93621944,1063,40.13,1333,2538.02417,149.75,13,Las Guapas
+12007,AIMN220,hondurensis,M,San Luis Potosí,Las Guapas,-99.46138889,21.93621944,1063,46,1333,2538.02417,149.75,22,Las Guapas
+12008,AIMN221,hondurensis,M,San Luis Potosí,Las Guapas,-99.46138889,21.93621944,1063,42.9,1333,2538.02417,149.75,NA,Las Guapas
+12009,AIMN012,hondurensis,F,San Luis Potosí,Las Guapas,-99.46138889,21.93621944,1063,42.4,1333,2538.02417,149.75,NA,Las Guapas
+12010,AIMN108,hondurensis,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,45.1,852,2554.88208,155.25,20,La Chicharrilla
+12011,AIMN263,hondurensis,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,44.6,852,2554.88208,155.25,NA,La Chicharrilla
+12012,AIMN286,hondurensis,M,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,43.8,852,2554.88208,155.25,NA,La Chicharrilla
+12013,AIMN273,parvidens,M,San Luis Potosí,La Peñita,-99.54727778,21.85558333,1285,36,1068,2466.60791,137.3333333,15,La Peñita
+12014,AIMN217,hondurensis,F,San Luis Potosí,Las Guapas,-99.46138889,21.93621944,1063,44.7,1333,2538.02417,149.75,25,Las Guapas
+12017,AIMN122,hondurensis,F,San Luis Potosí,Las Guapas,-99.46138889,21.93621944,1063,45.5,1333,2538.02417,149.75,22,Las Guapas
+12019,AIMN121,hondurensis,M,San Luis Potosí,Las Guapas,-99.46138889,21.93621944,1063,44.69,1333,2538.02417,149.75,23,Las Guapas
+12020,AIMN113,hondurensis,F,San Luis Potosí,Las Guapas,-99.46138889,21.93621944,1063,43,1333,2538.02417,149.75,NA,Las Guapas
+12021,AIMN216,parvidens,F,San Luis Potosí,Las Guapas,-99.46138889,21.93621944,1063,39,1333,2538.02417,149.75,14,Las Guapas
+12022,AIMN103,parvidens,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,41.18,852,2554.88208,155.25,15,La Chicharrilla
+12023,AIMN275,hondurensis,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,44.5,852,2554.88208,155.25,19,La Chicharrilla
+12024,AIMN106,parvidens,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,40.8,852,2554.88208,155.25,14,La Chicharrilla
+12028,AIMN290,hondurensis,M,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,44.3,852,2554.88208,155.25,NA,La Chicharrilla
+12029,AIMN279,parvidens,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,35.6,852,2554.88208,155.25,14,La Chicharrilla
+12030,AIMN281,hondurensis,M,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,43.56,852,2554.88208,155.25,19,La Chicharrilla
+12033,AIMN164,hondurensis,F,San Luis Potosí,La Peñita,-99.54727778,21.85558333,1285,44.7,1068,2466.60791,137.3333333,21,La Peñita
+12035,AIMN160,parvidens,F,San Luis Potosí,Los Chorros,-99.54727778,21.85558333,1285,38.59,1068,2466.60791,137.3333333,15,La Peñita
+12036,AIMN165,parvidens,M,San Luis Potosí,La Peñita,-99.54727778,21.85558333,1285,41.03,1068,2466.60791,137.3333333,16,La Peñita
+12037,AIMN166,parvidens,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,40.12,852,2554.88208,155.25,14,La Chicharrilla
+12038,AIMN187,hondurensis,F,San Luis Potosí,La Peñita,-99.54727778,21.85558333,1285,43.7,1068,2466.60791,137.3333333,21,La Peñita
+12039,AIMN167,parvidens,F,San Luis Potosí,La Peñita,-99.54727778,21.85558333,1285,39,1068,2466.60791,137.3333333,16,La Peñita
+12040,AIMN162,hondurensis,M,San Luis Potosí,La Peñita,-99.54727778,21.85558333,1285,45.5,1068,2466.60791,137.3333333,19,La Peñita
+12041,AIMN161,parvidens,F,San Luis Potosí,Los Chorros,-99.54727778,21.85558333,1285,39.95,1068,2466.60791,137.3333333,14,La Peñita
+12043,AIMN287,hondurensis,M,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,43.3,852,2554.88208,155.25,20,La Chicharrilla
+12044,AIMN255,parvidens,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,36,852,2554.88208,155.25,NA,La Chicharrilla
+12045,AIMN249,parvidens,M,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,41,852,2554.88208,155.25,NA,La Chicharrilla
+12047,AIMN252,parvidens,M,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,41,852,2554.88208,155.25,NA,La Chicharrilla
+12048,AIMN250,hondurensis,M,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,44.2,852,2554.88208,155.25,NA,La Chicharrilla
+12049,AIMN222,hondurensis,M,San Luis Potosí,Las Guapas,-99.46138889,21.93621944,1063,43.04,1333,2538.02417,149.75,18,Las Guapas
+12051,AIMN031,parvidens,M,San Luis Potosí,Los Chorros,-99.54727778,21.85558333,1285,41.6,1068,2466.60791,137.3333333,17,La Peñita
+12053,AIMN261,hondurensis,M,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,43.8,852,2554.88208,155.25,NA,La Chicharrilla
+12054,AIMN032,parvidens,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,38.9,852,2554.88208,155.25,23,La Chicharrilla
+12055,AIMN107,hondurensis,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,44.7,852,2554.88208,155.25,21,La Chicharrilla
+12056,AIMN087,hondurensis,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,42.78,852,2554.88208,155.25,19.2,La Chicharrilla
+12057,AIMN097,hondurensis,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,44.56,852,2554.88208,155.25,18,La Chicharrilla
+12059,AIMN159,hondurensis,M,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,42.89,852,2554.88208,155.25,NA,La Chicharrilla
+12060,AIMN157,parvidens,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,37.5,852,2554.88208,155.25,16,La Chicharrilla
+12061,AIMN143,hondurensis,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,42.7,852,2554.88208,155.25,18,La Chicharrilla
+12062,AIMN142,hondurensis,M,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,44,852,2554.88208,155.25,21,La Chicharrilla
+12065,AIMN003,hondurensis,F,San Luis Potosí,Las Guapas,-99.46138889,21.93621944,1063,44.1,1333,2538.02417,149.75,21.5,Las Guapas
+12066,AIMN104,hondurensis,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,44,852,2554.88208,155.25,18,La Chicharrilla
+12067,AIMN086,hondurensis,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,45.25,852,2554.88208,155.25,25,La Chicharrilla
+12069,AIMN105,hondurensis,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,43.85,852,2554.88208,155.25,17,La Chicharrilla
+12070,AIMN109,hondurensis,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,44.53,852,2554.88208,155.25,24,La Chicharrilla
+12071,AIMN147,hondurensis,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,44.4,852,2554.88208,155.25,17,La Chicharrilla
+12072,AIMN148,hondurensis,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,43.1,852,2554.88208,155.25,17,La Chicharrilla
+12074,AIMN274,hondurensis,M,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,44,852,2554.88208,155.25,20,La Chicharrilla
+12383,MAG004,parvidens,F,Michoacán,Los Pozos-Cuesta del Novillo,-102.510056,18.264,612,39,726,1536.322876,212.6666667,19,Los Pozos-Cuesta del Novillo
+12384,MAG006,parvidens,F,Michoacán,Los Pozos-Cuesta del Novillo,-102.510056,18.264,612,37.79,726,1536.322876,212.6666667,17.5,Los Pozos-Cuesta del Novillo
+12385,MAG007,parvidens,F,Michoacán,Los Pozos-Cuesta del Novillo,-102.510056,18.264,612,41,726,1536.322876,212.6666667,15.5,Los Pozos-Cuesta del Novillo
+12386,MAG011,parvidens,F,Michoacán,Los Pozos-Cuesta del Novillo,-102.510056,18.264,612,40.28,726,1536.322876,212.6666667,15.5,Los Pozos-Cuesta del Novillo
+12387,MAG012,parvidens,F,Michoacán,Los Pozos-Cuesta del Novillo,-102.510056,18.264,612,41,726,1536.322876,212.6666667,15,Los Pozos-Cuesta del Novillo
+12388,MAG016,parvidens,F,Michoacán,Los Pozos-Cuesta del Novillo,-102.510056,18.264,612,39.35,726,1536.322876,212.6666667,20.5,Los Pozos-Cuesta del Novillo
+12389,MAG005,parvidens,F,Michoacán,Los Pozos-Cuesta del Novillo,-102.510056,18.264,612,39.2,726,1536.322876,212.6666667,20,Los Pozos-Cuesta del Novillo
+12390,MAG026,parvidens,F,Michoacán,Los Pozos-Cuesta del Novillo,-102.510056,18.264,612,42,726,1536.322876,212.6666667,14,Los Pozos-Cuesta del Novillo
+12391,MAG017,parvidens,M,Michoacán,Los Pozos-Cuesta del Novillo,-102.510056,18.264,612,40.5,726,1536.322876,212.6666667,16.4,Los Pozos-Cuesta del Novillo
+12392,MAG008,parvidens,M,Michoacán,Los Pozos-Cuesta del Novillo,-102.510056,18.264,612,41,726,1536.322876,212.6666667,18,Los Pozos-Cuesta del Novillo
+12393,GHC009,parvidens,F,Oaxaca,"Nizanda, Escolar",-94.995303,16.654892,612,40,1121,2133.644775,220.9166667,20,"Nizanda, Escolar"
+12394,GHC010,parvidens,M,Oaxaca,"Nizanda, Escolar",-94.995303,16.654892,612,38.8,1121,2133.644775,220.9166667,NA,"Nizanda, Escolar"
+12396,MAG014,parvidens,M,Michoacán,Los Pozos-Cuesta del Novillo,-102.510056,18.264,612,37.44,726,1536.322876,212.6666667,16.5,Los Pozos-Cuesta del Novillo
+12397,GHC028,parvidens,F,Oaxaca,"Nizanda, Escolar",-94.995303,16.654892,612,40.2,1121,2133.644775,220.9166667,14,"Nizanda, Escolar"
+12398,GHC029,parvidens,F,Oaxaca,"Nizanda, Escolar",-94.995303,16.654892,612,39.4,1121,2133.644775,220.9166667,16.5,"Nizanda, Escolar"
+12399,GHC060,parvidens,M,Chiapas,La Unión,-92.159444,15.004194,559,41.7,2866,1263.391724,212.5,17,La Unión
+12458,GHC027,parvidens,M,Oaxaca,"Nizanda, Escolar",-94.995303,16.654892,612,40.1,1121,2133.644775,220.9166667,17,"Nizanda, Escolar"
+12466,GHC044,parvidens,M,Chiapas,La Unión,-92.159444,15.004194,559,39.7,2866,1263.391724,212.5,18,La Unión
+12468,GHC047,parvidens,M,Chiapas,La Unión,-92.159444,15.004194,559,39,2866,1263.391724,212.5,15,La Unión
+12469,GHC042,parvidens,M,Chiapas,La Unión,-92.159444,15.004194,559,38.8,2866,1263.391724,212.5,18,La Unión
+12536,CUIT019,hondurensis,F,Michoacán,Arrollo Blanco,-101.295557,19.911336,1864,40.4,623,2515.485107,127.5833333,24,Arrollo Blanco
+12537,CUIT017,parvidens,F,Michoacán,Arrollo Blanco,-101.295557,19.911336,1864,40.9,623,2515.485107,127.5833333,20,Arrollo Blanco
+12549,MBB128,parvidens,M,Michoacán,El Habillo,-102.30916,18.154722,130,39.49,821,1442.441772,235.8333333,17.5,El Habillo
+12550,MBB129,parvidens,F,Michoacán,El Habillo,-102.30916,18.154722,130,38.1,821,1442.441772,235.8333333,14.5,El Habillo
+12561,MBB125,parvidens,M,Michoacán,Chorros del Varal,-102.572858,19.51734,944,38.8,752,2858.452637,167.6666667,NA,Chorros del Varal
+12576,GHC072,parvidens,F,Morelos,"Huexca, Aeropista",-98.880247,18.802128,1430,39.7,827,2306.976318,162.3333333,16,"Huexca, Aeropista"
+12583,GHC045,parvidens,F,Chiapas,La Unión,-92.159444,15.04194,754.9377441,36.3,2780,1282.347412,199.0833333,14,La Unión
+13035,SNP001,hondurensis,F,Puebla,La Cañada,-97.816083,19.78933,1805,46.3,877,1988.53186,112.9166667,26,La Cañada
+13118,SNP084,hondurensis,F,Puebla,"La Cañada, San Cristobal",-97.751222,19.896167,1848,42,1784,1956.722412,109.5833333,19,"La Cañada, San Cristobal"
+13119,SNP085,hondurensis,F,Puebla,"La Cañada, San Cristobal",-97.751222,19.896167,1848,43.6,1784,1956.722412,109.5833333,20,"La Cañada, San Cristobal"
+13120,SNP086,hondurensis,F,Puebla,"La Cañada, San Cristobal",-97.751222,19.896167,1848,41.53,1784,1956.722412,109.5833333,23,"La Cañada, San Cristobal"
+13121,SNP087,hondurensis,F,Puebla,"La Cañada, San Cristobal",-97.751222,19.896167,1848,43.4,1784,1956.722412,109.5833333,27,"La Cañada, San Cristobal"
+13122,SNP088,hondurensis,F,Puebla,"La Cañada, San Cristobal",-97.751222,19.896167,1848,41.3,1784,1956.722412,109.5833333,19,"La Cañada, San Cristobal"
+13159,SNP125,hondurensis,M,Puebla,"La Cañada, San Cristobal",-97.751222,19.896167,1848,42.5,1784,1956.722412,109.5833333,20,"La Cañada, San Cristobal"
+13207,SNP173,hondurensis,F,Puebla,"La Cañada, San Cristobal",-97.751222,19.896167,1848,41.7,1784,1956.722412,109.5833333,18,"La Cañada, San Cristobal"
+13208,SNP174,hondurensis,F,Puebla,"La Cañada, San Cristobal",-97.751222,19.896167,1848,44.8,1784,1956.722412,109.5833333,17,"La Cañada, San Cristobal"
+13210,SNP176,hondurensis,F,Puebla,Cascadas de Xaltatempa,-97.50016,19.5313,1569,41.88,643,1814.366577,86.75,20,Cascadas de Xaltatempa
+13211,SNP177,hondurensis,M,Puebla,Cascadas de Xaltatempa,-97.50016,19.5313,1569,44.4,643,1814.366577,86.75,22,Cascadas de Xaltatempa
+13212,SNP178,hondurensis,F,Puebla,Cascadas de Xaltatempa,-97.50016,19.5313,1569,42,643,1814.366577,86.75,19,Cascadas de Xaltatempa
+13237,SNP203,hondurensis,F,Puebla,"Cerro miqueco, campamento provisional",-97.4134,19.53117,2090,43.9,825,1793.744995,87,23,"Cerro miqueco, campamento provisional"
+13238,SNP204,hondurensis,M,Puebla,"Cerro miqueco, campamento provisional",-97.4134,19.53117,2090,43.18,825,1793.744995,87,25,"Cerro miqueco, campamento provisional"
+13239,SNP205,hondurensis,F,Puebla,"Cerro miqueco, campamento provisional",-97.4134,19.53117,2090,45.8,825,1793.744995,87,28,"Cerro miqueco, campamento provisional"
+13240,SNP206,hondurensis,F,Puebla,"Cerro miqueco, campamento provisional",-97.4134,19.53117,2090,43.8,825,1793.744995,87,21,"Cerro miqueco, campamento provisional"
+13241,SNP207,hondurensis,M,Puebla,"Cerro miqueco, campamento provisional",-97.4134,19.53117,2090,44.2,825,1793.744995,87,26,"Cerro miqueco, campamento provisional"
+13242,SNP208,hondurensis,M,Puebla,"Cerro miqueco, campamento provisional",-97.4134,19.53117,2090,46.6,825,1793.744995,87,22,"Cerro miqueco, campamento provisional"
+13245,SNP211,hondurensis,F,Puebla,"Cerro miqueco, campamento provisional",-97.4134,19.53117,2090,44.8,825,1793.744995,87,27,"Cerro miqueco, campamento provisional"
+13263,SNP229,hondurensis,F,Puebla,Xochititan,-97.7584467,19.887803,2061,40.6,1757,1978.090942,113.9166667,19,Xochititan
+13266,SNP232,hondurensis,F,Puebla,Xochititan,-97.7584467,19.887803,2061,44.41,1757,1978.090942,113.9166667,24,Xochititan
+13283,SNP249,hondurensis,F,Puebla,Xochititan,-97.7584467,19.887803,2061,43.2,1757,1978.090942,113.9166667,16.1,Xochititan
+13308,SNP274,parvidens,F,Puebla,Escahuasco,-97.696833,19.877917,1796,40.1,1814,1985.396973,115.5833333,14.5,Escahuasco
+13309,SNP275,hondurensis,F,Puebla,Escahuasco,-97.696833,19.877917,1796,45.9,1814,1985.396973,115.5833333,16.9,Escahuasco
+13320,SNP286,hondurensis,F,Puebla,"La Cañada, San Cristobal",-97.751222,19.896167,1848,44,1784,1956.722412,109.5833333,15.9,"La Cañada, San Cristobal"
+13321,SNP287,hondurensis,F,Puebla,"La Cañada, San Cristobal",-97.751222,19.896167,1848,42.6,1784,1956.722412,109.5833333,17.5,"La Cañada, San Cristobal"
+13322,SNP288,hondurensis,F,Puebla,"La Cañada, San Cristobal",-97.751222,19.896167,1848,41.7,1784,1956.722412,109.5833333,14.6,"La Cañada, San Cristobal"
+13323,SNP289,hondurensis,F,Puebla,"La Cañada, San Cristobal",-97.751222,19.896167,1848,39.22,1784,1956.722412,109.5833333,16.4,"La Cañada, San Cristobal"
+13324,SNP290,hondurensis,F,Puebla,"La Cañada, San Cristobal",-97.751222,19.896167,1848,39.89,1784,1956.722412,109.5833333,15.6,"La Cañada, San Cristobal"
+13325,SNP291,hondurensis,F,Puebla,"La Cañada, San Cristobal",-97.751222,19.896167,1848,43.7,1784,1956.722412,109.5833333,16.5,"La Cañada, San Cristobal"
+13342,SNP308,hondurensis,M,Puebla,La Cañada,-97.816083,19.78933,1805,44.5,877,1988.53186,112.9166667,20.5,La Cañada
+13841,MCP079,parvidens,F,Nayarit,"Fortuna de Vallejo, 3 km NE",-105.1336,20.9608,150,41.4,1066,2245.848389,213.8333333,14,"Fortuna de Vallejo, 3 km NE"
+13849,MYAC078,hondurensis,M,Oaxaca,La Yerbabuena,-97.355,16.203,1500,44,1562,1338.543335,153.4166667,23,La Yerbabuena OAX
+13860,CAM036,parvidens,F,Guerrero,Campo Morado,-100.162083,18.191722,1150,39.7,1289,2438.740723,165.5,20,Campo Morado
+13906,102EAM,hondurensis,F,Puebla,Coatectzin,-97.46989,19.971665,845,43,1843,2137.01001,173.5,24.5,Coatectzin
+14016,MSE025,parvidens,F,Chiapas,"Ocosingo, 8 km E",-92.09004,16.906722,885,40,1700,2149.748291,178.6666667,15.5,"Ocosingo, 8 km E"
+14018,MSE029,parvidens,F,Chiapas,"Ocosingo, 8 km E",-92.09004,16.906722,885,40,1700,2149.748291,178.6666667,15,"Ocosingo, 8 km E"
+14019,MSE023,parvidens,F,Chiapas,"Ocosingo, 8 km E",-92.09004,16.906722,885,39.4,1700,2149.748291,178.6666667,15,"Ocosingo, 8 km E"
+14021,MSE030,parvidens,M,Chiapas,"Ocosingo, 8 km E",-92.09004,16.906722,885,38.65,1700,2149.748291,178.6666667,16,"Ocosingo, 8 km E"
+14050,161BCTD,hondurensis,F,Hidalgo,"Tenango de Doria, Cabaña 0.5 km rumbo a la carretera",-98.232222,20.334444,1633,43.5,1279,2114.836182,124.5,NA,Tenango de Doria Hidalgo
+14053,156BCTD,hondurensis,F,Hidalgo,"Tenango de Doria, El Cirio",-98.246944,20.306389,1422,43,1466,2036.560303,110.6666667,23,"Tenango de Doria, El Cirio"
+14078,CUIT093,hondurensis,NA,Mich,"Zinapecuaro, San Jose del Rincon",-100.779383,19.864695,2030,44.5,725,2411.98877,116.6666667,22,"Zinapecuaro, San Jose del Rincon"
+14079,CUIT094,hondurensis,NA,Mich,"Zinapecuaro, San Jose del Rincon",-100.779383,19.864695,2030,45.4,725,2411.98877,116.6666667,22,"Zinapecuaro, San Jose del Rincon"
+14676,ZMO208,hondurensis,M,Oaxaca,Puerto de la Soledad,-97.011667,18.182778,2195,41,1622,1894.226318,94.75,20,Puerto de la Soledad
+14678,ZMO207,hondurensis,M,Oaxaca,Puerto de la Soledad,-97.011667,18.182778,2195,44.4,1622,1894.226318,94.75,22,Puerto de la Soledad
+14682,ZMO173,hondurensis,M,Oaxaca,"Cortadero, 1 Km NE de Chalchijapa",-94.656155,17.055371,216,46,2266,2242.505859,211.8333333,NA,"Cortadero, 1 Km NE de Chalchijapa"
+14683,ZMO182,hondurensis,M,Oaxaca,"Cortadero, 1 Km NE de Chalchijapa",-94.656155,17.055371,216,45,2266,2242.505859,211.8333333,20,"Cortadero, 1 Km NE de Chalchijapa"
+14694,GHC178,parvidens,F,Colima,R.M.O. El Jabali,-103.711757,19.449359,1221,42,757,2494.411133,142.4166667,15.5,R.M.O. El Jabali
+14695,GHC176,parvidens,F,Colima,R.M.O. El Jabali,-103.711757,19.449359,1221,41.55,757,2494.411133,142.4166667,16.9,R.M.O. El Jabali
+14696,GHC167,parvidens,F,Colima,R.M.O. El Jabali,-103.711757,19.449359,1221,43,757,2494.411133,142.4166667,15.5,R.M.O. El Jabali
+14697,GHC168,parvidens,F,Colima,R.M.O. El Jabali,-103.711757,19.449359,1221,40,757,2494.411133,142.4166667,16.3,R.M.O. El Jabali
+14698,GHC166,parvidens,F,Colima,R.M.O. El Jabali,-103.711757,19.449359,1221,42,757,2494.411133,142.4166667,16.4,R.M.O. El Jabali
+14699,GHC163,parvidens,M,Colima,R.M.O. El Jabali,-103.711757,19.449359,1221,40.32,757,2494.411133,142.4166667,15.9,R.M.O. El Jabali
+14700,GHC165,parvidens,F,Colima,R.M.O. El Jabali,-103.3711757,19.449359,1221,42,1213,2572.189453,128.9166667,18,R.M.O. El Jabali
+14703,GHC159,parvidens,F,Colima,R.M.O. El Jabali,-103.711757,19.449359,1221,41.31,757,2494.411133,142.4166667,16.1,R.M.O. El Jabali
+14704,GHC162,parvidens,F,Colima,R.M.O. El Jabali,-103.711757,19.449359,1221,42,757,2494.411133,142.4166667,16.2,R.M.O. El Jabali
+14705,GHC158,parvidens,F,Colima,R.M.O. El Jabali,-103.711757,19.449359,1221,41,757,2494.411133,142.4166667,17.1,R.M.O. El Jabali
+14715,GHC137,hondurensis,M,Colima,La Yerbabuena,-103.67955,19.47176,1542,46,803,2431.550537,126.3333333,19.6,La Yerbabuena
+14720,GHC142,parvidens,M,Colima,La Yerbabuena,-103.67955,19.47176,1542,43,803,2431.550537,126.3333333,16.5,La Yerbabuena
+14726,GHC193,parvidens,F,Morelos,El Limón de Cuauchichinola,-99.37671,18.663973,950,41,928,2463.940186,187.6666667,NA,El Limón de Cuauchichinola
+14742,ZMO177,hondurensis,F,Oaxaca,23 km de Rio Chalchijapa,-94.701197,16.923489,180,45,1647,2222.89502,216.4166667,25,23 km de Rio Chalchijapa
+14746,GHC134,hondurensis,M,Colima,La Yerbabuena,-103.67955,19.47176,1542,42,803,2431.550537,126.3333333,14.9,La Yerbabuena
+14791,GHC395,hondurensis,M,Nayarit,La Noria,-104.9940556,21.48477778,1580,43.08,1805,2027.674438,124,17.2,La Noria
+14793,GHC394,hondurensis,M,Nayarit,La Noria,-104.9940556,21.48477778,1580,43.58,1805,2027.674438,124,17.2,La Noria
+14863,YAGJ014,hondurensis,F,Oaxaca,San Miguel Aloápam 4.5 Km al Ne,-96.68697,17.42115,1982,44.35,932,1930.168579,108,NA,San Miguel Aloápam 4.5 Km al Ne
+14864,YAGJ015,hondurensis,M,Oaxaca,San Miguel Aloápam 4.5 Km al Ne,-96.68697,17.42115,1982,44.01,932,1930.168579,108,NA,San Miguel Aloápam 4.5 Km al Ne
+14865,YAGJ016,hondurensis,M,Oaxaca,San Miguel Aloápam 4.5 Km al Ne,-96.68697,17.42115,1982,44.5,932,1930.168579,108,NA,San Miguel Aloápam 4.5 Km al Ne
+14866,YAGJ017,hondurensis,F,Oaxaca,San Miguel Aloápam 4.5 Km al Ne,-96.68697,17.42115,1982,45.7,932,1930.168579,108,NA,San Miguel Aloápam 4.5 Km al Ne
+14925,GHC241,parvidens,F,Guerrero,Los Coquillos,-98.928778,16.727917,157,40.59,1552,1533.606201,233.5,19,Los Coquillos
+14938,CMX030,parvidens,F,Morelos,Rio Colotepec,-99.25558333,18.79041667,1084,41.9,1014,2408.290527,177.75,13,Rio Colotepec
+14939,317CAS,hondurensis,M,Oaxaca,"Carretera Rumbo a Rio Grande, La Luz",-97.599834,16.11258,84,44.8,1262,1427.795166,243.5833333,22,"Carretera Rumbo a Rio Grande, La Luz"
+14940,325CAS,hondurensis,F,Oaxaca,"Carretera Rumbo a Rio Grande, La Luz",-97.599834,16.11258,84,44.3,1262,1427.795166,243.5833333,19,"Carretera Rumbo a Rio Grande, La Luz"
+14941,323CAS,parvidens,F,Oaxaca,"Carretera Rumbo a Rio Grande, La Luz",-97.599834,16.11258,84,39,1262,1427.795166,243.5833333,17,"Carretera Rumbo a Rio Grande, La Luz"
+14944,AIMN149,hondurensis,F,San Luis Potosí,La Chicharrilla,-99.52566667,21.79169444,960,43.4,852,2554.88208,155.25,19,La Chicharrilla
+14954,GHC446,parvidens,F,Jalisco,Rancho los Naranjitos,-104.7803333,20.21416667,1097,39,1129,2297.864258,147.75,14.9,Rancho los Naranjitos
+14955,GHC451,parvidens,F,Jalisco,Rancho los Naranjitos,-104.7803333,20.21416667,1097,40.7,1129,2297.864258,147.75,17.4,Rancho los Naranjitos
+14956,GHC464,parvidens,F,Jalisco,Rancho los Naranjitos,-104.7803333,20.21416667,1097,37.63,1129,2297.864258,147.75,13.4,Rancho los Naranjitos
+14957,GHC465,parvidens,M,Jalisco,Rancho los Naranjitos,-104.7803333,20.21416667,1097,40.4,1129,2297.864258,147.75,12,Rancho los Naranjitos
+14958,GHC469,parvidens,F,Jalisco,Rancho los Naranjitos,-104.7803333,20.21416667,1097,40.5,1129,2297.864258,147.75,16.2,Rancho los Naranjitos
+14959,GHC457,parvidens,F,Jalisco,Rancho los Naranjitos,-104.7803333,20.21416667,1097,39.8,1129,2297.864258,147.75,14,Rancho los Naranjitos
+14960,GHC466,parvidens,F,Jalisco,Rancho los Naranjitos,-104.7803333,20.21416667,1097,37,1129,2297.864258,147.75,12.2,Rancho los Naranjitos
+14961,GHC470,parvidens,F,Jalisco,Rancho los Naranjitos,-104.7803333,20.21416667,1097,39.01,1129,2297.864258,147.75,16,Rancho los Naranjitos
+14962,GHC456,parvidens,M,Jalisco,Rancho los Naranjitos,-104.7803333,20.21416667,1097,41.6,1129,2297.864258,147.75,18.6,Rancho los Naranjitos
+14963,GHC415,parvidens,M,Nayarit,Venustiano Carranza,-104.9996111,21.51736111,1136,38.28,1599,2167.499023,150.75,11,Venustiano Carranza
+14964,GHC412,hondurensis,M,Nayarit,Venustiano Carranza,-104.9996111,21.51736111,1136,42.52,1599,2167.499023,150.75,14.3,Venustiano Carranza
+14965,GHC418,parvidens,F,Nayarit,Venustiano Carranza,-104.9996111,21.51736111,1136,40,1599,2167.499023,150.75,15.4,Venustiano Carranza
+14966,GHC413,parvidens,M,Nayarit,La Noria,-104.9940556,21.48477778,1580,39.4,1805,2027.674438,124,11.8,La Noria
+14969,GHC365,hondurensis,M,Nayarit,La Noria,-104.9940556,21.48477778,1580,43.6,1805,2027.674438,124,17.1,La Noria
+14967,GHC434,hondurensis,M,Jalisco,Roca Venados,-104.7543333,20.47688889,1496,42.97,1168,2256.619873,127.4166667,17.9,Roca Venados
+14968,GHC414,hondurensis,F,Nayarit,Venustiano Carranza,-104.9996111,21.51736111,1136,41,1599,2167.499023,150.75,19.8,Venustiano Carranza
+14970,GHC379,hondurensis,F,Nayarit,La Noria,-104.9940556,21.48477778,1580,42.53,1805,2027.674438,124,15.6,La Noria
+14972,GHC396,hondurensis,M,Nayarit,La Noria,-104.9940556,21.48477778,1580,40.92,1805,2027.674438,124,15,La Noria
+14974,GHC367,hondurensis,M,Nayarit,La Noria,-104.9940556,21.48477778,1580,42.1,1805,2027.674438,124,17,La Noria
+14975,GHC417,parvidens,F,Nayarit,Venustiano Carranza,-104.9996111,21.51736111,1136,40,1599,2167.499023,150.75,12.8,Venustiano Carranza
+14976,GHC445,parvidens,M,Jalisco,Rancho los Naranjitos,-104.7803333,20.21416667,1097,39.55,1129,2297.864258,147.75,16.6,Rancho los Naranjitos
+14977,GHC377,hondurensis,M,Nayarit,La Noria,-104.9940556,21.48477778,1580,41.7,1805,2027.674438,124,19,La Noria
+14978,GHC375,parvidens,F,Nayarit,La Noria,-104.9940556,21.48477778,1580,41.9,1805,2027.674438,124,16.8,La Noria
+14979,GHC341,hondurensis,F,Sinaloa,La Chara Pinta,-105.8681667,23.58975,2202,42.1,1578,2349.786377,78,20,La Chara Pinta
+14980,GHC372,hondurensis,M,Nayarit,La Noria,-104.9940556,21.48477778,1580,43.03,1805,2027.674438,124,20,La Noria
+15080,GHC468,parvidens,M,Jalisco,Rancho los Naranjitos,-104.7803333,20.21416667,1097,39,1129,2297.864258,147.75,12.9,Rancho los Naranjitos
+16014,GHC214,parvidens,F,Guerrero,Los Coquillos,-98.928778,16.72791,157,41,1552,1533.606201,233.5,12,Los Coquillos
+16015,GHC213,parvidens,F,Guerrero,Los Coquillos,-98.928778,16.72791,157,40,1552,1533.606201,233.5,12,Los Coquillos
+16016,GHC215,parvidens,F,Guerrero,Los Coquillos,-98.928778,16.72791,157,41.3,1552,1533.606201,233.5,13,Los Coquillos
+111223,MRM067,parvidens,M,Veracruz,Ignacio Zaragoza,-96.96111111,19.98202778,107,41.3,1413,1906.430176,218.5833333,16,Ignacio Zaragoza
+111224,MRM068,parvidens,M,Veracruz,Ignacio Zaragoza,-96.96111111,19.98202778,107,38,1413,1906.430176,218.5833333,13,Ignacio Zaragoza
+111225,MRM075,parvidens,F,Veracruz,Ignacio Zaragoza,-96.96111111,19.98202778,107,42.4,1413,1906.430176,218.5833333,13,Ignacio Zaragoza
+111226,MRM070,parvidens,M,Veracruz,Ignacio Zaragoza,-96.96111111,19.98202778,107,39,1413,1906.430176,218.5833333,15,Ignacio Zaragoza
+111227,MRM077,parvidens,M,Veracruz,Ignacio Zaragoza,-96.96111111,19.98202778,107,40.2,1413,1906.430176,218.5833333,14,Ignacio Zaragoza
+,AZV002,hondurensis,F,Veracruz,La Compañía,-97.00438889,18.65013889,1354,44.7,2097,2142.206055,145.8333333,20.4,La Compañía
+,AZV009,parvidens,F,Veracruz,La Compañía,-97.00438889,18.65013889,1354,40.3,2097,2142.206055,145.8333333,15,La Compañía
+,AZV012,hondurensis,M,Veracruz,La Compañía,-97.00438889,18.65013889,1354,45,2097,2142.206055,145.8333333,16.3,La Compañía
+,AZV013,hondurensis,F,Veracruz,La Compañía,-97.00438889,18.65013889,1354,44.9,2097,2142.206055,145.8333333,17.3,La Compañía
+,AZV014,hondurensis,F,Veracruz,La Compañía,-97.00438889,18.65013889,1354,44.6,2097,2142.206055,145.8333333,18.2,La Compañía
+,AZV015,hondurensis,M,Veracruz,La Compañía,-97.00438889,18.65013889,1354,44.6,2097,2142.206055,145.8333333,19.2,La Compañía
+,AZV016,hondurensis,F,Veracruz,La Compañía,-97.00438889,18.65013889,1354,44.3,2097,2142.206055,145.8333333,18.6,La Compañía
+,AZV018,hondurensis,M,Veracruz,La Compañía,-97.00438889,18.65013889,1354,45,2097,2142.206055,145.8333333,20.6,La Compañía
+,AZV042,parvidens,M,Veracruz,Aticpac,-96.88697222,18.57105556,548,38,2125,2360.097412,187.5833333,16.2,Aticpac
+,AZV043,parvidens,F,Veracruz,Aticpac,-96.88697222,18.57105556,548,37.12,2125,2360.097412,187.5833333,18.5,Aticpac
+,AZV046,parvidens,M,Veracruz,Aticpac,-96.88697222,18.57105556,548,39.77,2125,2360.097412,187.5833333,16,Aticpac
+,AZV049,parvidens,M,Veracruz,Aticpac,-96.88697222,18.57105556,548,39.27,2125,2360.097412,187.5833333,12.8,Aticpac
+,AZV050,parvidens,F,Veracruz,Aticpac,-96.88697222,18.57105556,548,38.1,2125,2360.097412,187.5833333,13.8,Aticpac
+,AZV063,parvidens,F,Veracruz,Aticpac,-96.89038889,18.57072222,698,39.9,2125,2360.097412,187.5833333,15.1,Aticpac
+,AZV064,parvidens,F,Veracruz,Aticpac,-96.89038889,18.57072222,698,38.3,2125,2360.097412,187.5833333,16.9,Aticpac
+,AZV067,parvidens,M,Veracruz,Aticpac,-96.89038889,18.57072222,698,37.9,2125,2360.097412,187.5833333,15.1,Aticpac
+,AZV072,parvidens,F,Veracruz,Boquerón,-96.86875,18.60255556,226,38.2,1451,2346.358643,187.5,13.1,Boquerón
+,AZV074,parvidens,M,Veracruz,Boquerón,-96.86875,18.60255556,226,39.9,1451,2346.358643,187.5,16,Boquerón
+,AZV094,parvidens,F,Veracruz,Boquerón,-96.86875,18.60255556,226,40,1451,2346.358643,187.5,15.1,Boquerón
+,AZV105,hondurensis,F,Veracruz,Ahuatepec,-97.021,18.662,1568,44.22,2045,2088.377686,136.5,17.2,Ahuatepec
+,AZV106,hondurensis,F,Veracruz,Ahuatepec,-97.021,18.662,1568,42.97,2045,2088.377686,136.5,17.5,Ahuatepec
+,AZV107,hondurensis,F,Veracruz,Ahuatepec,-97.021,18.662,1568,44.14,2045,2088.377686,136.5,16.3,Ahuatepec
+,AZV108,hondurensis,M,Veracruz,Ahuatepec,-97.021,18.662,1568,41.67,2045,2088.377686,136.5,18,Ahuatepec
+,AZV109,hondurensis,F,Veracruz,Ahuatepec,-97.021,18.662,1568,42.25,2045,2088.377686,136.5,15.7,Ahuatepec
+,AZV110,hondurensis,M,Veracruz,Ahuatepec,-97.021,18.662,1568,44.83,2045,2088.377686,136.5,19.6,Ahuatepec
+,AZV111,hondurensis,F,Veracruz,Ahuatepec,-97.021,18.662,1568,43.15,2045,2088.377686,136.5,15.8,Ahuatepec
+,AZV113,hondurensis,F,Veracruz,Ahuatepec,-97.021,18.662,1568,44.46,2045,2088.377686,136.5,19.9,Ahuatepec
+,AZV135,hondurensis,F,Veracruz,Ahuatepec,-97.021,18.662,1568,44.4,2045,2088.377686,136.5,19.6,Ahuatepec
+,AZV163,hondurensis,M,Veracruz,Ahuatepec,-97.021,18.662,1568,44.88,2045,2088.377686,136.5,20,Ahuatepec
+,AZV190,parvidens,M,Veracruz,Cascada Coxole,-96.96525,18.652,589,39.27,1446,2359.501465,185.4166667,17,Cascada Coxole
