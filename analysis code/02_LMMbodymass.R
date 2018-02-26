@@ -105,7 +105,7 @@ Dsym1<-((cdata[4,3]+parvboth) - (cdata[3,3] +hondboth))
 Dallo1<-((cdata[2,3]+parvallop)-(cdata[1,3]+ hondallop)) 
 (DDiff<- Dsym1$mean-Dallo1$mean)
 
-# Permute residuals to whether DDiff is larger than expected by chance 
+# Permute residuals to test whether DDiff is larger than expected by chance 
 # number of permutations
 nreps <- 9999
 # setup vectors to put in new average residual values for sympatric and allopatric values for each species and divergence. 
