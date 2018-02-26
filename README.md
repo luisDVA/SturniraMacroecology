@@ -38,6 +38,7 @@ spOccPatterns.csv -- Occurrence pattern for each locality (sympatry or allopatry
 Baur_isosize_fn.R -- Function to calculate skull isosizes, from Baur & Leuenberger (2011); sourced by 03_LMMisosize.R
 
 *filtered*
+
 LMM scripts with an added step to exclude localities where n=1
 
 SuppTables.Rmd will run the analyses necessary and create a binary output file with supplementary tables 1 and 2.
