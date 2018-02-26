@@ -1,4 +1,4 @@
-vom,collector,species,sex,state,localityOG,longitude,latitude,elevation,FL,AnnPrec,PETseasonality,AnnualTmin,W,locality
+ncat,collector,species,sex,state,localityOG,longitude,latitude,elevation,FL,AnnPrec,PETseasonality,AnnualTmin,W,locality
 190,PEP6,parvidens,F,Veracruz,"Estación Biológica ""El Morro de la Mancha""",-96.385,19.60055556,25.66773987,38.5,1215,1714.302612,231.0833333,17.2,"Estación Biológica ""El Morro de la Mancha"""
 192,PEP11,parvidens,M,Veracruz,"Estación Biológica ""El Morro de la Mancha""",-96.385,19.60055556,25.66773987,40,1215,1714.302612,231.0833333,19.3,"Estación Biológica ""El Morro de la Mancha"""
 193,PEP05a,parvidens,F,Veracruz,"Estación Biológica ""El Morro de la Mancha""",-96.385,19.60055556,25.66773987,41.2,1215,1714.302612,231.0833333,19.3,"Estación Biológica ""El Morro de la Mancha"""

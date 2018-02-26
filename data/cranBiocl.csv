@@ -73,20 +73,20 @@ ncat,BRH,MZB,POW,Mast,C1C1,LMT,BL,CBL,MSF,species,localityOG,elevation,longitude
 16016,10.15,13.16,5.77,10.37,5.43,6.44,2.78,19.56,1.69,parvidens,Los Coquillos,157,-98.928778,16.727917,F,1552,1533.606201,233.5,Los Coquillos
 4771,10.37,13.5,6.29,12.15,5.67,6.82,2.59,21.2,2.45,hondurensis,Carretera Tuxtepec-Oaxaca,1750,-96.37555556,17.63916667,F,3263,2161.183594,148.4166667,Carretera Tuxtepec-Oaxaca
 4729,10.51,13.7,6.19,12.23,6.16,7.03,2.67,21.16,2.19,hondurensis,Carretera Tuxtepec-Oaxaca,1750,-96.37555556,17.63916667,M,3263,2161.183594,148.4166667,Carretera Tuxtepec-Oaxaca
-4722,10.54,13.22,6.1,11.67,5.81,6.98,2.98,21.67,2.14,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2000,-96.5,17.44361111,F,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
-4780,10.96,13.61,6.28,12.07,6.25,7.1,2.55,22.32,2.13,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2000,-96.5,17.44361111,M,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
-4736,10.44,13.45,6.24,11.87,5.93,6.34,2.93,21.4,2.18,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2000,-96.5,17.44361111,F,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
-4731,10.27,13.3,6.38,11.55,5.75,6.79,2.96,21.49,2.03,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2000,-96.5,17.44361111,F,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
-4728,10.14,13.64,6.5,11.84,6.09,6.82,2.93,22.18,1.82,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2000,-96.5,17.44361111,M,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
-4778,11.47,14.03,6.57,12.39,6.18,6.99,2.87,22.38,2.16,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2000,-96.5,17.44361111,M,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
-4779,10.93,13.66,6.37,12.29,6.25,7.02,2.97,22.52,2.14,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2000,-96.5,17.44361111,M,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
-4735,10.69,14,6.62,12.36,6.19,7.09,2.89,22.54,2.16,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2000,-96.5,17.44361111,M,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
-4781,10.79,13.55,6.29,11.96,5.94,6.88,2.95,21.87,2.07,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2000,-96.5,17.44361111,M,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
-4732,10.81,13.38,6.39,11.55,6.28,6.64,2.78,21.79,2.06,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2000,-96.5,17.44361111,M,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
+4722,10.54,13.22,6.1,11.67,5.81,6.98,2.98,21.67,2.14,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2e3,-96.5,17.44361111,F,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
+4780,10.96,13.61,6.28,12.07,6.25,7.1,2.55,22.32,2.13,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2e3,-96.5,17.44361111,M,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
+4736,10.44,13.45,6.24,11.87,5.93,6.34,2.93,21.4,2.18,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2e3,-96.5,17.44361111,F,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
+4731,10.27,13.3,6.38,11.55,5.75,6.79,2.96,21.49,2.03,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2e3,-96.5,17.44361111,F,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
+4728,10.14,13.64,6.5,11.84,6.09,6.82,2.93,22.18,1.82,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2e3,-96.5,17.44361111,M,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
+4778,11.47,14.03,6.57,12.39,6.18,6.99,2.87,22.38,2.16,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2e3,-96.5,17.44361111,M,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
+4779,10.93,13.66,6.37,12.29,6.25,7.02,2.97,22.52,2.14,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2e3,-96.5,17.44361111,M,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
+4735,10.69,14,6.62,12.36,6.19,7.09,2.89,22.54,2.16,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2e3,-96.5,17.44361111,M,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
+4781,10.79,13.55,6.29,11.96,5.94,6.88,2.95,21.87,2.07,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2e3,-96.5,17.44361111,M,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
+4732,10.81,13.38,6.39,11.55,6.28,6.64,2.78,21.79,2.06,hondurensis,"Camino San Isidro, km 91 Carretera Tuxtepec-Oaxaca",2e3,-96.5,17.44361111,M,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
 4772,10.46,13.5,6.09,11.79,5.89,6.87,2.78,21.58,2.23,hondurensis,Carretera Tuxtepec-Oaxaca,1750,-96.37555556,17.63916667,F,3263,2161.183594,148.4166667,Carretera Tuxtepec-Oaxaca
 4773,10.5,12.92,5.81,11.31,5.51,6.49,2.85,21.19,2.05,hondurensis,Carretera Tuxtepec-Oaxaca,1750,-96.37555556,17.63916667,F,3263,2161.183594,148.4166667,Carretera Tuxtepec-Oaxaca
 4721,10.87,13.72,6.26,11.91,6.3,7.04,3.16,21.96,2.02,hondurensis,Metates,900,-96.35722222,17.65083333,M,3203,2305.241211,173.5,Metates
-4777,10.97,13.64,6.18,12.12,5.95,6.76,2.92,21.22,2.17,hondurensis,km 87 Carretera Tuxtepec-Oaxaca,2000,-96.47722222,17.605,F,2920,1969.988403,111.25,km 87 Carretera Tuxtepec-Oaxaca
+4777,10.97,13.64,6.18,12.12,5.95,6.76,2.92,21.22,2.17,hondurensis,km 87 Carretera Tuxtepec-Oaxaca,2e3,-96.47722222,17.605,F,2920,1969.988403,111.25,km 87 Carretera Tuxtepec-Oaxaca
 4768,10.95,13.18,6.19,12.23,5.74,6.75,2.74,21.61,2.06,hondurensis,Carretera Tuxtepec-Oaxaca,1750,-96.37555556,17.63916667,F,3263,2161.183594,148.4166667,Carretera Tuxtepec-Oaxaca
 4766,10.64,13.76,6.78,12.33,6.37,7.06,2.68,22.43,2.24,hondurensis,Carretera Tuxtepec-Oaxaca,1750,-96.37555556,17.63916667,M,3263,2161.183594,148.4166667,Carretera Tuxtepec-Oaxaca
 4734,10.76,14.11,6.51,12.31,6.01,6.85,2.99,21.91,2.28,hondurensis,km 72.4 Carretera Tuxtepec-Oaxaca,1200,-96.39222222,17.59555556,M,3314,1997.479492,117.75,km 72.4 Carretera Tuxtepec-Oaxaca
@@ -95,8 +95,8 @@ ncat,BRH,MZB,POW,Mast,C1C1,LMT,BL,CBL,MSF,species,localityOG,elevation,longitude
 4760,10.83,13.61,6.6,11.92,6.05,6.71,2.97,21.62,2.29,hondurensis,km 72.4 Carretera Tuxtepec-Oaxaca,1200,-96.39222222,17.59555556,M,3314,1997.479492,117.75,km 72.4 Carretera Tuxtepec-Oaxaca
 4761,10.87,14.5,6.89,12.89,6.56,7.07,3.09,22.69,2.19,hondurensis,km 72.4 Carretera Tuxtepec-Oaxaca,1200,-96.39222222,17.59555556,M,3314,1997.479492,117.75,km 72.4 Carretera Tuxtepec-Oaxaca
 4720,10.76,13.81,6.71,12.27,6.37,7.11,3.24,22.48,2.25,hondurensis,Carretera Tuxtepec-Oaxaca,1750,-96.37555556,17.63916667,M,3263,2161.183594,148.4166667,Carretera Tuxtepec-Oaxaca
-4776,10.55,12.88,6.22,11.39,5.72,6.71,3.17,21.4,2.25,hondurensis,km 91 Carretera Tuxtepec-Oaxaca,2000,-96.5,17.44361111,F,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
-4727,10.89,13.78,6.7,12.29,6.33,6.97,2.89,22.2,2.06,hondurensis,km 91 Carretera Tuxtepec-Oaxaca,2000,-96.5,17.44361111,M,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
+4776,10.55,12.88,6.22,11.39,5.72,6.71,3.17,21.4,2.25,hondurensis,km 91 Carretera Tuxtepec-Oaxaca,2e3,-96.5,17.44361111,F,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
+4727,10.89,13.78,6.7,12.29,6.33,6.97,2.89,22.2,2.06,hondurensis,km 91 Carretera Tuxtepec-Oaxaca,2e3,-96.5,17.44361111,M,1922,1686.199585,62.25,"Camino S. Isidro, Oax"
 4769,10.94,14.25,6.54,12.53,6.4,7.03,2.8,22.33,2.36,hondurensis,Carretera Tuxtepec-Oaxaca,1750,-96.37555556,17.63916667,M,3263,2161.183594,148.4166667,Carretera Tuxtepec-Oaxaca
 4765,10.88,13.73,6.62,12.12,6.16,6.79,2.89,21.93,2.11,hondurensis,Carretera Tuxtepec-Oaxaca,1750,-96.37555556,17.63916667,M,3263,2161.183594,148.4166667,Carretera Tuxtepec-Oaxaca
 4719,10.83,13.42,6.35,11.71,5.9,6.79,2.89,21.35,2.11,hondurensis,Carretera Tuxtepec-Oaxaca,1750,-96.37555556,17.63916667,F,3263,2161.183594,148.4166667,Carretera Tuxtepec-Oaxaca
@@ -133,8 +133,8 @@ ncat,BRH,MZB,POW,Mast,C1C1,LMT,BL,CBL,MSF,species,localityOG,elevation,longitude
 5957,10.93,13.39,6.32,12.4,5.87,6.76,2.95,22.07,2.06,hondurensis,2 km E de Peñamiller,1400,-99.80444444,21.06055556,M,331,2554.843994,146.8333333,2 km E de Peñamiller
 1099,10.95,13.64,6.33,11.79,5.71,6.6,2.98,21.43,2.06,hondurensis,Camargo,1840,-99.73333333,21.1,F,430,2374.874023,120.8333333,Camargo
 1100,11.04,13.29,6.18,11.85,5.48,6.59,2.72,20.7,2.16,hondurensis,Camargo,1840,-99.73333333,21.1,F,430,2374.874023,120.8333333,Camargo
-1096,10.49,13.21,6.07,11.82,5.94,6.94,2.8,21.76,2.06,hondurensis,2 km SW de Ahuacatlán,1000,-99.57416667,21.20166667,M,822,2451.960449,143,Ahuacatlán SW
-1095,11.05,14.14,6.89,11.97,5.95,7.06,2.75,21.54,2.09,hondurensis,2 km SW de Ahuacatlán,1000,-99.54305556,21.19388889,M,911,2419.228271,136.75,Ahuacatlán S
+1096,10.49,13.21,6.07,11.82,5.94,6.94,2.8,21.76,2.06,hondurensis,2 km SW de Ahuacatlán,1e3,-99.57416667,21.20166667,M,822,2451.960449,143,Ahuacatlán SW
+1095,11.05,14.14,6.89,11.97,5.95,7.06,2.75,21.54,2.09,hondurensis,2 km SW de Ahuacatlán,1e3,-99.54305556,21.19388889,M,911,2419.228271,136.75,Ahuacatlán S
 1098,11.04,13.8,6.65,11.86,5.96,6.74,2.72,21.96,2.23,hondurensis,Santa Inés,1440,-99.12611111,21.1775,M,1527,2334.202637,139.25,Santa Inés
 1136,11.25,14.01,6.42,12.02,5.58,6.61,2.99,21.28,2.35,hondurensis,14.3 km SE de Peña Blanca,1330,-99.65,20.95,F,635,2370.732178,126.6666667,14.3 km SE de Peña Blanca
 1095b,10.4,13.13,6.05,11.69,5.71,6.59,2.91,20.76,2.31,hondurensis,14.3 km SE de Peña Blanca,1330,-99.65,20.95,F,635,2370.732178,126.6666667,14.3 km SE de Peña Blanca
@@ -166,10 +166,10 @@ ncat,BRH,MZB,POW,Mast,C1C1,LMT,BL,CBL,MSF,species,localityOG,elevation,longitude
 831,10.18,12.94,6.15,11.65,5.85,6.49,2.66,19.75,2.01,parvidens,8 km N de Jalpan,800,-99.5,21.27983333,M,577,2633.810791,176.8333333,8 km N de Jalpan
 1188,10.06,13.29,6.35,11.51,5.64,6.59,2.71,19.51,1.9,parvidens,8 km N de Jalpan,800,-99.5,21.27983333,F,577,2633.810791,176.8333333,8 km N de Jalpan
 1191,10.31,12.67,6.25,11.58,5.61,6.34,2.74,19.47,1.95,parvidens,8 km N de Jalpan,800,-99.5,21.27983333,F,577,2633.810791,176.8333333,8 km N de Jalpan
-1180,10.32,13,6.2,11.9,5.57,6.51,2.67,19.6,1.96,parvidens,2 km S de Ahuacatlán,1000,-99.54305556,21.19388889,F,911,2419.228271,136.75,Ahuacatlán S
-1178,10.64,12.84,6.19,11.93,5.56,6.49,2.83,19.65,2.01,parvidens,2.8 km S de Ahuacatlán,1000,-99.54305556,21.19,F,942,2402.393311,134.1666667,Ahuacatlán S
-770,10.38,13,5.96,11.63,5.74,6.46,2.64,19.47,1.85,parvidens,2 km SW de Ahuacatlán,1000,-99.57416667,21.20166667,F,822,2451.960449,143,Ahuacatlán SW
-765,9.63,12.74,5.92,11.38,5.36,6.37,2.77,19.07,2.09,parvidens,2 km SW de Ahuacatlán,1000,-99.54305556,21.19388889,F,911,2419.228271,136.75,Ahuacatlán S
+1180,10.32,13,6.2,11.9,5.57,6.51,2.67,19.6,1.96,parvidens,2 km S de Ahuacatlán,1e3,-99.54305556,21.19388889,F,911,2419.228271,136.75,Ahuacatlán S
+1178,10.64,12.84,6.19,11.93,5.56,6.49,2.83,19.65,2.01,parvidens,2.8 km S de Ahuacatlán,1e3,-99.54305556,21.19,F,942,2402.393311,134.1666667,Ahuacatlán S
+770,10.38,13,5.96,11.63,5.74,6.46,2.64,19.47,1.85,parvidens,2 km SW de Ahuacatlán,1e3,-99.57416667,21.20166667,F,822,2451.960449,143,Ahuacatlán SW
+765,9.63,12.74,5.92,11.38,5.36,6.37,2.77,19.07,2.09,parvidens,2 km SW de Ahuacatlán,1e3,-99.54305556,21.19388889,F,911,2419.228271,136.75,Ahuacatlán S
 1210,10.35,13.09,5.92,11.79,5.86,6.67,2.71,19.47,2.1,parvidens,8 km N de Jalpan,800,-99.5,21.27983333,F,577,2633.810791,176.8333333,8 km N de Jalpan
 1102,10.37,13.16,6.13,11.3,5.62,6.27,2.52,19.46,1.91,parvidens,8 km N de Jalpan,800,-99.5,21.27983333,F,577,2633.810791,176.8333333,8 km N de Jalpan
 1213,10.63,13.7,6.06,11.99,5.51,6.3,3,19.69,2,parvidens,Camargo,1840,-99.73333333,21.1,F,430,2374.874023,120.8333333,Camargo
@@ -180,11 +180,11 @@ ncat,BRH,MZB,POW,Mast,C1C1,LMT,BL,CBL,MSF,species,localityOG,elevation,longitude
 1106,10.47,12.73,6.21,12.13,6,6.62,2.97,19.68,1.98,parvidens,Municipio Landa de Matamoros,1440,-99.12611111,21.1775,M,1527,2334.202637,139.25,Santa Inés
 820,9.68,12.18,5.74,11.4,5.24,6.47,2.71,18.91,2.06,parvidens,8 km N de Jalpan,800,-99.5,21.27983333,F,577,2633.810791,176.8333333,8 km N de Jalpan
 819,10.02,11.99,5.62,11.53,5.34,6.4,2.88,18.8,2.06,parvidens,8 km N de Jalpan,800,-99.5,21.27983333,F,577,2633.810791,176.8333333,8 km N de Jalpan
-748,10.68,13.45,6.16,11.96,5.67,6.36,2.98,19.74,1.99,parvidens,1 km S de Ahuacatlán,1000,-99.54305556,21.20166667,M,818,2462.049561,143.4166667,Ahuacatlán S
-747,10.19,12.64,5.86,11.89,5.43,6.58,3,19.36,1.82,parvidens,1 km S de Ahuacatlán,1000,-99.54305556,21.20166667,F,818,2462.049561,143.4166667,Ahuacatlán S
-1101,10.98,13.92,6.06,12.49,5.94,6.37,2.79,19.88,2.1,parvidens,1 km S de Ahuacatlán,1000,-99.54305556,21.20166667,M,818,2462.049561,143.4166667,Ahuacatlán S
-816,10.2,13.01,6.02,12.04,5.79,6.58,2.82,19.72,2.09,parvidens,2 km S de Ahuacatlán,1000,-99.54305556,21.19388889,M,911,2419.228271,136.75,Ahuacatlán S
-1165,10.58,13.55,6.15,11.88,5.58,6.32,2.83,19.79,1.84,parvidens,1 km S de Ahuacatlán,1000,-99.54305556,21.20166667,M,818,2462.049561,143.4166667,Ahuacatlán S
+748,10.68,13.45,6.16,11.96,5.67,6.36,2.98,19.74,1.99,parvidens,1 km S de Ahuacatlán,1e3,-99.54305556,21.20166667,M,818,2462.049561,143.4166667,Ahuacatlán S
+747,10.19,12.64,5.86,11.89,5.43,6.58,3,19.36,1.82,parvidens,1 km S de Ahuacatlán,1e3,-99.54305556,21.20166667,F,818,2462.049561,143.4166667,Ahuacatlán S
+1101,10.98,13.92,6.06,12.49,5.94,6.37,2.79,19.88,2.1,parvidens,1 km S de Ahuacatlán,1e3,-99.54305556,21.20166667,M,818,2462.049561,143.4166667,Ahuacatlán S
+816,10.2,13.01,6.02,12.04,5.79,6.58,2.82,19.72,2.09,parvidens,2 km S de Ahuacatlán,1e3,-99.54305556,21.19388889,M,911,2419.228271,136.75,Ahuacatlán S
+1165,10.58,13.55,6.15,11.88,5.58,6.32,2.83,19.79,1.84,parvidens,1 km S de Ahuacatlán,1e3,-99.54305556,21.20166667,M,818,2462.049561,143.4166667,Ahuacatlán S
 755,10.16,12.98,6.16,11.29,5.75,6.78,2.86,19.19,2.22,parvidens,Santa Inés,1440,-99.12611111,21.1775,F,1527,2334.202637,139.25,Santa Inés
 1201,10.09,13.17,6.1,11.45,5.76,6.53,2.81,19.95,1.91,parvidens,Santa Inés,1440,-99.12611111,21.1775,M,1527,2334.202637,139.25,Santa Inés
 1217,10.2,12.88,6.14,11.43,5.38,6.34,2.69,19.13,1.94,parvidens,Santa Inés,1440,-99.12611111,21.1775,F,1527,2334.202637,139.25,Santa Inés
@@ -211,7 +211,34 @@ AZV042,10.42,13.12,5.65,10.77,5.9,6.58,2.95,20.07,2.11,parvidens,Aticpac,548,-96
 AZV043,9.1,12.58,5.55,10.26,5.28,6.16,2.51,19.06,1.88,parvidens,Aticpac,548,-96.88697222,18.57105556,F,2125,2360.097412,187.5833333,Aticpac
 AZV152,10.93,13.88,6.32,11.06,5.73,6.76,2.57,20.68,1.93,hondurensis,Ahuatepec,1568,-97.021,18.662,F,2045,2088.377686,136.5,Ahuatepec
 AZV251,10.41,13.35,5.94,10.87,5.71,6.82,2.75,21.08,1.9,hondurensis,Palenque,959,-96.947722,18.773861,F,2188,2160.997,157.3333,Palenque
-AZV286,10.79,13.13,6.44,10.97,6.25,7.05,2.82,22.11,1.86,hondurensis,Tlacuiloltecatl chico,,96.897222,18.680556,M,1413,2337.62,186.5833,Tlacuiloltecatl chico
-AZV282,10.64,13.49,5.99,10.9,6.24,7.13,2.92,21.67,2.02,hondurensis,Tlacuiloltecatl chico,,96.897222,18.680556,M,1413,2337.62,186.5833,Tlacuiloltecatl chico
-AZV285,10.32,13.11,6.09,10.87,5.85,6.93,2.57,21.4,2.07,hondurensis,Tlacuiloltecatl chico,,96.897222,18.680556,M,1413,2337.62,186.5833,Tlacuiloltecatl chico
-AZV289,10.64,13.74,5.96,11.17,6.03,6.85,2.73,21.68,1.85,hondurensis,Tlacuiloltecatl chico,,96.897222,18.680556,M,1413,2337.62,186.5833,Tlacuiloltecatl chico
+AZV286,10.79,13.13,6.44,10.97,6.25,7.05,2.82,22.11,1.86,hondurensis,Tlacuiloltecatl chico,NA,96.897222,18.680556,M,1413,2337.62,186.5833,Tlacuiloltecatl chico
+AZV282,10.64,13.49,5.99,10.9,6.24,7.13,2.92,21.67,2.02,hondurensis,Tlacuiloltecatl chico,NA,96.897222,18.680556,M,1413,2337.62,186.5833,Tlacuiloltecatl chico
+AZV285,10.32,13.11,6.09,10.87,5.85,6.93,2.57,21.4,2.07,hondurensis,Tlacuiloltecatl chico,NA,96.897222,18.680556,M,1413,2337.62,186.5833,Tlacuiloltecatl chico
+AZV289,10.64,13.74,5.96,11.17,6.03,6.85,2.73,21.68,1.85,hondurensis,Tlacuiloltecatl chico,NA,96.897222,18.680556,M,1413,2337.62,186.5833,Tlacuiloltecatl chico
+6562,10.73,13.48,6.08,10.79,5.79,6.79,2.28,21.45,2.02,hondurensis,Chalchijapa,270,-94.59916667,17.07694444,F,2713,2144.257324,195.5833333,Chalchijapa
+14716,10.53,12.91,6.97,10.81,5.23,6.4,2.57,20.42,2.12,hondurensis,La Yerbabuena,1542,-103.67955,19.47176,F,803,2431.550537,126.3333333,La Yerbabuena
+14715,10.63,13.56,6.43,10.99,5.7,6.74,2.7,21.68,2.19,hondurensis,La Yerbabuena,1542,-103.67955,19.47176,M,803,2431.550537,126.3333333,La Yerbabuena
+5528,10.64,13.75,6.02,11.01,5.92,7,2.98,21.1,2.11,hondurensis,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",2229.916016,-99.33916667,18.96972222,F,1334,2065.971924,109.3333333,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+5525,11.05,13.59,6.03,10.78,5.97,6.86,2.88,21.51,2.12,hondurensis,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14",2229.916016,-99.33916667,18.96972222,F,1334,2065.971924,109.3333333,"Carretera Ocuilan de Arteaga-Cuernavaca, km 14"
+11468,10.62,13.57,6.45,11.23,6.02,6.68,3,21.29,2.15,hondurensis,La Yerbabuena,1500,-97.355,16.20299972,M,1562,1338.543335,153.4166667,La Yerbabuena OAX
+11346,11.49,13.72,6.41,11.04,6.19,6.8,2.96,22.11,2,hondurensis,La Yerbabuena,1500,-97.355,16.20305556,M,1562,1338.543335,153.4166667,La Yerbabuena OAX
+11264,10.51,13.36,5.81,10.79,5.4,6.31,3.1,21.34,2.08,hondurensis,Manuel Gutiérrez Nájera,878,-96.86063889,19.792,F,1187,1774.187012,178.9166667,Manuel Gutiérrez Nájera
+11263,11.12,13.02,5.94,10.72,5.43,6.36,2.88,21.38,2.12,hondurensis,Manuel Gutiérrez Nájera,878,-96.86063889,19.792,F,1187,1774.187012,178.9166667,Manuel Gutiérrez Nájera
+10258,11.24,13.23,6.15,10.76,6.2,6.84,3.02,21.93,2.09,hondurensis,"Chiquihuites, 1.3 km NNW",2444.905762,-92.10330556,15.10611111,M,3376,1050.114746,100.1666667,"Chiquihuites, 1.3 km NNW"
+10257,10.81,13.48,5.77,11.31,6,6.86,2.74,21.84,2.13,hondurensis,"Chiquihuites, 1.3 km NNW",2444.905762,-92.10330556,15.10611111,M,3376,1050.114746,100.1666667,"Chiquihuites, 1.3 km NNW"
+6555,10.03,12.55,5.31,10.51,5.31,6.09,2.45,19.21,1.9,parvidens,Chalchijapa,270,-94.59916667,17.07694444,F,2713,2144.257324,195.5833333,Chalchijapa
+14938,9.76,12.8,5.42,10.59,5.64,6.26,2.73,19.06,2.03,parvidens,Rio Colotepec,1084,-99.25558333,18.79041667,F,1014,2408.290527,177.75,Rio Colotepec
+14726,9.51,13.05,5.46,10.54,5.56,6.39,2.53,19.65,1.95,parvidens,El Limón de Cuauchichinola,950,-99.37671,18.663973,F,928,2463.940186,187.6666667,El Limón de Cuauchichinola
+6648,9.28,12.26,5.13,10.05,5.11,5.84,2.69,18.54,1.89,parvidens,X-Pechil. Peto,40.62911606,-88.87666667,20.02666667,F,1131,2661.72583,217.9166667,X-Pechil. Peto
+11467,9.97,12.87,5.74,10.56,5.44,6.15,2.65,19.4,2,parvidens,La Yerbabuena,1500,-97.355,16.20305556,F,1562,1338.543335,153.4166667,La Yerbabuena OAX
+11033,10.17,13.11,5.93,10.54,5.91,6.48,2.69,19.95,2.07,parvidens,La Yerbabuena,1500,-97.355,16.20305556,M,1562,1338.543335,153.4166667,La Yerbabuena OAX
+11271,10.72,12.46,5.59,10.44,5.86,6.44,2.77,19.71,2.05,parvidens,"Salvador Diaz Mirón, Cerro Redondo",854,-96.88,19.79694444,M,1443,1781.355225,174.8333333,"Salvador Diaz Mirón, Cerro Redondo"
+16147,10.24,13.44,5.78,10.62,5.54,6.31,2.77,19.84,1.9,parvidens,Ignacio Zaragoza,107,-96.96111111,19.98202778,M,1413,1906.430176,218.5833333,Ignacio Zaragoza
+6455,10.17,12.56,5.45,10.41,5.85,6.13,2.8,18.65,1.97,parvidens,"San Felipe Bacalar, 8 km W",47.50729752,-88.47194444,18.68166667,M,1419,1769.192383,230.0833333,"San Felipe Bacalar, 8 km W"
+6453,10.15,12.2,5.2,9.93,5.57,6.09,2.9,18.88,1.83,parvidens,"La Unión, 7 km N",60,-88.882025,17.95454722,F,1516,1830.787842,225.5833333,La Unión QR
+8791,10.05,12.79,5.46,10.47,5.63,6.07,2.43,18.84,1.89,parvidens,"Hampolol, ejido. Estación biológica CEDESU",10,-90.4,19.93305556,F,1132,2473.522217,235,"Hampolol, ejido. Estación biológica CEDESU"
+4130,9.43,12.12,5.54,10.07,5.4,6.08,2.43,18.63,1.93,parvidens,"Hampolol, ejido. Estación biológica CEDESU",10,-90.4,19.93305556,F,1132,2473.522217,235,"Hampolol, ejido. Estación biológica CEDESU"
+12469,10.21,13.05,5.68,10.48,5.77,6.55,2.72,19.44,2,parvidens,La Unión,559,-92.159444,15.004194,M,2866,1263.391724,212.5,La Unión
+12468,10.11,12.98,5.64,10.76,5.56,5.97,2.57,19.08,2.02,parvidens,La Unión,559,-92.159444,15.004194,M,2866,1263.391724,212.5,La Unión
+14720,10.26,13.95,5.67,10.81,5.69,6.53,2.63,19.79,1.9,parvidens,La Yerbabuena,1542,-103.67955,19.47176,M,803,2431.550537,126.3333333,La Yerbabuena
+14698,10.4,12.9,5.82,10.57,5.43,6.36,2.76,19.64,2.1,parvidens,R.M.O. El Jabali,1221,-103.711757,19.449359,F,757,2494.411133,142.4166667,R.M.O. El Jabali
