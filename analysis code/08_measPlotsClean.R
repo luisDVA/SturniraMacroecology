@@ -12,11 +12,12 @@ library(rlang)
 # fl and W
 sturnfull <- read.csv(here("data","flwbiocl.csv"),stringsAsFactors = FALSE,encoding = "UTF-8")
 # skulls
-batskulls <- read.csv(here("data","cranBiocl.csv"),stringsAsFactors = FALSE,encoding = "UTF-8")
+batskulls <- read.csv(here("data","cranBiocl.csv"),stringsAsFactors = FALSE)
 
 # cowplot settings
 theme_set(theme_cowplot(font_size=12, font_family = "Roboto"))
 loadfonts(device = "postscript")
+loadfonts(device = "win")
 
 # top panel, elevations
 elevationsHist <- 
@@ -31,13 +32,12 @@ ggplot(sturnfull) +
   scale_x_continuous(expand = c(0.01, 0)) +
   theme(legend.position="none",axis.text.y = element_text(face="italic"))
 
-elevationsHist
 
 # forearm length, overall
 sturniraScatterplotFL <- 
   ggplot(sturnfull) +
   geom_sina(aes(y=FL, x=species,fill=species), pch=21, color="black", maxwidth=0.35, size=0.8) +  
-  stat_summary(aes(y=FL, x=species),fun.y=mean, fun.ymin=mean, fun.ymax=mean, 
+  stat_summary(aes(y=FL, x=species),fun.y=median, fun.ymin=median, fun.ymax=median, 
                geom="crossbar", width=0.4, size=0.3,color="black")+
   scale_fill_manual(values = c("#335EAD", "#EEBB33"))+
   ggtitle("b)")+xlab("")+ ylab("forearm length (mm)")+
@@ -52,7 +52,7 @@ sturniraScatterplotFL <-
 sturniraScatterplotW <- 
   ggplot(sturnfull) +
   geom_sina(aes(y=W, x=species,fill=species), pch=21, color="black", maxwidth=0.35,size=0.8) +  
-  stat_summary(aes(y=W, x=species),fun.y=mean, fun.ymin=mean, fun.ymax=mean, 
+  stat_summary(aes(y=W, x=species),fun.y=median, fun.ymin=median, fun.ymax=median, 
                geom="crossbar", width=0.4, size=0.3,color="black")+
   scale_fill_manual(values = c("#335EAD", "#EEBB33"))+
   ggtitle("c)")+xlab("")+ylab("body mass (g)")+
@@ -78,7 +78,7 @@ batskulls$isosizes <- isosize(Skullsmat)[,1]
 sturniraScatterplotIS <- 
   ggplot(batskulls) +
   geom_sina(aes(y=isosizes, x=species,fill=species), pch=21, color="black", maxwidth=0.35, size=0.8) +  
-  stat_summary(aes(y=isosizes, x=species),fun.y=mean, fun.ymin=mean, fun.ymax=mean, 
+  stat_summary(aes(y=isosizes, x=species),fun.y=median, fun.ymin=median, fun.ymax=median, 
                geom="crossbar", width=0.4, size=0.3,color="black")+
   scale_fill_manual(values = c("#335EAD", "#EEBB33"))+
   ggtitle("d)")+xlab("")+ylab("skull isosize")+
@@ -95,7 +95,7 @@ batskulls <- read.csv(here("data","cranBiocl.csv"),stringsAsFactors = FALSE,enco
 sturniraScatterplotCBL <- 
   ggplot(batskulls) +
   geom_sina(aes(y= CBL, x=species,fill=species), pch=21, color="black", maxwidth=0.35,size=0.8) +  
-  stat_summary(aes(y= CBL, x=species),fun.y=mean, fun.ymin=mean, fun.ymax=mean, 
+  stat_summary(aes(y= CBL, x=species),fun.y=median, fun.ymin=median, fun.ymax=median, 
                geom="crossbar", width=0.4, size=0.3,color="black")+
   scale_fill_manual(values = c("#335EAD", "#EEBB33"))+
   ggtitle("e)")+xlab("")+ylab("head length (mm)")+
@@ -111,7 +111,7 @@ sturniraScatterplotLegend <-
   geom_sina(aes(fill=species),pch=21,color="black",maxwidth=0.35) +
   xlab("")+ylab("skull isosize")+
   scale_fill_manual(values = c("#335EAD","#EEBB33"),labels=c("S. hondurensis","S. parvidens"))+
-  theme(legend.text = element_text(face = "italic"),legend.title=element_blank())
+  theme(legend.text = element_text(face = "italic",family = "sans"),legend.title=element_blank())
 
 ## extract the legend 
 sharedLegend <- get_legend(sturniraScatterplotLegend+theme(legend.position="bottom",legend.justification="center"))

@@ -19,13 +19,27 @@ Alleffects <- Alleffects %>% rename(variable="term",SE=std.error)
 Alleffects$ICC <- round(Alleffects$ICC,3)
 
 # for reporting
-# drop SE, rename CI columns
-Alleffects <- Alleffects %>% select(-SE) %>% rename("CIlower"=lower,"CIupper"="upper")
-# pasteICC to model name to save space
-Alleffects <- Alleffects %>% mutate(model=paste0(body.measurement," ","(",ICC,")")) %>% 
-  select(model,everything()) %>% select(-body.measurement) %>% select(-ICC)
+# drop SE and ICC, rename CI columns
+Alleffects <- Alleffects %>% select(-SE,-ICC) %>% rename("CIlower"=lower,"CIupper"="upper")
 
-# for copying into document
-Alleffects%>% mutate_if(is.numeric, funs(formatC(.,format="g",digits = 3))) %>% 
-    write.csv(quote = FALSE,row.names = FALSE)
+# number formatting
+Alleffects <-  Alleffects %>% mutate_if(is.numeric, funs(formatC(.,format="g",digits = 2))) 
+
+# merge estimate and CIs to save space
+
+Alleffects <-
+  Alleffects %>% mutate(Estimate=paste0(estimate," ","(",CIlower," ","-"," ",CIupper,")")) %>% select(Model=body.measurement,Variable=variable,'Estimate (95CI)'=Estimate) 
+Alleffects <-
+Alleffects %>% 
+    mutate(Variable = recode(Variable,
+                        "specieshondurensis"= "species (hondurensis)",
+                        "speciesparvidens"  = "species (parvidens)",
+                        "sexM" = "sex (male)",
+                        "specieshondurensis:sympatryboth" = "species (hondurensis): occurrence (sympatry)",
+                        "speciesparvidens:sympatryboth" = "species (parvidens): occurrence (sympatry)"))
+
+
+# for pasting in .doc
+Alleffects%>% 
+  write.csv(row.names = FALSE,quote = FALSE)
 

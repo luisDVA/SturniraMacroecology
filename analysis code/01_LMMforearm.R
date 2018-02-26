@@ -32,7 +32,7 @@ sturnfull <- sturnfull %>% mutate(PETseasonality=PETseasonality/100, AnnualTmin=
 # Full model with interaction between species and x-patry
 ############
 # fit model (full)
-mod1A<-lme(FL~species*sympatry+sex+AnnualTmin+PETseasonality,random=~1|locality, data = sturnfull)
+mod1A<-lme(FL~species+species:sympatry+sex+AnnualTmin+PETseasonality-1,random=~1|locality, data = sturnfull)
 # evaluate fit
 r2beta(mod1A, method = 'nsj')
 # view effects flots
@@ -71,7 +71,7 @@ write.csv(forearmLMM,here("lmmEffects","FLoutput.csv"),row.names = FALSE)
 
 ## reduced model
 # LMM with no term for interaction between species and patry
-mod1A.lm1<-lme(FL~species+sympatry+sex+AnnualTmin+PETseasonality, random=~1|locality, data = sturnfull)
+mod1A.lm1<-lme(FL~species+sympatry+sex+AnnualTmin+PETseasonality-1, random=~1|locality, data = sturnfull)
 # residuals from reduced model
 redresFL<- residuals(mod1A.lm1)
 
@@ -96,7 +96,7 @@ cdata <-  sturnAllRes %>% group_by(sympatry,species) %>% summarize(mean = mean(r
 # difference in trait means in sympatry
 Dsym1<-((cdata[4,3]+parvboth) - (cdata[3,3] +hondboth))
 Dallo1<-((cdata[2,3]+parvallop)-(cdata[1,3]+ hondallop)) 
-DDiff<- Dsym1$mean-Dallo1$mean
+(DDiff<- Dsym1$mean-Dallo1$mean)
 
 #Permute residuals to whether DDiff is larger than expected by chance 
 #number of permutations
@@ -124,8 +124,9 @@ for (i in 2:nreps) {
 # vector of divergences from permutation
 divergence <- simplify2array(divergence)
 
-# proportion of random divergences greater than observed
-probD<-length(divergence[divergence>= DDiff])/nreps[1]
+# one tailed Random permutation test 
+probD <- (sum(divergence > DDiff) + 1) / (nreps+1)
+
 
 # for reporting
 round(c(Dsym1$mean,Dallo1$mean,DDiff,probD),3)

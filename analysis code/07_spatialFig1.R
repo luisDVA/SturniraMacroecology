@@ -3,6 +3,7 @@ library(sf)
 library(rgdal)
 library(dplyr)
 library(here)
+library(rnaturalearth)
 library(tmaptools)
 library(SDMTools)
 library(ggplot2) # dev version that has geom_sf 
@@ -23,8 +24,9 @@ sturnpointssf <- st_as_sf(sturnpoints)
 skullspointssf <- st_as_sf(skullspoints)
 
 # basemap
-divpol <- readOGR(here("data","SIG","pt_countries.shp"))
-proj4string(divpol) <- CRS("+proj=longlat +datum=WGS84")
+divpol <- ne_countries(country = c("mexico","guatemala",
+                                   "belize","el salvador",
+                                   "honduras"),scale = 50)
 divpolsf <- st_as_sf(divpol)
 
 # copy of points in projected system (INEGI Lambert conformal)
@@ -40,23 +42,31 @@ skptdensities <- extract.data(skullspointsproj@coords,skullsptdens$raster)
 sturnpointssf <-  cbind(sturnpointssf,ptdensities)
 skullspointssf <- cbind(skullspointssf, skptdensities)
 
-## plots
+## plotting
+
+# rescale sizes
+sturnpointssf$FLsc <- round(scales::rescale(sturnpointssf$FL,c(1.5,8)),1)
+skullspointssf$CBLsc <- round(scales::rescale(skullspointssf$CBL,c(1.5,8)),1)
+
+## plot
 
 fig1 <- 
 ggplot()+
   geom_sf(data=divpolsf,fill= NA)+
-  geom_sf(data=sturnpointssf,aes(shape=species,color="charcoal", fill=species,size=FL, alpha=1/ptdensities),
+  geom_sf(data=sturnpointssf,aes(shape=species,color="charcoal", fill=species,size=FLsc, alpha=1/ptdensities),
           show.legend = FALSE)+
   scale_shape_manual(values=c(21,23))+
-  scale_fill_manual(values=c("#EEBB33","#335EAD"))+
+  scale_fill_manual(values=c("#335EAD","#EEBB33"))+
   xlim(c(-108,-87))+ylim(c(14,24))+
-  scale_alpha(range = c(.06, .7))+
-  geom_sf(data=skullspointssf,pch=4,color="black",size=2,aes(alpha=1/skptdensities),
+  scale_alpha(range = c(.09, .8))+
+  scale_size_identity()+
+  geom_sf(data=skullspointssf,pch=4,color="black",aes(size=CBLsc,alpha=1/skptdensities),
           show.legend = FALSE)+
   theme(panel.grid.major = element_line(colour = 'transparent'),
         rect = element_blank(),
         plot.background = element_rect(fill = "white"),
         panel.border = element_rect(colour = "black", fill=NA, size=1))
+
 
 
 

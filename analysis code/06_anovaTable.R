@@ -15,6 +15,10 @@ Allaov <- Allaov %>% arrange(measurement)
 
 # rename column and drop DF
 Allaov <- Allaov %>% rename(model=measurement) %>% select(-df)
-# for copying into document
-Allaov %>% mutate_if(is.numeric, funs(formatC(.,format="g",digits = 3))) %>% 
+
+Allaov <-
+Allaov %>% mutate(term = recode(term,"species:sympatry"="species:occurrence"))
+
+# print
+Allaov %>% mutate_if(is.numeric, funs(formatC(.,format="g",digits = 2))) %>% 
   write.csv(quote = FALSE,row.names = FALSE)

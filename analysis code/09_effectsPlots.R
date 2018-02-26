@@ -14,6 +14,8 @@ list.files(here("lmmEffects"), pattern = ".csv$", full.names = TRUE) %>%
 
 # cowplot settings
 theme_set(theme_cowplot(font_family = "Roboto",font_size = 12))
+loadfonts(device = "postscript")
+loadfonts(device="win")
 
 # object for each measurement  
 # forearm
