@@ -14,13 +14,14 @@ The code is set up in a workflow that keeps data, code, and outputs in separate 
    * model outputs will be written here 
  * figures (optional)
    * figures will be exported here
+ * filtered
+   * store scripts with _no_sing suffix here    
 
 ### File descriptions 
 *Data*
 
 cranBiocl.csv -- Cranial measurements  
 flwbiocl.csv -- Forearm length (FL) and body mass (W) data  
-fullDataF.csv -- Specimens with both cranial and external (FL,W) data  
 spOccPatterns.csv -- Occurrence pattern for each locality (sympatry or allopatry)  
 
 *R scripts*
@@ -36,3 +37,7 @@ spOccPatterns.csv -- Occurrence pattern for each locality (sympatry or allopatry
 09_effectsPlots.R -- Effects plot for species trait means  
 Baur_isosize_fn.R -- Function to calculate skull isosizes, from Baur & Leuenberger (2011); sourced by 03_LMMisosize.R
 
+*filtered*
+LMM scripts with an added step to exclude localities where n=1
+
+SuppTables.Rmd will run the analyses necessary and create a binary output file with supplementary tables 1 and 2.
