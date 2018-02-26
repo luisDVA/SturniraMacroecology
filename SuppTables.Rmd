@@ -1,0 +1,125 @@
+---
+title: "Supplementary Tables"
+output: pdf_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  warning = FALSE,
+  comment = "#>"
+)
+library(tidyverse)
+library(here)
+library(dplyr)
+library(purrr)
+library(here)
+library(forcats)
+library(knitr)
+
+```
+
+```{r LMM_filtered, echo = FALSE, include=FALSE }
+
+# read the csv files
+# read the exported effects for reporting
+AlleffectsFilt <- 
+  list.files(here("lmmEffects","filtered"), pattern = "output.csv$", full.names = TRUE) %>% 
+  map_df(read_csv) %>% select(-est.)
+
+# relevel and arrange
+AlleffectsFilt$body.measurement <-  fct_relevel(AlleffectsFilt$body.measurement,"forearm length","body mass","skull isosize","head length")
+AlleffectsFilt <- AlleffectsFilt %>% arrange(body.measurement)
+
+# rename column
+AlleffectsFilt <- AlleffectsFilt %>% rename(variable="term",SE=std.error)
+# round ICC
+AlleffectsFilt$ICC <- round(AlleffectsFilt$ICC,3)
+
+# for reporting
+# drop SE and ICC, rename CI columns
+AlleffectsFilt <- AlleffectsFilt %>% select(-SE,-ICC) %>% rename("CIlower"=lower,"CIupper"="upper")
+
+# number formatting
+AlleffectsFilt <-  AlleffectsFilt %>% mutate_if(is.numeric, funs(formatC(.,format="g",digits = 2))) 
+
+# merge estimate and CIs to save space
+
+AlleffectsFilt <-
+  AlleffectsFilt %>% mutate(Estimate=paste0(estimate," ","(",CIlower," ","-"," ",CIupper,")")) %>% select(Model=body.measurement,Variable=variable,'Estimate (95CI)'=Estimate) 
+AlleffectsFilt <-
+  AlleffectsFilt %>% 
+  mutate(Variable = recode(Variable,
+                           "specieshondurensis"= "species (hondurensis)",
+                           "speciesparvidens"  = "species (parvidens)",
+                           "sexM" = "sex (male)",
+                           "specieshondurensis:sympatryboth" = "species (hondurensis): occurrence (sympatry)",
+                           "speciesparvidens:sympatryboth" = "species (parvidens): occurrence (sympatry)"))
+
+# for presentation purposes
+AlleffectsFilt <-
+AlleffectsFilt %>% mutate(Model=as.character(Model))
+AlleffectsFilt <-
+AlleffectsFilt %>% mutate(Model=ifelse(duplicated(.[["Model"]]),"",Model))
+```
+
+**Table S1.** Parameter estimates with upper and lower 95% confidence intervals for the linear mixed models fit separately for each body measurement, excluding localities with only one specimen. 
+
+```{r, echo=FALSE}
+SLMM <- kable(AlleffectsFilt)
+SLMM
+```
+
+
+```{r ANOVA_filtered, echo = FALSE, include = FALSE}
+# make all the csv outputs
+
+list.files(here("filtered"), pattern = "LMM", full.names = TRUE) %>%
+  map(source)
+
+# reporting LMM anova, filtered
+
+# read the exported ANOVA tables for reporting
+AllaovFilt <-
+  list.files(here("lmmEffects", "filtered"),
+             pattern = "^aov",
+             full.names = TRUE) %>%
+  map_df(read.csv)
+
+# relevel and arrange
+AllaovFilt$measurement <-
+  fct_relevel(AllaovFilt$measurement,
+              "forearm length",
+              "body mass",
+              "skull isosize",
+              "head length")
+AllaovFilt <- AllaovFilt %>% arrange(measurement) %>% select(-df)
+
+# format numbers
+AllaovFilt <-
+  AllaovFilt %>% mutate_if(is.numeric, funs(formatC(., format = "g", digits = 3)))
+
+# rename column
+AllaovFilt <- AllaovFilt %>% rename(model = measurement)
+
+AllaovFilt <-
+  AllaovFilt %>% mutate(term = dplyr::recode(term, "species:sympatry" =
+                                               "species:occurrence"))
+# formatting
+AllaovFilt <-
+AllaovFilt %>% mutate(Model=as.character(model)) %>% select(-model)
+AllaovFilt <-
+AllaovFilt %>% mutate(Model=ifelse(duplicated(.[["Model"]]),"",Model)) %>% select(Model,everything())
+
+
+```
+
+\newpage
+
+**Table S2.** ANOVA results (Wald Chi square test, one degree of freedom) for the linear mixed models fit separately for each body measurement, excluding localities with only one specimen. 
+```{r, echo=FALSE}
+Saov <- kable(AllaovFilt)
+Saov
+```
+
