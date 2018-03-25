@@ -16,6 +16,9 @@ The code is set up in a workflow that keeps data, code, and outputs in separate 
    * figures will be exported here
  * filtered
    * store scripts with _no_sing suffix here    
+ * clustered
+   * store scripts with _clustered suffix here    
+ 
 
 ### File descriptions 
 *Data*
@@ -41,4 +44,9 @@ Baur_isosize_fn.R -- Function to calculate skull isosizes, from Baur & Leuenberg
 
 LMM scripts with an added step to exclude localities where n=1
 
-SuppTables.Rmd will run the analyses necessary and create a binary output file with supplementary tables 1 and 2.
+*clustered*
+
+LMM scripts using spatial clusters instead of localities to define allopatry/sympatry.
+
+
+SuppTables.Rmd will run the necessary analyses and create a binary output file with supplementary tables S1-S4 and figures S1 and S2.
