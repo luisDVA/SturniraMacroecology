@@ -1,6 +1,11 @@
 ---
-title: "Supplementary Tables"
-output: pdf_document
+title: "Appendix I"
+output:
+  pdf_document: default
+  mainfont: Open Sans
+  html_document:
+    df_print: paged
+  word_document: default
 ---
 
 
@@ -42,7 +47,7 @@ AlleffectsFilt$ICC <- round(AlleffectsFilt$ICC,3)
 AlleffectsFilt <- AlleffectsFilt %>% select(-SE,-ICC) %>% rename("CIlower"=lower,"CIupper"="upper")
 
 # number formatting
-AlleffectsFilt <-  AlleffectsFilt %>% mutate_if(is.numeric, funs(formatC(.,format="g",digits = 2))) 
+AlleffectsFilt <-  AlleffectsFilt %>% mutate_if(is.numeric, funs(formatC(.,format="f",digits = 2))) 
 
 # merge estimate and CIs to save space
 
@@ -67,7 +72,7 @@ AlleffectsFilt %>% mutate(Model=ifelse(duplicated(.[["Model"]]),"",Model))
 **Table S1.** Parameter estimates with upper and lower 95% confidence intervals for the linear mixed models fit separately for each body measurement, excluding localities with only one specimen. 
 
 ```{r, echo=FALSE}
-SLMM <- kable(AlleffectsFilt)
+SLMM <- kable(AlleffectsFilt,align = c('l','l','r'))
 SLMM
 ```
 
@@ -98,7 +103,7 @@ AllaovFilt <- AllaovFilt %>% arrange(measurement) %>% select(-df)
 
 # format numbers
 AllaovFilt <-
-  AllaovFilt %>% mutate_if(is.numeric, funs(formatC(., format = "g", digits = 3)))
+  AllaovFilt %>% mutate_if(is.numeric, funs(formatC(., format = "f", digits = 3)))
 
 # rename column
 AllaovFilt <- AllaovFilt %>% rename(model = measurement)
@@ -110,7 +115,7 @@ AllaovFilt <-
 AllaovFilt <-
 AllaovFilt %>% mutate(Model=as.character(model)) %>% select(-model)
 AllaovFilt <-
-AllaovFilt %>% mutate(Model=ifelse(duplicated(.[["Model"]]),"",Model)) %>% select(Model,everything())
+AllaovFilt %>% mutate(Model=ifelse(duplicated(.[["Model"]]),"",Model)) %>% select(Model,everything())%>% mutate(p.value = case_when(p.value == "0.000" ~ "<0.001", TRUE ~p.value))
 
 
 ```
@@ -119,7 +124,334 @@ AllaovFilt %>% mutate(Model=ifelse(duplicated(.[["Model"]]),"",Model)) %>% selec
 
 **Table S2.** ANOVA results (Wald Chi square test, one degree of freedom) for the linear mixed models fit separately for each body measurement, excluding localities with only one specimen. 
 ```{r, echo=FALSE}
-Saov <- kable(AllaovFilt)
+Saov <- kable(AllaovFilt, align = c('l','l','r','r'))
 Saov
 ```
 
+```{r FigS1, echo = FALSE, include = FALSE}
+# sympatry effects plots with no singleton localities
+library(dplyr)
+library(purrr)
+library(here)
+library(ggplot2)
+library(cowplot)
+library(extrafont)
+
+
+# read the exported effects for plotting
+AlleffectsFilt <- 
+list.files(here("lmmEffects","filtered"), pattern = ".csv$", full.names = TRUE) %>% 
+  map_df(read.csv)
+
+# cowplot settings
+theme_set(theme_cowplot(font_family = "Roboto",font_size = 12))
+loadfonts(device = "postscript")
+#loadfonts(device="win")
+
+# object for each measurement  
+# forearm
+fleffFilt <- 
+AlleffectsFilt %>% filter(measurement=="forearm") %>%
+ggplot(aes(x=species, y=fit, pch=species,fill=species),color="black") + 
+  geom_pointrange(aes(ymin=lower, ymax=upper),size=0.9)+
+  facet_wrap(~sympatry,labeller=labeller(sympatry = c(allop="allopatry",both="sympatry")))+
+  ylab("forearm length (mm)")+xlab("")+
+  scale_shape_manual(values = c(21, 23))+
+  scale_fill_manual(values = c("#335EAD", "#EEBB33"))+
+  theme(legend.position="none",axis.text.x = element_blank(),
+        strip.background = element_rect(fill ="#FDFCFF"))
+
+# body mass
+bmeffFilt <- 
+AlleffectsFilt %>% filter(measurement=="bodyMass") %>%
+  ggplot(aes(x=species, y=fit, pch=species,fill=species),color="black") + 
+  geom_pointrange(aes(ymin=lower, ymax=upper),size=0.9)+
+  facet_wrap(~sympatry,labeller=labeller(sympatry = c(allop="allopatry",both="sympatry")))+
+  ylab("body mass (g)")+xlab("")+
+  scale_shape_manual(values = c(21, 23))+
+  scale_fill_manual(values = c("#335EAD", "#EEBB33"))+
+  theme(legend.position="none",axis.text.x = element_blank(),
+        strip.background = element_rect(fill ="#FDFCFF"))
+
+# skull isosize
+ISeffFilt <- 
+AlleffectsFilt %>% filter(measurement=="isosize") %>%
+  ggplot(aes(x=species, y=fit, pch=species,fill=species),color="black") + 
+  geom_pointrange(aes(ymin=lower, ymax=upper),size=0.9)+
+  facet_wrap(~sympatry,labeller=labeller(sympatry = c(allop="allopatry",both="sympatry")))+
+  ylab("skull isosize")+xlab("")+
+  scale_shape_manual(values = c(21, 23))+
+  scale_fill_manual(values = c("#335EAD", "#EEBB33"))+
+  theme(legend.position="none",axis.text.x = element_blank(),
+        strip.background = element_rect(fill ="#FDFCFF"))
+
+# head length
+CBLeffFilt <- 
+AlleffectsFilt %>% filter(measurement=="CBL") %>%
+  ggplot(aes(x=species, y=fit, pch=species,fill=species),color="black") + 
+  geom_pointrange(aes(ymin=lower, ymax=upper),size=0.9)+
+  facet_wrap(~sympatry,labeller=labeller(sympatry = c(allop="allopatry",both="sympatry")))+
+  ylab("head length (mm)")+xlab("")+
+  scale_shape_manual(values = c(21, 23))+
+  scale_fill_manual(values = c("#335EAD", "#EEBB33"))+
+  theme(legend.position="none",axis.text.x = element_blank(),
+        strip.background = element_rect(fill ="#FDFCFF"))
+
+
+######## side by side plots 
+# dummy plot for shared legend
+# hack to separate the elements
+legplot <- 
+  AlleffectsFilt %>% filter(measurement=="CBL") %>%
+  ggplot(aes(x=species, y=fit, pch=species,fill=species),color="black") + 
+  geom_pointrange(aes(ymin=lower, ymax=upper),size=0.9)+
+  facet_wrap(~sympatry,labeller=labeller(sympatry = c(allop="allopatry",both="sympatry")))+
+  scale_shape_manual(values = c(21, 23),labels=c("S. hondurensis   ","S. parvidens"))+
+  scale_fill_manual(values = c("#335EAD", "#EEBB33"),labels=c("S. hondurensis   ","S. parvidens"))+
+  theme(legend.text = element_text(face = "italic"),legend.title=element_blank())
+
+## extract the legend 
+sharedLegend <- get_legend(legplot+theme(legend.position="bottom",legend.justification="center"))
+
+# fig 3
+figS3 <- plot_grid(fleffFilt,bmeffFilt,ISeffFilt,CBLeffFilt,nrow = 1)
+figS3
+
+## Figure 3
+# add the legend to the row we made earlier. Give it one-third of the width of one plot (via rel_widths).
+figS3L <- plot_grid(figS3, sharedLegend,ncol = 1, rel_heights = c(1.1, .08))
+# draw
+figS3L
+# shared species 'label'
+figS3Ls <- add_sub(figS3L, "species",vjust = -4.2,size=12)
+# draw
+figS3Lsd <- ggdraw(figS3Ls)
+
+```
+
+
+**Figure S1.** Estimated values of the four body measurements for each species when in sympatry or allopatry (excluding localities with only one specimen), holding the effects of sex and environmental variables constant. Vertical lines show upper and lower 95% confidence intervals.
+
+
+
+```{r drawFig, fig.width=8.1, fig.height=3.5, echo=FALSE}
+figS3Lsd
+```
+
+
+\newpage
+
+```{r LMM_clustered, echo = FALSE, include=FALSE }
+# read the csv files
+# read the exported effects for reporting
+AlleffectsClust <- 
+  list.files(here("lmmEffects","clustered"), pattern = "output.csv$", full.names = TRUE) %>% 
+  map_df(read_csv) %>% select(-est.)
+
+# relevel and arrange
+AlleffectsClust$body.measurement <-  fct_relevel(AlleffectsClust$body.measurement,"forearm length","body mass","skull isosize","head length")
+AlleffectsClust <- AlleffectsClust %>% arrange(body.measurement)
+
+# rename column
+AlleffectsClust <- AlleffectsClust %>% rename(variable="term",SE=std.error)
+
+# round ICC
+AlleffectsClust$ICC <- round(AlleffectsClust$ICC,3)
+
+# for reporting
+# drop SE and ICC, rename CI columns
+AlleffectsClust <- AlleffectsClust %>% select(-SE,-ICC) %>% rename("CIlower"=lower,"CIupper"="upper")
+
+# number formatting
+AlleffectsClust <-  AlleffectsClust %>% mutate_if(is.numeric, funs(formatC(.,format="f",digits = 2))) 
+
+# merge estimate and CIs to save space
+
+AlleffectsClust <-
+  AlleffectsClust %>% mutate(Estimate=paste0(estimate," ","(",CIlower," ","-"," ",CIupper,")")) %>% dplyr::select(Model=body.measurement,Variable=variable,'Estimate (95CI)'=Estimate) 
+AlleffectsClust <-
+  AlleffectsClust %>% 
+  mutate(Variable = dplyr::recode(Variable,
+                           "specieshondurensis"= "species (hondurensis)",
+                           "speciesparvidens"  = "species (parvidens)",
+                           "sexM" = "sex (male)",
+                           "specieshondurensis:sympatryboth" = "species (hondurensis): occurrence (sympatry)",
+                           "speciesparvidens:sympatryboth" = "species (parvidens): occurrence (sympatry)"))
+
+# for presentation purposes
+AlleffectsClust <-
+  AlleffectsClust %>% mutate(Model=as.character(Model))
+AlleffectsClust <-
+  AlleffectsClust %>% mutate(Model=ifelse(duplicated(.[["Model"]]),"",Model))
+```
+
+**Table S3.** Parameter estimates with upper and lower 95% confidence intervals for the linear mixed models fit separately for each body measurement, defining allopatry and sympatry using spatial clustering. 
+
+```{r, echo=FALSE}
+SLMMCl <- kable(AlleffectsClust,align = c('l','l','r'))
+SLMMCl
+```
+
+
+```{r ANOVA_clustered, echo = FALSE, include = FALSE}
+# make all the csv outputs
+
+#list.files(here("clustered"), pattern = "LMM", full.names = TRUE) %>%
+# map(source)
+
+# reporting LMM anova, clustered
+
+# read the exported ANOVA tables for reporting
+AllaovClust <-
+  list.files(here("lmmEffects", "clustered"),
+             pattern = "^aov",
+             full.names = TRUE) %>%
+  map_df(read.csv)
+
+# relevel and arrange
+AllaovClust$measurement <-
+  fct_relevel(AllaovClust$measurement,
+              "forearm length",
+              "body mass",
+              "skull isosize",
+              "head length")
+AllaovClust <- AllaovClust %>% arrange(measurement) %>% select(-df)
+
+# format numbers
+AllaovClust <-
+  AllaovClust %>% mutate_if(is.numeric, funs(formatC(., format = "f", digits = 3)))
+
+# rename column
+AllaovClust <- AllaovClust %>% rename(model = measurement)
+
+AllaovClust <-
+  AllaovClust %>% mutate(term = dplyr::recode(term, "species:sympatry" =
+                                                "species:occurrence"))
+# formatting
+AllaovClust <-
+  AllaovClust %>% mutate(Model=as.character(model)) %>% select(-model)
+AllaovClust <-
+  AllaovClust %>% mutate(Model=ifelse(duplicated(.[["Model"]]),"",Model)) %>% select(Model,everything())%>% mutate(p.value = case_when(p.value == "0.000" ~ "<0.001", TRUE ~p.value))
+
+
+```
+
+\newpage
+
+**Table S4.** ANOVA results (Wald Chi square test, one degree of freedom) for the linear mixed models fit separately for each body measurement, defining allopatry and sympatry using spatial clustering. 
+```{r, echo=FALSE}
+SaovCl <- kable(AllaovClust,align = c('l','l','r','r'))
+SaovCl
+```
+
+```{r FigS2, echo = FALSE, include = FALSE}
+# sympatry effects plots with clustering approach
+library(purrr)
+library(here)
+library(ggplot2)
+library(cowplot)
+library(extrafont)
+
+
+# read the exported effects for plotting
+AlleffectsClust <- 
+  list.files(here("lmmEffects","clustered"), pattern = ".csv$", full.names = TRUE) %>% 
+  map_df(read.csv)
+
+# cowplot settings
+theme_set(theme_cowplot(font_family = "Roboto",font_size = 12))
+loadfonts(device = "postscript")
+#loadfonts(device="win")
+
+# object for each measurement  
+# forearm
+fleffClust <- 
+  AlleffectsClust %>% filter(measurement=="forearm") %>%
+  ggplot(aes(x=species, y=fit, pch=species,fill=species),color="black") + 
+  geom_pointrange(aes(ymin=lower, ymax=upper),size=0.9)+
+  facet_wrap(~sympatry,labeller=labeller(sympatry = c(allop="allopatry",both="sympatry")))+
+  ylab("forearm length (mm)")+xlab("")+
+  scale_shape_manual(values = c(21, 23))+
+  scale_fill_manual(values = c("#335EAD", "#EEBB33"))+
+  theme(legend.position="none",axis.text.x = element_blank(),
+        strip.background = element_rect(fill ="#FDFCFF"))
+
+# body mass
+bmeffClust <- 
+  AlleffectsClust %>% filter(measurement=="bodyMass") %>%
+  ggplot(aes(x=species, y=fit, pch=species,fill=species),color="black") + 
+  geom_pointrange(aes(ymin=lower, ymax=upper),size=0.9)+
+  facet_wrap(~sympatry,labeller=labeller(sympatry = c(allop="allopatry",both="sympatry")))+
+  ylab("body mass (g)")+xlab("")+
+  scale_shape_manual(values = c(21, 23))+
+  scale_fill_manual(values = c("#335EAD", "#EEBB33"))+
+  theme(legend.position="none",axis.text.x = element_blank(),
+        strip.background = element_rect(fill ="#FDFCFF"))
+
+# skull isosize
+ISeffClust <- 
+  AlleffectsClust %>% filter(measurement=="isosize") %>%
+  ggplot(aes(x=species, y=fit, pch=species,fill=species),color="black") + 
+  geom_pointrange(aes(ymin=lower, ymax=upper),size=0.9)+
+  facet_wrap(~sympatry,labeller=labeller(sympatry = c(allop="allopatry",both="sympatry")))+
+  ylab("skull isosize")+xlab("")+
+  scale_shape_manual(values = c(21, 23))+
+  scale_fill_manual(values = c("#335EAD", "#EEBB33"))+
+  theme(legend.position="none",axis.text.x = element_blank(),
+        strip.background = element_rect(fill ="#FDFCFF"))
+
+# head length
+CBLeffClust <- 
+  AlleffectsClust %>% filter(measurement=="CBL") %>%
+  ggplot(aes(x=species, y=fit, pch=species,fill=species),color="black") + 
+  geom_pointrange(aes(ymin=lower, ymax=upper),size=0.9)+
+  facet_wrap(~sympatry,labeller=labeller(sympatry = c(allop="allopatry",both="sympatry")))+
+  ylab("head length (mm)")+xlab("")+
+  scale_shape_manual(values = c(21, 23))+
+  scale_fill_manual(values = c("#335EAD", "#EEBB33"))+
+  theme(legend.position="none",axis.text.x = element_blank(),
+        strip.background = element_rect(fill ="#FDFCFF"))
+
+
+######## side by side plots 
+# dummy plot for shared legend
+# hack to separate the elements
+legplot <- 
+  AlleffectsClust %>% filter(measurement=="CBL") %>%
+  ggplot(aes(x=species, y=fit, pch=species,fill=species),color="black") + 
+  geom_pointrange(aes(ymin=lower, ymax=upper),size=0.9)+
+  facet_wrap(~sympatry,labeller=labeller(sympatry = c(allop="allopatry",both="sympatry")))+
+  scale_shape_manual(values = c(21, 23),labels=c("S. hondurensis   ","S. parvidens"))+
+  scale_fill_manual(values = c("#335EAD", "#EEBB33"),labels=c("S. hondurensis   ","S. parvidens"))+
+  theme(legend.text = element_text(face = "italic"),legend.title=element_blank())
+
+## extract the legend 
+sharedLegend <- get_legend(legplot+theme(legend.position="bottom",legend.justification="center"))
+
+# fig S2
+figS2 <- plot_grid(fleffClust,bmeffClust,ISeffClust,CBLeffClust,nrow = 1)
+figS2
+
+## Figure S2
+# add the legend to the row we made earlier. Give it one-third of the width of one plot (via rel_widths).
+figS2L <- plot_grid(figS2, sharedLegend,ncol = 1, rel_heights = c(1.1, .08))
+# draw
+figS2L
+# shared species 'label'
+figS2Ls <- add_sub(figS2L, "species",vjust = -4.2,size=12)
+# draw
+figS2Lsd <- ggdraw(figS2Ls)
+
+```
+
+
+**Figure S2.** Estimated values of the four body measurements for each species when in sympatry or allopatry (defining occurrence patterns using spatial clusering), holding the effects of sex and environmental variables constant. Vertical lines show upper and lower 95% confidence intervals.
+
+
+
+```{r drawFigS2, fig.width=8.1, fig.height=3.5, echo=FALSE}
+figS2Lsd
+```
+
+  
+> Density-based clusters were obtained using the R library 'dbscan', an epsilon value of 4ooo m and a minimum of four points for each cluser.
