@@ -1,4 +1,5 @@
 # SturniraMacroecology
+## Co-occurrence and character convergence in two Neotropical bats
 Code, data and data definition
 
 The code is set up in a workflow that keeps data, code, and outputs in separate directories and uses the 'here' package to create relative paths. To reproduce the analyses, set up the following folders in your respective R working directory.
