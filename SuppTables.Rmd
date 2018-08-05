@@ -1,12 +1,21 @@
 ---
-title: "Appendix I"
+title: "SUPPLEMENTARY DATA"
+subtitle: "Co-occurrence and character convergence in two Neotropical bats"
+author:
+  - Luis Darcy Verde Arregoitia
+  - Giovani Hernández-Canchola
+  - Luca Santini
+  - Manuel Schweizer
+  - Martín Y. Cabrera-Garrido
+  - Livia S. León-Paniagua
 output:
   pdf_document: default
-  mainfont: Open Sans
   html_document:
     df_print: paged
   word_document: default
 ---
+*Journal of Mammalogy*  
+  
 
 
 ```{r setup, include=FALSE}
@@ -69,7 +78,7 @@ AlleffectsFilt <-
 AlleffectsFilt %>% mutate(Model=ifelse(duplicated(.[["Model"]]),"",Model))
 ```
 
-**Table S1.** Parameter estimates with upper and lower 95% confidence intervals for the linear mixed models fit separately for each body measurement, excluding localities with only one specimen. 
+**Supplementary Data S1.** Parameter estimates with upper and lower 95% confidence intervals for the linear mixed models fit separately for each body measurement, excluding localities with only one specimen. 
 
 ```{r, echo=FALSE}
 SLMM <- kable(AlleffectsFilt,align = c('l','l','r'))
@@ -122,7 +131,7 @@ AllaovFilt %>% mutate(Model=ifelse(duplicated(.[["Model"]]),"",Model)) %>% selec
 
 \newpage
 
-**Table S2.** ANOVA results (Wald Chi square test, one degree of freedom) for the linear mixed models fit separately for each body measurement, excluding localities with only one specimen. 
+**Supplementary Data S2.** ANOVA results (Wald Chi square test, one degree of freedom) for the linear mixed models fit separately for each body measurement, excluding localities with only one specimen. 
 ```{r, echo=FALSE}
 Saov <- kable(AllaovFilt, align = c('l','l','r','r'))
 Saov
@@ -133,10 +142,10 @@ Saov
 library(dplyr)
 library(purrr)
 library(here)
-library(ggplot2)
 library(cowplot)
+library(ggplot2)
 library(extrafont)
-
+library(hrbrthemes)
 
 # read the exported effects for plotting
 AlleffectsFilt <- 
@@ -145,8 +154,7 @@ list.files(here("lmmEffects","filtered"), pattern = ".csv$", full.names = TRUE) 
 
 # cowplot settings
 theme_set(theme_cowplot(font_family = "Roboto",font_size = 12))
-loadfonts(device = "postscript")
-#loadfonts(device="win")
+
 
 # object for each measurement  
 # forearm
@@ -230,7 +238,7 @@ figS3Lsd <- ggdraw(figS3Ls)
 ```
 
 
-**Figure S1.** Estimated values of the four body measurements for each species when in sympatry or allopatry (excluding localities with only one specimen), holding the effects of sex and environmental variables constant. Vertical lines show upper and lower 95% confidence intervals.
+**Supplementary Data S3.** Estimated values of the four body measurements for each species when in sympatry or allopatry (excluding localities with only one specimen), holding the effects of sex and environmental variables constant. Vertical lines show upper and lower 95% confidence intervals.
 
 
 
@@ -285,7 +293,7 @@ AlleffectsClust <-
   AlleffectsClust %>% mutate(Model=ifelse(duplicated(.[["Model"]]),"",Model))
 ```
 
-**Table S3.** Parameter estimates with upper and lower 95% confidence intervals for the linear mixed models fit separately for each body measurement, defining allopatry and sympatry using spatial clustering. 
+**Supplementary Data S4.** Parameter estimates with upper and lower 95% confidence intervals for the linear mixed models fit separately for each body measurement, defining allopatry and sympatry using spatial clustering. 
 
 ```{r, echo=FALSE}
 SLMMCl <- kable(AlleffectsClust,align = c('l','l','r'))
@@ -338,7 +346,7 @@ AllaovClust <-
 
 \newpage
 
-**Table S4.** ANOVA results (Wald Chi square test, one degree of freedom) for the linear mixed models fit separately for each body measurement, defining allopatry and sympatry using spatial clustering. 
+**Supplementary Data S5.** ANOVA results (Wald Chi square test, one degree of freedom) for the linear mixed models fit separately for each body measurement, defining allopatry and sympatry using spatial clustering. 
 ```{r, echo=FALSE}
 SaovCl <- kable(AllaovClust,align = c('l','l','r','r'))
 SaovCl
@@ -360,8 +368,6 @@ AlleffectsClust <-
 
 # cowplot settings
 theme_set(theme_cowplot(font_family = "Roboto",font_size = 12))
-loadfonts(device = "postscript")
-#loadfonts(device="win")
 
 # object for each measurement  
 # forearm
@@ -445,7 +451,7 @@ figS2Lsd <- ggdraw(figS2Ls)
 ```
 
 
-**Figure S2.** Estimated values of the four body measurements for each species when in sympatry or allopatry (defining occurrence patterns using spatial clusering), holding the effects of sex and environmental variables constant. Vertical lines show upper and lower 95% confidence intervals.
+**Supplementary Data S6.** Estimated values of the four body measurements for each species when in sympatry or allopatry (defining occurrence patterns using spatial clusering), holding the effects of sex and environmental variables constant. Vertical lines show upper and lower 95% confidence intervals.
 
 
 
@@ -455,3 +461,37 @@ figS2Lsd
 
   
 > Density-based clusters were obtained using the R library 'dbscan', an epsilon value of 4ooo m and a minimum of four points for each cluser.
+
+\newpage
+
+**Supplementary Data S7.** Test statistics and p-values for modified signed-likelihood ratio tests (M.SLRT) for equality of coefficients of variation by species in relation to their co-occurrence.  
+
+```{r cv tests, echo=FALSE}
+cvtestsResraw <- read.csv(here("variability_tests","vartests.csv"),stringsAsFactors = FALSE)
+# format numbers
+cvtestsRes <- cvtestsResraw %>% mutate_if(is.numeric, funs(formatC(., format = "f", digits = 3)))
+cvoutkable <- kable(cvtestsRes,align = c('l','l','r','r'))
+cvoutkable
+```
+
+```{r specimen list setup, echo=FALSE, include=FALSE}
+# external measurements and environment
+sturnfull <- read.csv(here("data","flwbiocl.csv"),stringsAsFactors = FALSE, encoding = "UTF-8") %>%  mutate(spIDs=if_else(!is.na(ncat),as.character(ncat),collector))
+# read the skull data
+batskulls <- read.csv(here("data","cranBiocl.csv"),stringsAsFactors = FALSE, fileEncoding = "UTF-8")
+pander::panderOptions("p.wrap",'')
+```
+
+**Supplementary Data S8.** Specimens examined. All specimens are housed in the Mammalogy Collection, Museo de Zoología "Alfonso L. Herrera", Facultad de Ciencias, Universidad Nacional Autónoma de México. Listings show catalog numbers or unique collector IDs. Morphology and location data for each specimen are available in the online repository (https://github.com/luisDVA/SturniraMacroecology)
+
+Skulls examined  
+  
+```{r echo=FALSE}
+pander::pander(batskulls$ncat)
+```
+
+Skins examined  
+  
+```{r echo=FALSE}
+pander::pander(sturnfull$spIDs)
+```
