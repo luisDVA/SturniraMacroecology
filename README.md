@@ -38,8 +38,8 @@ spOccPatterns.csv -- Occurrence pattern for each locality (sympatry or allopatry
 06_anovaTable.R -- Reporting the ANOVAs from the linear mixed models  
 07_spatialFig1.R -- Plotting the specimen localities  
 08_measPlotsClean.R -- Descriptive plots of the specimen measurements  
-09_effectsPlots.R -- Effects plot for species trait means
-10_cv_equality.R -- Test for equality in coefficients of variation
+09_effectsPlots.R -- Effects plot for species trait means  
+10_cv_equality.R -- Test for equality in coefficients of variation  
 Baur_isosize_fn.R -- Function to calculate skull isosizes, from Baur & Leuenberger (2011); sourced by 03_LMMisosize.R
 
 *filtered*
@@ -52,4 +52,4 @@ LMM scripts using spatial clusters instead of localities to define allopatry/sym
 
 ---
 
-> SuppTables.Rmd will run the necessary analyses and create a binary output file with Supplementary Data S1-S8.
+SuppTables.Rmd will run the necessary analyses and create a binary output file with Supplementary Data S1-S8.
