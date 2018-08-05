@@ -17,8 +17,9 @@ The code is set up in a workflow that keeps data, code, and outputs in separate 
  * filtered
    * store scripts with _no_sing suffix here    
  * clustered
-   * store scripts with _clustered suffix here    
- 
+   * store scripts with _clustered suffix here
+ * variability_tests
+   * write outputs from tests of equality of coefficients of variation here
 
 ### File descriptions 
 *Data*
@@ -37,7 +38,8 @@ spOccPatterns.csv -- Occurrence pattern for each locality (sympatry or allopatry
 06_anovaTable.R -- Reporting the ANOVAs from the linear mixed models  
 07_spatialFig1.R -- Plotting the specimen localities  
 08_measPlotsClean.R -- Descriptive plots of the specimen measurements  
-09_effectsPlots.R -- Effects plot for species trait means  
+09_effectsPlots.R -- Effects plot for species trait means
+10_cv_equality.R -- Test for equality in coefficients of variation
 Baur_isosize_fn.R -- Function to calculate skull isosizes, from Baur & Leuenberger (2011); sourced by 03_LMMisosize.R
 
 *filtered*
