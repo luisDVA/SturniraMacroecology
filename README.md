@@ -50,5 +50,6 @@ LMM scripts with an added step to exclude localities where n=1
 
 LMM scripts using spatial clusters instead of localities to define allopatry/sympatry.
 
+---
 
-> SuppTables.Rmd will run the necessary analyses and create a binary output file with supplementary tables S1-S4 and figures S1 and S2.
+> SuppTables.Rmd will run the necessary analyses and create a binary output file with Supplementary Data S1-S8.
